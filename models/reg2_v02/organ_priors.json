@@ -1,0 +1,44 @@
+{
+  "organs": [
+    {
+      "organ": "Prostate",
+      "count": 2418
+    },
+    {
+      "organ": "Breast",
+      "count": 2212
+    },
+    {
+      "organ": "Stomach",
+      "count": 1757
+    },
+    {
+      "organ": "Colon",
+      "count": 1751
+    },
+    {
+      "organ": "Urinary bladder",
+      "count": 1079
+    },
+    {
+      "organ": "Lung",
+      "count": 945
+    },
+    {
+      "organ": "Uterine cervix",
+      "count": 812
+    },
+    {
+      "organ": "Rectum",
+      "count": 244
+    },
+    {
+      "organ": "Nipple",
+      "count": 1
+    },
+    {
+      "organ": "Anus",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "slots": [
+    "breast_tubule_score",
+    "breast_nuclear_score",
+    "breast_mitotic_score",
+    "breast_overall_score",
+    "dcis_nuclear_grade",
+    "dcis_necrosis_present",
+    "dcis_necrosis_type"
+  ],
+  "slot_questions": {
+    "breast_tubule_score": "what is the score for tubular differentiation",
+    "breast_nuclear_score": "what is the score for nuclear pleomorphism",
+    "breast_mitotic_score": "what is the score for mitotic rate",
+    "breast_overall_score": "what is the overall score",
+    "dcis_nuclear_grade": "what is the nuclear grade of lesion",
+    "dcis_necrosis_present": "is there any necrosis present",
+    "dcis_necrosis_type": "what is the type of necrosis"
+  },
+  "vocabs": {
+    "breast_tubule_score": [
+      "3",
+      "2",
+      "1",
+      "<other>"
+    ],
+    "breast_nuclear_score": [
+      "2",
+      "3",
+      "1",
+      "<other>"
+    ],
+    "breast_mitotic_score": [
+      "1",
+      "2",
+      "3",
+      "<other>"
+    ],
+    "breast_overall_score": [
+      "6",
+      "7",
+      "5",
+      "8",
+      "4",
+      "9",
+      "3",
+      "<other>"
+    ],
+    "dcis_nuclear_grade": [
+      "Intermediate",
+      "High",
+      "Low",
+      "<other>"
+    ],
+    "dcis_necrosis_present": [
+      "Yes, there is a necrosis.",
+      "No, there is no necrosis.",
+      "<other>"
+    ],
+    "dcis_necrosis_type": [
+      "Comedo-type necrosis",
+      "Focal necrosis",
+      "Necrosis",
+      "<other>"
+    ]
+  },
+  "features": "features/report_fused_titan_h1_v2_256",
+  "feat_keys": [
+    "fused"
+  ],
+  "organ": "breast",
+  "hidden": 1024,
+  "num_layers": 1,
+  "dropout": 0.15,
+  "seed": 0
+}

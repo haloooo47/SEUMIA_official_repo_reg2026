@@ -1,0 +1,37 @@
+{
+  "heads": [
+    "organ_colorectal",
+    "procedure_colorectal",
+    "procedure_breast",
+    "procedure_cervix"
+  ],
+  "vocabs": {
+    "organ_colorectal": [
+      "colon",
+      "rectum"
+    ],
+    "procedure_colorectal": [
+      "biopsy",
+      "polypectomy",
+      "emr",
+      "esd"
+    ],
+    "procedure_breast": [
+      "core_needle",
+      "mammotome",
+      "stereotactic"
+    ],
+    "procedure_cervix": [
+      "colposcopic",
+      "punch",
+      "leep",
+      "<other>"
+    ]
+  },
+  "features": "features/report_fused_titan_h1_v2_256",
+  "feat_key": "fused",
+  "hidden": 768,
+  "num_layers": 1,
+  "dropout": 0.2,
+  "seed": 2026
+}

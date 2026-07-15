@@ -1,0 +1,28 @@
+{
+  "Breast␟Micro-invasive carcinoma": [
+    "Micro-invasive carcinoma",
+    "Ductal carcinoma in situ"
+  ],
+  "Breast␟3": [
+    "3",
+    "Columnar cell lesion",
+    "Pseudoangiomatous stromal hyperplasia"
+  ],
+  "Breast␟Columnar cell change": [
+    "Columnar cell change",
+    "Sclerosing adenosis",
+    "Microcalcification"
+  ],
+  "Nipple␟Papillary neoplasm": [
+    "Papillary neoplasm",
+    "Microcalcification"
+  ],
+  "Breast␟Ductal carcinoma in situ in intraductal papilloma": [
+    "Ductal carcinoma in situ in intraductal papilloma",
+    "Microcalcification"
+  ],
+  "Breast␟Invasive cribriform carcinoma": [
+    "Invasive cribriform carcinoma",
+    "Ductal carcinoma in situ"
+  ]
+}

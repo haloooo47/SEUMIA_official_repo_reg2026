@@ -1,0 +1,9 @@
+models
+test
+tests
+evaluation
+docs
+*.tar.gz
+**/__pycache__
+**/*.pyc
+.git

@@ -1,0 +1,12 @@
+# PyTorch CUDA wheels installed in Dockerfile before this file (GPU-capable linux/amd64).
+numpy
+Pillow
+transformers
+accelerate
+safetensors
+sentencepiece
+protobuf
+scikit-learn
+spacy
+sentence-transformers
+psutil

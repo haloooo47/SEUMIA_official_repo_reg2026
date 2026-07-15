@@ -1,0 +1,2920 @@
+{
+  "version": "labelgraph_taxonomy_v1",
+  "source": "train_CoT_v01.json",
+  "split": "train",
+  "min_dx_count": 1,
+  "focus_organs": [
+    "Prostate",
+    "Breast",
+    "Colon",
+    "Rectum",
+    "Lung",
+    "Uterine cervix",
+    "Urinary bladder",
+    "Stomach"
+  ],
+  "challenge_organ_group": {
+    "Prostate": "Prostate",
+    "Breast": "Breast",
+    "Colon": "Colorectal",
+    "Rectum": "Colorectal",
+    "Lung": "Lung",
+    "Uterine cervix": "Uterine cervix",
+    "Urinary bladder": "Urinary bladder",
+    "Stomach": "Stomach",
+    "Nipple": "Breast",
+    "Anus": "Colorectal"
+  },
+  "organ_family_head": {
+    "Breast": "breast_family",
+    "Prostate": "prostate_tumor",
+    "Colon": "colorectal_family",
+    "Rectum": "colorectal_family",
+    "Lung": "lung_family",
+    "Stomach": "stomach_family",
+    "Uterine cervix": "cervix_family",
+    "Urinary bladder": "bladder_family"
+  },
+  "organ_vocab": [
+    "Prostate",
+    "Breast",
+    "Colon",
+    "Stomach",
+    "Urinary bladder",
+    "Lung",
+    "Uterine cervix",
+    "Rectum",
+    "Nipple",
+    "Anus"
+  ],
+  "organ_to_family_vocab": {
+    "Prostate": [
+      {
+        "label": "acinar_adenocarcinoma",
+        "count": 1369
+      },
+      {
+        "label": "no_tumor",
+        "count": 690
+      },
+      {
+        "label": "<other>",
+        "count": 3
+      }
+    ],
+    "Breast": [
+      {
+        "label": "invasive_nst",
+        "count": 921
+      },
+      {
+        "label": "dcis",
+        "count": 288
+      },
+      {
+        "label": "papillary",
+        "count": 155
+      },
+      {
+        "label": "benign_proliferative",
+        "count": 137
+      },
+      {
+        "label": "fibroepithelial_fibroadenoma",
+        "count": 110
+      },
+      {
+        "label": "invasive_lobular",
+        "count": 86
+      },
+      {
+        "label": "other_malignant",
+        "count": 69
+      },
+      {
+        "label": "<other>",
+        "count": 47
+      },
+      {
+        "label": "no_tumor",
+        "count": 30
+      },
+      {
+        "label": "adh",
+        "count": 28
+      }
+    ],
+    "Colon": [
+      {
+        "label": "adenoma_serrated",
+        "count": 637
+      },
+      {
+        "label": "carcinoma",
+        "count": 456
+      },
+      {
+        "label": "inflammation",
+        "count": 245
+      },
+      {
+        "label": "hyperplastic",
+        "count": 158
+      },
+      {
+        "label": "lymphoma_malt",
+        "count": 6
+      },
+      {
+        "label": "other_neoplasm",
+        "count": 5
+      }
+    ],
+    "Stomach": [
+      {
+        "label": "carcinoma",
+        "count": 654
+      },
+      {
+        "label": "adenoma_polyp",
+        "count": 430
+      },
+      {
+        "label": "gastritis",
+        "count": 278
+      },
+      {
+        "label": "lymphoma_malt",
+        "count": 106
+      },
+      {
+        "label": "other_neoplasm",
+        "count": 20
+      },
+      {
+        "label": "<other>",
+        "count": 2
+      }
+    ],
+    "Urinary bladder": [
+      {
+        "label": "subepithelial_invasive",
+        "count": 251
+      },
+      {
+        "label": "noninvasive_high_grade",
+        "count": 244
+      },
+      {
+        "label": "noninvasive_low_grade",
+        "count": 139
+      },
+      {
+        "label": "muscle_invasive",
+        "count": 112
+      },
+      {
+        "label": "cis",
+        "count": 79
+      },
+      {
+        "label": "no_tumor",
+        "count": 68
+      },
+      {
+        "label": "variant_differentiation",
+        "count": 23
+      }
+    ],
+    "Lung": [
+      {
+        "label": "adenocarcinoma",
+        "count": 371
+      },
+      {
+        "label": "squamous",
+        "count": 153
+      },
+      {
+        "label": "non_small_cell",
+        "count": 126
+      },
+      {
+        "label": "no_malignancy",
+        "count": 62
+      },
+      {
+        "label": "small_cell",
+        "count": 61
+      },
+      {
+        "label": "granulomatous",
+        "count": 45
+      },
+      {
+        "label": "neuroendocrine",
+        "count": 5
+      },
+      {
+        "label": "fungal",
+        "count": 4
+      },
+      {
+        "label": "<other>",
+        "count": 1
+      }
+    ],
+    "Uterine cervix": [
+      {
+        "label": "lsil_cin1",
+        "count": 298
+      },
+      {
+        "label": "hsil_cin3",
+        "count": 150
+      },
+      {
+        "label": "hsil_cin2",
+        "count": 130
+      },
+      {
+        "label": "invasive_scc",
+        "count": 57
+      },
+      {
+        "label": "benign_inflammatory",
+        "count": 36
+      },
+      {
+        "label": "glandular_neoplasm",
+        "count": 13
+      },
+      {
+        "label": "<other>",
+        "count": 4
+      }
+    ],
+    "Rectum": [
+      {
+        "label": "carcinoma",
+        "count": 132
+      },
+      {
+        "label": "inflammation",
+        "count": 33
+      },
+      {
+        "label": "adenoma_serrated",
+        "count": 27
+      },
+      {
+        "label": "other_neoplasm",
+        "count": 10
+      },
+      {
+        "label": "lymphoma_malt",
+        "count": 3
+      },
+      {
+        "label": "hyperplastic",
+        "count": 1
+      }
+    ],
+    "Nipple": [
+      {
+        "label": "<other>",
+        "count": 1
+      }
+    ],
+    "Anus": [
+      {
+        "label": "<other>",
+        "count": 1
+      }
+    ]
+  },
+  "organ_to_dx_pool": {
+    "Prostate": [
+      {
+        "label": "Acinar adenocarcinoma",
+        "count": 1369
+      },
+      {
+        "label": "No tumor present",
+        "count": 690
+      },
+      {
+        "label": "Malignant lymphoma",
+        "count": 2
+      },
+      {
+        "label": "Small cell carcinoma",
+        "count": 1
+      }
+    ],
+    "Breast": [
+      {
+        "label": "Invasive carcinoma of no special type, grade II",
+        "count": 631
+      },
+      {
+        "label": "Ductal carcinoma in situ",
+        "count": 286
+      },
+      {
+        "label": "Invasive carcinoma of no special type, grade I",
+        "count": 179
+      },
+      {
+        "label": "Papillary neoplasm",
+        "count": 140
+      },
+      {
+        "label": "Invasive carcinoma of no special type, grade III",
+        "count": 111
+      },
+      {
+        "label": "Invasive lobular carcinoma",
+        "count": 85
+      },
+      {
+        "label": "Fibroepithelial tumor",
+        "count": 50
+      },
+      {
+        "label": "Mucinous carcinoma",
+        "count": 41
+      },
+      {
+        "label": "Columnar cell lesion",
+        "count": 33
+      },
+      {
+        "label": "Fibroepithelial tumor, favor fibroadenoma",
+        "count": 30
+      },
+      {
+        "label": "No evidence of tumor",
+        "count": 30
+      },
+      {
+        "label": "Fibrocystic change",
+        "count": 28
+      },
+      {
+        "label": "Atypical ductal hyperplasia",
+        "count": 26
+      },
+      {
+        "label": "Usual ductal hyperplasia",
+        "count": 26
+      },
+      {
+        "label": "Sclerosing adenosis",
+        "count": 16
+      },
+      {
+        "label": "Fibroadenoma",
+        "count": 15
+      },
+      {
+        "label": "Intraductal papilloma",
+        "count": 13
+      },
+      {
+        "label": "Intraductal papilloma with usual ductal hyperplasia",
+        "count": 13
+      },
+      {
+        "label": "Duct ectasia",
+        "count": 11
+      },
+      {
+        "label": "Fibroadenomatoid change",
+        "count": 10
+      },
+      {
+        "label": "Malignant lymphoma",
+        "count": 9
+      },
+      {
+        "label": "Pseudoangiomatous stromal hyperplasia",
+        "count": 9
+      },
+      {
+        "label": "Micro-invasive carcinoma",
+        "count": 7
+      },
+      {
+        "label": "Invasive micropapillary carcinoma",
+        "count": 7
+      },
+      {
+        "label": "Invasive carcinoma with features of mucinous carcinoma",
+        "count": 6
+      },
+      {
+        "label": "Phyllodes tumor",
+        "count": 5
+      },
+      {
+        "label": "Fibroepithelial tumor, favor phyllodes tumor",
+        "count": 5
+      },
+      {
+        "label": "Foreign body reaction",
+        "count": 5
+      },
+      {
+        "label": "Flat epithelial atypia",
+        "count": 4
+      },
+      {
+        "label": "Fat necrosis",
+        "count": 3
+      },
+      {
+        "label": "Metaplastic carcinoma",
+        "count": 3
+      },
+      {
+        "label": "Solid papillary carcinoma in situ",
+        "count": 3
+      },
+      {
+        "label": "Apocrine metaplasia",
+        "count": 3
+      },
+      {
+        "label": "Lobular carcinoma in situ",
+        "count": 3
+      },
+      {
+        "label": "Granulomatous lobular mastitis",
+        "count": 2
+      },
+      {
+        "label": "Ductal carcinoma in situ in intraductal papilloma",
+        "count": 2
+      },
+      {
+        "label": "Apocrine adenosis",
+        "count": 2
+      },
+      {
+        "label": "Papillary neoplasm with atypical ductal hyperplasia",
+        "count": 2
+      },
+      {
+        "label": "Invasive cribriform carcinoma",
+        "count": 2
+      },
+      {
+        "label": "Carcinoma with apocrine differentiation",
+        "count": 2
+      },
+      {
+        "label": "Intraductal papilloma with atypical ductal hyperplasia",
+        "count": 2
+      },
+      {
+        "label": "Intraductal papilloma with apocrine metaplasia",
+        "count": 1
+      },
+      {
+        "label": "3",
+        "count": 1
+      },
+      {
+        "label": "Papillary neoplasm with apocrine metaplasia",
+        "count": 1
+      },
+      {
+        "label": "Columnar cell change",
+        "count": 1
+      },
+      {
+        "label": "Papillary neoplasm with usual ductal hyperplasia",
+        "count": 1
+      },
+      {
+        "label": "Columnar cell hyperplasia",
+        "count": 1
+      },
+      {
+        "label": "Desmoid fibromatosis",
+        "count": 1
+      },
+      {
+        "label": "Invasive lobular carcinoma, pleomorphic type",
+        "count": 1
+      },
+      {
+        "label": "Tubular carcinoma",
+        "count": 1
+      },
+      {
+        "label": "Solid papillary carcinoma",
+        "count": 1
+      },
+      {
+        "label": "Invasive carcinoma with mixed ductal and lobular features",
+        "count": 1
+      }
+    ],
+    "Colon": [
+      {
+        "label": "Tubular adenoma",
+        "count": 483
+      },
+      {
+        "label": "Adenocarcinoma, moderately differentiated",
+        "count": 300
+      },
+      {
+        "label": "Chronic nonspecific inflammation",
+        "count": 196
+      },
+      {
+        "label": "Hyperplastic polyp",
+        "count": 158
+      },
+      {
+        "label": "Adenocarcinoma, well differentiated",
+        "count": 109
+      },
+      {
+        "label": "Tubulovillous adenoma",
+        "count": 93
+      },
+      {
+        "label": "Sessile serrated lesion",
+        "count": 56
+      },
+      {
+        "label": "Chronic active colitis",
+        "count": 48
+      },
+      {
+        "label": "Adenocarcinoma, poorly differentiated",
+        "count": 29
+      },
+      {
+        "label": "Mucinous adenocarcinoma",
+        "count": 7
+      },
+      {
+        "label": "Malignant lymphoma",
+        "count": 4
+      },
+      {
+        "label": "Signet-ring cell carcinoma",
+        "count": 4
+      },
+      {
+        "label": "Adenocarcinoma, moderately differentiated with mucinous component",
+        "count": 3
+      },
+      {
+        "label": "Traditional serrated adenoma",
+        "count": 3
+      },
+      {
+        "label": "Adenocarcinoma, well differentiated with mucinous component",
+        "count": 3
+      },
+      {
+        "label": "Neuroendocrine tumor, grade 1",
+        "count": 2
+      },
+      {
+        "label": "Small cell carcinoma",
+        "count": 2
+      },
+      {
+        "label": "Extranodal marginal zone lymphoma of mucosa-associated lymphoid tissue (MALT lymphoma)",
+        "count": 2
+      },
+      {
+        "label": "Sessile serrated lesion with low grade dysplasia",
+        "count": 2
+      },
+      {
+        "label": "Inflammatory polyp",
+        "count": 1
+      },
+      {
+        "label": "Adenocarcinoma, poorly differentiated with mucinous component",
+        "count": 1
+      },
+      {
+        "label": "Gastrointestinal stromal tumor",
+        "count": 1
+      }
+    ],
+    "Stomach": [
+      {
+        "label": "Tubular adenoma",
+        "count": 418
+      },
+      {
+        "label": "Adenocarcinoma, moderately differentiated",
+        "count": 261
+      },
+      {
+        "label": "Chronic gastritis",
+        "count": 203
+      },
+      {
+        "label": "Adenocarcinoma, well differentiated",
+        "count": 144
+      },
+      {
+        "label": "Adenocarcinoma, poorly differentiated",
+        "count": 137
+      },
+      {
+        "label": "Adenocarcinoma, poorly differentiated with poorly cohesive carcinoma component",
+        "count": 83
+      },
+      {
+        "label": "Extranodal marginal zone B cell lymphoma of MALT type",
+        "count": 82
+      },
+      {
+        "label": "Chronic active gastritis",
+        "count": 75
+      },
+      {
+        "label": "Malignant lymphoma",
+        "count": 24
+      },
+      {
+        "label": "Poorly cohesive carcinoma, signet-ring cell type",
+        "count": 12
+      },
+      {
+        "label": "Poorly cohesive carcinoma, not otherwise specified",
+        "count": 10
+      },
+      {
+        "label": "Small cell carcinoma",
+        "count": 7
+      },
+      {
+        "label": "Fundic gland polyp",
+        "count": 6
+      },
+      {
+        "label": "Foveolar-type adenoma",
+        "count": 6
+      },
+      {
+        "label": "Squamous cell carcinoma",
+        "count": 4
+      },
+      {
+        "label": "Gastrointestinal stromal tumor",
+        "count": 4
+      },
+      {
+        "label": "Malignant melanoma",
+        "count": 4
+      },
+      {
+        "label": "Amyloidosis",
+        "count": 2
+      },
+      {
+        "label": "Mucinous adenocarcinoma",
+        "count": 2
+      },
+      {
+        "label": "Adenocarcinoma, moderately differentiated with poorly cohesive carcinoma component",
+        "count": 1
+      },
+      {
+        "label": "Neuroendocrine tumor, grade 1",
+        "count": 1
+      },
+      {
+        "label": "Adenocarcinoma, moderately differentiated with mucinous component",
+        "count": 1
+      },
+      {
+        "label": "Adenocarcinoma, moderately differentiated with signet-ring cell component",
+        "count": 1
+      },
+      {
+        "label": "Adenocarcinoma, moderately differentiated with signet-ring cell component and mucinous component",
+        "count": 1
+      },
+      {
+        "label": "Adenocarcinoma, poorly differentiated with signet-ring cell component",
+        "count": 1
+      }
+    ],
+    "Urinary bladder": [
+      {
+        "label": "Invasive urothelial carcinoma with involvement of subepithelial connective tissue",
+        "count": 251
+      },
+      {
+        "label": "Non-invasive papillary urothelial carcinoma, high grade",
+        "count": 237
+      },
+      {
+        "label": "Non-invasive papillary urothelial carcinoma, low grade",
+        "count": 139
+      },
+      {
+        "label": "Invasive urothelial carcinoma with involvement of muscle proper",
+        "count": 112
+      },
+      {
+        "label": "Urothelial carcinoma in situ",
+        "count": 79
+      },
+      {
+        "label": "No tumor present",
+        "count": 68
+      },
+      {
+        "label": "Invasive urothelial carcinoma with squamous differentiation",
+        "count": 23
+      },
+      {
+        "label": "Non-invasive papillary urothelial carcinoma, high grade, with squamous differentiation",
+        "count": 7
+      }
+    ],
+    "Lung": [
+      {
+        "label": "Adenocarcinoma",
+        "count": 345
+      },
+      {
+        "label": "Squamous cell carcinoma",
+        "count": 153
+      },
+      {
+        "label": "No evidence of malignancy or granuloma",
+        "count": 62
+      },
+      {
+        "label": "Small cell carcinoma",
+        "count": 61
+      },
+      {
+        "label": "Non-small cell carcinoma, favor squamous cell carcinoma",
+        "count": 57
+      },
+      {
+        "label": "Non-small cell carcinoma, favor adenocarcinoma",
+        "count": 55
+      },
+      {
+        "label": "Chronic granulomatous inflammation with necrosis",
+        "count": 32
+      },
+      {
+        "label": "Invasive mucinous adenocarcinoma",
+        "count": 16
+      },
+      {
+        "label": "Non-small cell carcinoma, not otherwise specified",
+        "count": 14
+      },
+      {
+        "label": "Chronic granulomatous inflammation without necrosis",
+        "count": 13
+      },
+      {
+        "label": "Metastatic adenocarcinoma, from colorectal primary",
+        "count": 10
+      },
+      {
+        "label": "Carcinoid/neuroendocrine tumor, NOS",
+        "count": 4
+      },
+      {
+        "label": "Fungal ball, morphologically consistent with Aspergillus spp.",
+        "count": 3
+      },
+      {
+        "label": "Fungal infection, morphologically consistent with Cryptococcus spp.",
+        "count": 1
+      },
+      {
+        "label": "Sclerosing pneumocytoma",
+        "count": 1
+      },
+      {
+        "label": "Large cell neuroendocrine carcinoma",
+        "count": 1
+      }
+    ],
+    "Uterine cervix": [
+      {
+        "label": "Low-grade squamous intraepithelial lesion (LSIL; CIN 1)",
+        "count": 298
+      },
+      {
+        "label": "High-grade squamous intraepithelial lesion (HSIL; CIN 3)",
+        "count": 118
+      },
+      {
+        "label": "High-grade squamous intraepithelial lesion (HSIL; CIN 2)",
+        "count": 117
+      },
+      {
+        "label": "Invasive squamous cell carcinoma",
+        "count": 57
+      },
+      {
+        "label": "High-grade squamous intraepithelial lesion (HSIL; CIN 3) with glandular involvement",
+        "count": 32
+      },
+      {
+        "label": "Chronic nonspecific cervicitis",
+        "count": 25
+      },
+      {
+        "label": "High-grade squamous intraepithelial lesion (HSIL; CIN 2) with glandular involvement",
+        "count": 13
+      },
+      {
+        "label": "Endocervical adenocarcinoma in situ (AIS), HPV-associated",
+        "count": 7
+      },
+      {
+        "label": "Chronic active cervicitis",
+        "count": 5
+      },
+      {
+        "label": "Chronic nonspecific cervicitis with squamous metaplasia",
+        "count": 3
+      },
+      {
+        "label": "Endometrioid carcinoma",
+        "count": 2
+      },
+      {
+        "label": "Endocervical adenocarcinoma, HPV-independent, gastric type",
+        "count": 2
+      },
+      {
+        "label": "Endocervical adenocarcinoma, HPV-associated, usual type",
+        "count": 2
+      },
+      {
+        "label": "Endocervical polyp with radiation change",
+        "count": 1
+      },
+      {
+        "label": "Microglandular hyperplasia",
+        "count": 1
+      },
+      {
+        "label": "High-grade serous carcinoma",
+        "count": 1
+      },
+      {
+        "label": "Endocervical polyp",
+        "count": 1
+      },
+      {
+        "label": "Adenocarcinoma, favor colorectal primary",
+        "count": 1
+      },
+      {
+        "label": "Endocervical adenocarcinoma, HPV-independent, clear cell type",
+        "count": 1
+      },
+      {
+        "label": "Serous carcinoma",
+        "count": 1
+      }
+    ],
+    "Rectum": [
+      {
+        "label": "Adenocarcinoma, moderately differentiated",
+        "count": 100
+      },
+      {
+        "label": "Chronic nonspecific inflammation",
+        "count": 33
+      },
+      {
+        "label": "Adenocarcinoma, well differentiated",
+        "count": 26
+      },
+      {
+        "label": "Tubular adenoma",
+        "count": 19
+      },
+      {
+        "label": "Neuroendocrine tumor, grade 1",
+        "count": 8
+      },
+      {
+        "label": "Adenocarcinoma, poorly differentiated",
+        "count": 5
+      },
+      {
+        "label": "Tubulovillous adenoma",
+        "count": 4
+      },
+      {
+        "label": "Malignant lymphoma",
+        "count": 2
+      },
+      {
+        "label": "Traditional serrated adenoma",
+        "count": 1
+      },
+      {
+        "label": "Gastrointestinal stromal tumor",
+        "count": 1
+      },
+      {
+        "label": "Signet-ring cell carcinoma",
+        "count": 1
+      },
+      {
+        "label": "Extranodal marginal zone lymphoma of mucosa-associated lymphoid tissue (MALT lymphoma)",
+        "count": 1
+      },
+      {
+        "label": "Hyperplastic polyp",
+        "count": 1
+      },
+      {
+        "label": "Traditional serrated adenoma with low grade dysplasia",
+        "count": 1
+      },
+      {
+        "label": "Sessile serrated lesion with low grade dysplasia",
+        "count": 1
+      },
+      {
+        "label": "Squamous cell carcinoma",
+        "count": 1
+      },
+      {
+        "label": "Sessile serrated lesion",
+        "count": 1
+      }
+    ],
+    "Nipple": [
+      {
+        "label": "Papillary neoplasm",
+        "count": 1
+      }
+    ],
+    "Anus": [
+      {
+        "label": "Adenocarcinoma, moderately differentiated",
+        "count": 1
+      }
+    ]
+  },
+  "organ_family_to_dx_pool": {
+    "Prostate": {
+      "acinar_adenocarcinoma": [
+        {
+          "label": "Acinar adenocarcinoma",
+          "count": 1369
+        }
+      ],
+      "no_tumor": [
+        {
+          "label": "No tumor present",
+          "count": 690
+        }
+      ],
+      "<other>": [
+        {
+          "label": "Malignant lymphoma",
+          "count": 2
+        },
+        {
+          "label": "Small cell carcinoma",
+          "count": 1
+        }
+      ]
+    },
+    "Breast": {
+      "invasive_nst": [
+        {
+          "label": "Invasive carcinoma of no special type, grade II",
+          "count": 631
+        },
+        {
+          "label": "Invasive carcinoma of no special type, grade I",
+          "count": 179
+        },
+        {
+          "label": "Invasive carcinoma of no special type, grade III",
+          "count": 111
+        }
+      ],
+      "dcis": [
+        {
+          "label": "Ductal carcinoma in situ",
+          "count": 286
+        },
+        {
+          "label": "Ductal carcinoma in situ in intraductal papilloma",
+          "count": 2
+        }
+      ],
+      "adh": [
+        {
+          "label": "Atypical ductal hyperplasia",
+          "count": 26
+        },
+        {
+          "label": "Intraductal papilloma with atypical ductal hyperplasia",
+          "count": 2
+        }
+      ],
+      "papillary": [
+        {
+          "label": "Papillary neoplasm",
+          "count": 140
+        },
+        {
+          "label": "Invasive micropapillary carcinoma",
+          "count": 7
+        },
+        {
+          "label": "Solid papillary carcinoma in situ",
+          "count": 3
+        },
+        {
+          "label": "Papillary neoplasm with atypical ductal hyperplasia",
+          "count": 2
+        },
+        {
+          "label": "Papillary neoplasm with apocrine metaplasia",
+          "count": 1
+        },
+        {
+          "label": "Papillary neoplasm with usual ductal hyperplasia",
+          "count": 1
+        },
+        {
+          "label": "Solid papillary carcinoma",
+          "count": 1
+        }
+      ],
+      "fibroepithelial_fibroadenoma": [
+        {
+          "label": "Fibroepithelial tumor",
+          "count": 50
+        },
+        {
+          "label": "Fibroepithelial tumor, favor fibroadenoma",
+          "count": 30
+        },
+        {
+          "label": "Fibroadenoma",
+          "count": 15
+        },
+        {
+          "label": "Fibroadenomatoid change",
+          "count": 10
+        },
+        {
+          "label": "Fibroepithelial tumor, favor phyllodes tumor",
+          "count": 5
+        }
+      ],
+      "benign_proliferative": [
+        {
+          "label": "Columnar cell lesion",
+          "count": 33
+        },
+        {
+          "label": "Fibrocystic change",
+          "count": 28
+        },
+        {
+          "label": "Usual ductal hyperplasia",
+          "count": 26
+        },
+        {
+          "label": "Sclerosing adenosis",
+          "count": 16
+        },
+        {
+          "label": "Intraductal papilloma with usual ductal hyperplasia",
+          "count": 13
+        },
+        {
+          "label": "Duct ectasia",
+          "count": 11
+        },
+        {
+          "label": "Apocrine metaplasia",
+          "count": 3
+        },
+        {
+          "label": "Apocrine adenosis",
+          "count": 2
+        },
+        {
+          "label": "Carcinoma with apocrine differentiation",
+          "count": 2
+        },
+        {
+          "label": "Intraductal papilloma with apocrine metaplasia",
+          "count": 1
+        },
+        {
+          "label": "Columnar cell change",
+          "count": 1
+        },
+        {
+          "label": "Columnar cell hyperplasia",
+          "count": 1
+        }
+      ],
+      "other_malignant": [
+        {
+          "label": "Mucinous carcinoma",
+          "count": 41
+        },
+        {
+          "label": "Micro-invasive carcinoma",
+          "count": 7
+        },
+        {
+          "label": "Invasive carcinoma with features of mucinous carcinoma",
+          "count": 6
+        },
+        {
+          "label": "Phyllodes tumor",
+          "count": 5
+        },
+        {
+          "label": "Metaplastic carcinoma",
+          "count": 3
+        },
+        {
+          "label": "Lobular carcinoma in situ",
+          "count": 3
+        },
+        {
+          "label": "Invasive cribriform carcinoma",
+          "count": 2
+        },
+        {
+          "label": "Tubular carcinoma",
+          "count": 1
+        },
+        {
+          "label": "Invasive carcinoma with mixed ductal and lobular features",
+          "count": 1
+        }
+      ],
+      "invasive_lobular": [
+        {
+          "label": "Invasive lobular carcinoma",
+          "count": 85
+        },
+        {
+          "label": "Invasive lobular carcinoma, pleomorphic type",
+          "count": 1
+        }
+      ],
+      "<other>": [
+        {
+          "label": "Intraductal papilloma",
+          "count": 13
+        },
+        {
+          "label": "Malignant lymphoma",
+          "count": 9
+        },
+        {
+          "label": "Pseudoangiomatous stromal hyperplasia",
+          "count": 9
+        },
+        {
+          "label": "Foreign body reaction",
+          "count": 5
+        },
+        {
+          "label": "Flat epithelial atypia",
+          "count": 4
+        },
+        {
+          "label": "Fat necrosis",
+          "count": 3
+        },
+        {
+          "label": "Granulomatous lobular mastitis",
+          "count": 2
+        },
+        {
+          "label": "3",
+          "count": 1
+        },
+        {
+          "label": "Desmoid fibromatosis",
+          "count": 1
+        }
+      ],
+      "no_tumor": [
+        {
+          "label": "No evidence of tumor",
+          "count": 30
+        }
+      ]
+    },
+    "Colon": {
+      "adenoma_serrated": [
+        {
+          "label": "Tubular adenoma",
+          "count": 483
+        },
+        {
+          "label": "Tubulovillous adenoma",
+          "count": 93
+        },
+        {
+          "label": "Sessile serrated lesion",
+          "count": 56
+        },
+        {
+          "label": "Traditional serrated adenoma",
+          "count": 3
+        },
+        {
+          "label": "Sessile serrated lesion with low grade dysplasia",
+          "count": 2
+        }
+      ],
+      "carcinoma": [
+        {
+          "label": "Adenocarcinoma, moderately differentiated",
+          "count": 300
+        },
+        {
+          "label": "Adenocarcinoma, well differentiated",
+          "count": 109
+        },
+        {
+          "label": "Adenocarcinoma, poorly differentiated",
+          "count": 29
+        },
+        {
+          "label": "Mucinous adenocarcinoma",
+          "count": 7
+        },
+        {
+          "label": "Signet-ring cell carcinoma",
+          "count": 4
+        },
+        {
+          "label": "Adenocarcinoma, moderately differentiated with mucinous component",
+          "count": 3
+        },
+        {
+          "label": "Adenocarcinoma, well differentiated with mucinous component",
+          "count": 3
+        },
+        {
+          "label": "Adenocarcinoma, poorly differentiated with mucinous component",
+          "count": 1
+        }
+      ],
+      "inflammation": [
+        {
+          "label": "Chronic nonspecific inflammation",
+          "count": 196
+        },
+        {
+          "label": "Chronic active colitis",
+          "count": 48
+        },
+        {
+          "label": "Inflammatory polyp",
+          "count": 1
+        }
+      ],
+      "lymphoma_malt": [
+        {
+          "label": "Malignant lymphoma",
+          "count": 4
+        },
+        {
+          "label": "Extranodal marginal zone lymphoma of mucosa-associated lymphoid tissue (MALT lymphoma)",
+          "count": 2
+        }
+      ],
+      "other_neoplasm": [
+        {
+          "label": "Neuroendocrine tumor, grade 1",
+          "count": 2
+        },
+        {
+          "label": "Small cell carcinoma",
+          "count": 2
+        },
+        {
+          "label": "Gastrointestinal stromal tumor",
+          "count": 1
+        }
+      ],
+      "hyperplastic": [
+        {
+          "label": "Hyperplastic polyp",
+          "count": 158
+        }
+      ]
+    },
+    "Stomach": {
+      "other_neoplasm": [
+        {
+          "label": "Small cell carcinoma",
+          "count": 7
+        },
+        {
+          "label": "Squamous cell carcinoma",
+          "count": 4
+        },
+        {
+          "label": "Gastrointestinal stromal tumor",
+          "count": 4
+        },
+        {
+          "label": "Malignant melanoma",
+          "count": 4
+        },
+        {
+          "label": "Neuroendocrine tumor, grade 1",
+          "count": 1
+        }
+      ],
+      "gastritis": [
+        {
+          "label": "Chronic gastritis",
+          "count": 203
+        },
+        {
+          "label": "Chronic active gastritis",
+          "count": 75
+        }
+      ],
+      "carcinoma": [
+        {
+          "label": "Adenocarcinoma, moderately differentiated",
+          "count": 261
+        },
+        {
+          "label": "Adenocarcinoma, well differentiated",
+          "count": 144
+        },
+        {
+          "label": "Adenocarcinoma, poorly differentiated",
+          "count": 137
+        },
+        {
+          "label": "Adenocarcinoma, poorly differentiated with poorly cohesive carcinoma component",
+          "count": 83
+        },
+        {
+          "label": "Poorly cohesive carcinoma, signet-ring cell type",
+          "count": 12
+        },
+        {
+          "label": "Poorly cohesive carcinoma, not otherwise specified",
+          "count": 10
+        },
+        {
+          "label": "Mucinous adenocarcinoma",
+          "count": 2
+        },
+        {
+          "label": "Adenocarcinoma, moderately differentiated with poorly cohesive carcinoma component",
+          "count": 1
+        },
+        {
+          "label": "Adenocarcinoma, moderately differentiated with mucinous component",
+          "count": 1
+        },
+        {
+          "label": "Adenocarcinoma, moderately differentiated with signet-ring cell component",
+          "count": 1
+        },
+        {
+          "label": "Adenocarcinoma, moderately differentiated with signet-ring cell component and mucinous component",
+          "count": 1
+        },
+        {
+          "label": "Adenocarcinoma, poorly differentiated with signet-ring cell component",
+          "count": 1
+        }
+      ],
+      "adenoma_polyp": [
+        {
+          "label": "Tubular adenoma",
+          "count": 418
+        },
+        {
+          "label": "Fundic gland polyp",
+          "count": 6
+        },
+        {
+          "label": "Foveolar-type adenoma",
+          "count": 6
+        }
+      ],
+      "lymphoma_malt": [
+        {
+          "label": "Extranodal marginal zone B cell lymphoma of MALT type",
+          "count": 82
+        },
+        {
+          "label": "Malignant lymphoma",
+          "count": 24
+        }
+      ],
+      "<other>": [
+        {
+          "label": "Amyloidosis",
+          "count": 2
+        }
+      ]
+    },
+    "Urinary bladder": {
+      "no_tumor": [
+        {
+          "label": "No tumor present",
+          "count": 68
+        }
+      ],
+      "variant_differentiation": [
+        {
+          "label": "Invasive urothelial carcinoma with squamous differentiation",
+          "count": 23
+        }
+      ],
+      "noninvasive_high_grade": [
+        {
+          "label": "Non-invasive papillary urothelial carcinoma, high grade",
+          "count": 237
+        },
+        {
+          "label": "Non-invasive papillary urothelial carcinoma, high grade, with squamous differentiation",
+          "count": 7
+        }
+      ],
+      "subepithelial_invasive": [
+        {
+          "label": "Invasive urothelial carcinoma with involvement of subepithelial connective tissue",
+          "count": 251
+        }
+      ],
+      "muscle_invasive": [
+        {
+          "label": "Invasive urothelial carcinoma with involvement of muscle proper",
+          "count": 112
+        }
+      ],
+      "cis": [
+        {
+          "label": "Urothelial carcinoma in situ",
+          "count": 79
+        }
+      ],
+      "noninvasive_low_grade": [
+        {
+          "label": "Non-invasive papillary urothelial carcinoma, low grade",
+          "count": 139
+        }
+      ]
+    },
+    "Lung": {
+      "non_small_cell": [
+        {
+          "label": "Non-small cell carcinoma, favor squamous cell carcinoma",
+          "count": 57
+        },
+        {
+          "label": "Non-small cell carcinoma, favor adenocarcinoma",
+          "count": 55
+        },
+        {
+          "label": "Non-small cell carcinoma, not otherwise specified",
+          "count": 14
+        }
+      ],
+      "adenocarcinoma": [
+        {
+          "label": "Adenocarcinoma",
+          "count": 345
+        },
+        {
+          "label": "Invasive mucinous adenocarcinoma",
+          "count": 16
+        },
+        {
+          "label": "Metastatic adenocarcinoma, from colorectal primary",
+          "count": 10
+        }
+      ],
+      "squamous": [
+        {
+          "label": "Squamous cell carcinoma",
+          "count": 153
+        }
+      ],
+      "small_cell": [
+        {
+          "label": "Small cell carcinoma",
+          "count": 61
+        }
+      ],
+      "neuroendocrine": [
+        {
+          "label": "Carcinoid/neuroendocrine tumor, NOS",
+          "count": 4
+        },
+        {
+          "label": "Large cell neuroendocrine carcinoma",
+          "count": 1
+        }
+      ],
+      "no_malignancy": [
+        {
+          "label": "No evidence of malignancy or granuloma",
+          "count": 62
+        }
+      ],
+      "granulomatous": [
+        {
+          "label": "Chronic granulomatous inflammation with necrosis",
+          "count": 32
+        },
+        {
+          "label": "Chronic granulomatous inflammation without necrosis",
+          "count": 13
+        }
+      ],
+      "fungal": [
+        {
+          "label": "Fungal ball, morphologically consistent with Aspergillus spp.",
+          "count": 3
+        },
+        {
+          "label": "Fungal infection, morphologically consistent with Cryptococcus spp.",
+          "count": 1
+        }
+      ],
+      "<other>": [
+        {
+          "label": "Sclerosing pneumocytoma",
+          "count": 1
+        }
+      ]
+    },
+    "Uterine cervix": {
+      "lsil_cin1": [
+        {
+          "label": "Low-grade squamous intraepithelial lesion (LSIL; CIN 1)",
+          "count": 298
+        }
+      ],
+      "hsil_cin3": [
+        {
+          "label": "High-grade squamous intraepithelial lesion (HSIL; CIN 3)",
+          "count": 118
+        },
+        {
+          "label": "High-grade squamous intraepithelial lesion (HSIL; CIN 3) with glandular involvement",
+          "count": 32
+        }
+      ],
+      "<other>": [
+        {
+          "label": "Endometrioid carcinoma",
+          "count": 2
+        },
+        {
+          "label": "High-grade serous carcinoma",
+          "count": 1
+        },
+        {
+          "label": "Serous carcinoma",
+          "count": 1
+        }
+      ],
+      "benign_inflammatory": [
+        {
+          "label": "Chronic nonspecific cervicitis",
+          "count": 25
+        },
+        {
+          "label": "Chronic active cervicitis",
+          "count": 5
+        },
+        {
+          "label": "Chronic nonspecific cervicitis with squamous metaplasia",
+          "count": 3
+        },
+        {
+          "label": "Endocervical polyp with radiation change",
+          "count": 1
+        },
+        {
+          "label": "Microglandular hyperplasia",
+          "count": 1
+        },
+        {
+          "label": "Endocervical polyp",
+          "count": 1
+        }
+      ],
+      "hsil_cin2": [
+        {
+          "label": "High-grade squamous intraepithelial lesion (HSIL; CIN 2)",
+          "count": 117
+        },
+        {
+          "label": "High-grade squamous intraepithelial lesion (HSIL; CIN 2) with glandular involvement",
+          "count": 13
+        }
+      ],
+      "glandular_neoplasm": [
+        {
+          "label": "Endocervical adenocarcinoma in situ (AIS), HPV-associated",
+          "count": 7
+        },
+        {
+          "label": "Endocervical adenocarcinoma, HPV-independent, gastric type",
+          "count": 2
+        },
+        {
+          "label": "Endocervical adenocarcinoma, HPV-associated, usual type",
+          "count": 2
+        },
+        {
+          "label": "Adenocarcinoma, favor colorectal primary",
+          "count": 1
+        },
+        {
+          "label": "Endocervical adenocarcinoma, HPV-independent, clear cell type",
+          "count": 1
+        }
+      ],
+      "invasive_scc": [
+        {
+          "label": "Invasive squamous cell carcinoma",
+          "count": 57
+        }
+      ]
+    },
+    "Rectum": {
+      "inflammation": [
+        {
+          "label": "Chronic nonspecific inflammation",
+          "count": 33
+        }
+      ],
+      "carcinoma": [
+        {
+          "label": "Adenocarcinoma, moderately differentiated",
+          "count": 100
+        },
+        {
+          "label": "Adenocarcinoma, well differentiated",
+          "count": 26
+        },
+        {
+          "label": "Adenocarcinoma, poorly differentiated",
+          "count": 5
+        },
+        {
+          "label": "Signet-ring cell carcinoma",
+          "count": 1
+        }
+      ],
+      "adenoma_serrated": [
+        {
+          "label": "Tubular adenoma",
+          "count": 19
+        },
+        {
+          "label": "Tubulovillous adenoma",
+          "count": 4
+        },
+        {
+          "label": "Traditional serrated adenoma",
+          "count": 1
+        },
+        {
+          "label": "Traditional serrated adenoma with low grade dysplasia",
+          "count": 1
+        },
+        {
+          "label": "Sessile serrated lesion with low grade dysplasia",
+          "count": 1
+        },
+        {
+          "label": "Sessile serrated lesion",
+          "count": 1
+        }
+      ],
+      "lymphoma_malt": [
+        {
+          "label": "Malignant lymphoma",
+          "count": 2
+        },
+        {
+          "label": "Extranodal marginal zone lymphoma of mucosa-associated lymphoid tissue (MALT lymphoma)",
+          "count": 1
+        }
+      ],
+      "other_neoplasm": [
+        {
+          "label": "Neuroendocrine tumor, grade 1",
+          "count": 8
+        },
+        {
+          "label": "Gastrointestinal stromal tumor",
+          "count": 1
+        },
+        {
+          "label": "Squamous cell carcinoma",
+          "count": 1
+        }
+      ],
+      "hyperplastic": [
+        {
+          "label": "Hyperplastic polyp",
+          "count": 1
+        }
+      ]
+    },
+    "Nipple": {
+      "<other>": [
+        {
+          "label": "Papillary neoplasm",
+          "count": 1
+        }
+      ]
+    },
+    "Anus": {
+      "<other>": [
+        {
+          "label": "Adenocarcinoma, moderately differentiated",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "dx_to_family": {
+    "3": {
+      "family": "<other>",
+      "count": 1
+    },
+    "Acinar adenocarcinoma": {
+      "family": "acinar_adenocarcinoma",
+      "count": 1369
+    },
+    "Adenocarcinoma": {
+      "family": "adenocarcinoma",
+      "count": 345
+    },
+    "Adenocarcinoma, favor colorectal primary": {
+      "family": "glandular_neoplasm",
+      "count": 1
+    },
+    "Adenocarcinoma, moderately differentiated": {
+      "family": "carcinoma",
+      "count": 661
+    },
+    "Adenocarcinoma, moderately differentiated with mucinous component": {
+      "family": "carcinoma",
+      "count": 4
+    },
+    "Adenocarcinoma, moderately differentiated with poorly cohesive carcinoma component": {
+      "family": "carcinoma",
+      "count": 1
+    },
+    "Adenocarcinoma, moderately differentiated with signet-ring cell component": {
+      "family": "carcinoma",
+      "count": 1
+    },
+    "Adenocarcinoma, moderately differentiated with signet-ring cell component and mucinous component": {
+      "family": "carcinoma",
+      "count": 1
+    },
+    "Adenocarcinoma, poorly differentiated": {
+      "family": "carcinoma",
+      "count": 171
+    },
+    "Adenocarcinoma, poorly differentiated with mucinous component": {
+      "family": "carcinoma",
+      "count": 1
+    },
+    "Adenocarcinoma, poorly differentiated with poorly cohesive carcinoma component": {
+      "family": "carcinoma",
+      "count": 83
+    },
+    "Adenocarcinoma, poorly differentiated with signet-ring cell component": {
+      "family": "carcinoma",
+      "count": 1
+    },
+    "Adenocarcinoma, well differentiated": {
+      "family": "carcinoma",
+      "count": 279
+    },
+    "Adenocarcinoma, well differentiated with mucinous component": {
+      "family": "carcinoma",
+      "count": 3
+    },
+    "Amyloidosis": {
+      "family": "<other>",
+      "count": 2
+    },
+    "Apocrine adenosis": {
+      "family": "benign_proliferative",
+      "count": 2
+    },
+    "Apocrine metaplasia": {
+      "family": "benign_proliferative",
+      "count": 3
+    },
+    "Atypical ductal hyperplasia": {
+      "family": "adh",
+      "count": 26
+    },
+    "Carcinoid/neuroendocrine tumor, NOS": {
+      "family": "neuroendocrine",
+      "count": 4
+    },
+    "Carcinoma with apocrine differentiation": {
+      "family": "benign_proliferative",
+      "count": 2
+    },
+    "Chronic active cervicitis": {
+      "family": "benign_inflammatory",
+      "count": 5
+    },
+    "Chronic active colitis": {
+      "family": "inflammation",
+      "count": 48
+    },
+    "Chronic active gastritis": {
+      "family": "gastritis",
+      "count": 75
+    },
+    "Chronic gastritis": {
+      "family": "gastritis",
+      "count": 203
+    },
+    "Chronic granulomatous inflammation with necrosis": {
+      "family": "granulomatous",
+      "count": 32
+    },
+    "Chronic granulomatous inflammation without necrosis": {
+      "family": "granulomatous",
+      "count": 13
+    },
+    "Chronic nonspecific cervicitis": {
+      "family": "benign_inflammatory",
+      "count": 25
+    },
+    "Chronic nonspecific cervicitis with squamous metaplasia": {
+      "family": "benign_inflammatory",
+      "count": 3
+    },
+    "Chronic nonspecific inflammation": {
+      "family": "inflammation",
+      "count": 229
+    },
+    "Columnar cell change": {
+      "family": "benign_proliferative",
+      "count": 1
+    },
+    "Columnar cell hyperplasia": {
+      "family": "benign_proliferative",
+      "count": 1
+    },
+    "Columnar cell lesion": {
+      "family": "benign_proliferative",
+      "count": 33
+    },
+    "Desmoid fibromatosis": {
+      "family": "<other>",
+      "count": 1
+    },
+    "Duct ectasia": {
+      "family": "benign_proliferative",
+      "count": 11
+    },
+    "Ductal carcinoma in situ": {
+      "family": "dcis",
+      "count": 286
+    },
+    "Ductal carcinoma in situ in intraductal papilloma": {
+      "family": "dcis",
+      "count": 2
+    },
+    "Endocervical adenocarcinoma in situ (AIS), HPV-associated": {
+      "family": "glandular_neoplasm",
+      "count": 7
+    },
+    "Endocervical adenocarcinoma, HPV-associated, usual type": {
+      "family": "glandular_neoplasm",
+      "count": 2
+    },
+    "Endocervical adenocarcinoma, HPV-independent, clear cell type": {
+      "family": "glandular_neoplasm",
+      "count": 1
+    },
+    "Endocervical adenocarcinoma, HPV-independent, gastric type": {
+      "family": "glandular_neoplasm",
+      "count": 2
+    },
+    "Endocervical polyp": {
+      "family": "benign_inflammatory",
+      "count": 1
+    },
+    "Endocervical polyp with radiation change": {
+      "family": "benign_inflammatory",
+      "count": 1
+    },
+    "Endometrioid carcinoma": {
+      "family": "<other>",
+      "count": 2
+    },
+    "Extranodal marginal zone B cell lymphoma of MALT type": {
+      "family": "lymphoma_malt",
+      "count": 82
+    },
+    "Extranodal marginal zone lymphoma of mucosa-associated lymphoid tissue (MALT lymphoma)": {
+      "family": "lymphoma_malt",
+      "count": 3
+    },
+    "Fat necrosis": {
+      "family": "<other>",
+      "count": 3
+    },
+    "Fibroadenoma": {
+      "family": "fibroepithelial_fibroadenoma",
+      "count": 15
+    },
+    "Fibroadenomatoid change": {
+      "family": "fibroepithelial_fibroadenoma",
+      "count": 10
+    },
+    "Fibrocystic change": {
+      "family": "benign_proliferative",
+      "count": 28
+    },
+    "Fibroepithelial tumor": {
+      "family": "fibroepithelial_fibroadenoma",
+      "count": 50
+    },
+    "Fibroepithelial tumor, favor fibroadenoma": {
+      "family": "fibroepithelial_fibroadenoma",
+      "count": 30
+    },
+    "Fibroepithelial tumor, favor phyllodes tumor": {
+      "family": "fibroepithelial_fibroadenoma",
+      "count": 5
+    },
+    "Flat epithelial atypia": {
+      "family": "<other>",
+      "count": 4
+    },
+    "Foreign body reaction": {
+      "family": "<other>",
+      "count": 5
+    },
+    "Foveolar-type adenoma": {
+      "family": "adenoma_polyp",
+      "count": 6
+    },
+    "Fundic gland polyp": {
+      "family": "adenoma_polyp",
+      "count": 6
+    },
+    "Fungal ball, morphologically consistent with Aspergillus spp.": {
+      "family": "fungal",
+      "count": 3
+    },
+    "Fungal infection, morphologically consistent with Cryptococcus spp.": {
+      "family": "fungal",
+      "count": 1
+    },
+    "Gastrointestinal stromal tumor": {
+      "family": "other_neoplasm",
+      "count": 6
+    },
+    "Granulomatous lobular mastitis": {
+      "family": "<other>",
+      "count": 2
+    },
+    "High-grade serous carcinoma": {
+      "family": "<other>",
+      "count": 1
+    },
+    "High-grade squamous intraepithelial lesion (HSIL; CIN 2)": {
+      "family": "hsil_cin2",
+      "count": 117
+    },
+    "High-grade squamous intraepithelial lesion (HSIL; CIN 2) with glandular involvement": {
+      "family": "hsil_cin2",
+      "count": 13
+    },
+    "High-grade squamous intraepithelial lesion (HSIL; CIN 3)": {
+      "family": "hsil_cin3",
+      "count": 118
+    },
+    "High-grade squamous intraepithelial lesion (HSIL; CIN 3) with glandular involvement": {
+      "family": "hsil_cin3",
+      "count": 32
+    },
+    "Hyperplastic polyp": {
+      "family": "hyperplastic",
+      "count": 159
+    },
+    "Inflammatory polyp": {
+      "family": "inflammation",
+      "count": 1
+    },
+    "Intraductal papilloma": {
+      "family": "<other>",
+      "count": 13
+    },
+    "Intraductal papilloma with apocrine metaplasia": {
+      "family": "benign_proliferative",
+      "count": 1
+    },
+    "Intraductal papilloma with atypical ductal hyperplasia": {
+      "family": "adh",
+      "count": 2
+    },
+    "Intraductal papilloma with usual ductal hyperplasia": {
+      "family": "benign_proliferative",
+      "count": 13
+    },
+    "Invasive carcinoma of no special type, grade I": {
+      "family": "invasive_nst",
+      "count": 179
+    },
+    "Invasive carcinoma of no special type, grade II": {
+      "family": "invasive_nst",
+      "count": 631
+    },
+    "Invasive carcinoma of no special type, grade III": {
+      "family": "invasive_nst",
+      "count": 111
+    },
+    "Invasive carcinoma with features of mucinous carcinoma": {
+      "family": "other_malignant",
+      "count": 6
+    },
+    "Invasive carcinoma with mixed ductal and lobular features": {
+      "family": "other_malignant",
+      "count": 1
+    },
+    "Invasive cribriform carcinoma": {
+      "family": "other_malignant",
+      "count": 2
+    },
+    "Invasive lobular carcinoma": {
+      "family": "invasive_lobular",
+      "count": 85
+    },
+    "Invasive lobular carcinoma, pleomorphic type": {
+      "family": "invasive_lobular",
+      "count": 1
+    },
+    "Invasive micropapillary carcinoma": {
+      "family": "papillary",
+      "count": 7
+    },
+    "Invasive mucinous adenocarcinoma": {
+      "family": "adenocarcinoma",
+      "count": 16
+    },
+    "Invasive squamous cell carcinoma": {
+      "family": "invasive_scc",
+      "count": 57
+    },
+    "Invasive urothelial carcinoma with involvement of muscle proper": {
+      "family": "muscle_invasive",
+      "count": 112
+    },
+    "Invasive urothelial carcinoma with involvement of subepithelial connective tissue": {
+      "family": "subepithelial_invasive",
+      "count": 251
+    },
+    "Invasive urothelial carcinoma with squamous differentiation": {
+      "family": "variant_differentiation",
+      "count": 23
+    },
+    "Large cell neuroendocrine carcinoma": {
+      "family": "neuroendocrine",
+      "count": 1
+    },
+    "Lobular carcinoma in situ": {
+      "family": "other_malignant",
+      "count": 3
+    },
+    "Low-grade squamous intraepithelial lesion (LSIL; CIN 1)": {
+      "family": "lsil_cin1",
+      "count": 298
+    },
+    "Malignant lymphoma": {
+      "family": "lymphoma_malt",
+      "count": 30
+    },
+    "Malignant melanoma": {
+      "family": "other_neoplasm",
+      "count": 4
+    },
+    "Metaplastic carcinoma": {
+      "family": "other_malignant",
+      "count": 3
+    },
+    "Metastatic adenocarcinoma, from colorectal primary": {
+      "family": "adenocarcinoma",
+      "count": 10
+    },
+    "Micro-invasive carcinoma": {
+      "family": "other_malignant",
+      "count": 7
+    },
+    "Microglandular hyperplasia": {
+      "family": "benign_inflammatory",
+      "count": 1
+    },
+    "Mucinous adenocarcinoma": {
+      "family": "carcinoma",
+      "count": 9
+    },
+    "Mucinous carcinoma": {
+      "family": "other_malignant",
+      "count": 41
+    },
+    "Neuroendocrine tumor, grade 1": {
+      "family": "other_neoplasm",
+      "count": 11
+    },
+    "No evidence of malignancy or granuloma": {
+      "family": "no_malignancy",
+      "count": 62
+    },
+    "No evidence of tumor": {
+      "family": "no_tumor",
+      "count": 30
+    },
+    "No tumor present": {
+      "family": "no_tumor",
+      "count": 758
+    },
+    "Non-invasive papillary urothelial carcinoma, high grade": {
+      "family": "noninvasive_high_grade",
+      "count": 237
+    },
+    "Non-invasive papillary urothelial carcinoma, high grade, with squamous differentiation": {
+      "family": "noninvasive_high_grade",
+      "count": 7
+    },
+    "Non-invasive papillary urothelial carcinoma, low grade": {
+      "family": "noninvasive_low_grade",
+      "count": 139
+    },
+    "Non-small cell carcinoma, favor adenocarcinoma": {
+      "family": "non_small_cell",
+      "count": 55
+    },
+    "Non-small cell carcinoma, favor squamous cell carcinoma": {
+      "family": "non_small_cell",
+      "count": 57
+    },
+    "Non-small cell carcinoma, not otherwise specified": {
+      "family": "non_small_cell",
+      "count": 14
+    },
+    "Papillary neoplasm": {
+      "family": "papillary",
+      "count": 140
+    },
+    "Papillary neoplasm with apocrine metaplasia": {
+      "family": "papillary",
+      "count": 1
+    },
+    "Papillary neoplasm with atypical ductal hyperplasia": {
+      "family": "papillary",
+      "count": 2
+    },
+    "Papillary neoplasm with usual ductal hyperplasia": {
+      "family": "papillary",
+      "count": 1
+    },
+    "Phyllodes tumor": {
+      "family": "other_malignant",
+      "count": 5
+    },
+    "Poorly cohesive carcinoma, not otherwise specified": {
+      "family": "carcinoma",
+      "count": 10
+    },
+    "Poorly cohesive carcinoma, signet-ring cell type": {
+      "family": "carcinoma",
+      "count": 12
+    },
+    "Pseudoangiomatous stromal hyperplasia": {
+      "family": "<other>",
+      "count": 9
+    },
+    "Sclerosing adenosis": {
+      "family": "benign_proliferative",
+      "count": 16
+    },
+    "Sclerosing pneumocytoma": {
+      "family": "<other>",
+      "count": 1
+    },
+    "Serous carcinoma": {
+      "family": "<other>",
+      "count": 1
+    },
+    "Sessile serrated lesion": {
+      "family": "adenoma_serrated",
+      "count": 57
+    },
+    "Sessile serrated lesion with low grade dysplasia": {
+      "family": "adenoma_serrated",
+      "count": 3
+    },
+    "Signet-ring cell carcinoma": {
+      "family": "carcinoma",
+      "count": 5
+    },
+    "Small cell carcinoma": {
+      "family": "small_cell",
+      "count": 61
+    },
+    "Solid papillary carcinoma": {
+      "family": "papillary",
+      "count": 1
+    },
+    "Solid papillary carcinoma in situ": {
+      "family": "papillary",
+      "count": 3
+    },
+    "Squamous cell carcinoma": {
+      "family": "squamous",
+      "count": 153
+    },
+    "Traditional serrated adenoma": {
+      "family": "adenoma_serrated",
+      "count": 4
+    },
+    "Traditional serrated adenoma with low grade dysplasia": {
+      "family": "adenoma_serrated",
+      "count": 1
+    },
+    "Tubular adenoma": {
+      "family": "adenoma_serrated",
+      "count": 502
+    },
+    "Tubular carcinoma": {
+      "family": "other_malignant",
+      "count": 1
+    },
+    "Tubulovillous adenoma": {
+      "family": "adenoma_serrated",
+      "count": 97
+    },
+    "Urothelial carcinoma in situ": {
+      "family": "cis",
+      "count": 79
+    },
+    "Usual ductal hyperplasia": {
+      "family": "benign_proliferative",
+      "count": 26
+    }
+  },
+  "dx_to_organ": {
+    "3": {
+      "organ": "Breast",
+      "count": 1
+    },
+    "Acinar adenocarcinoma": {
+      "organ": "Prostate",
+      "count": 1369
+    },
+    "Adenocarcinoma": {
+      "organ": "Lung",
+      "count": 345
+    },
+    "Adenocarcinoma, favor colorectal primary": {
+      "organ": "Uterine cervix",
+      "count": 1
+    },
+    "Adenocarcinoma, moderately differentiated": {
+      "organ": "Colon",
+      "count": 300
+    },
+    "Adenocarcinoma, moderately differentiated with mucinous component": {
+      "organ": "Colon",
+      "count": 3
+    },
+    "Adenocarcinoma, moderately differentiated with poorly cohesive carcinoma component": {
+      "organ": "Stomach",
+      "count": 1
+    },
+    "Adenocarcinoma, moderately differentiated with signet-ring cell component": {
+      "organ": "Stomach",
+      "count": 1
+    },
+    "Adenocarcinoma, moderately differentiated with signet-ring cell component and mucinous component": {
+      "organ": "Stomach",
+      "count": 1
+    },
+    "Adenocarcinoma, poorly differentiated": {
+      "organ": "Stomach",
+      "count": 137
+    },
+    "Adenocarcinoma, poorly differentiated with mucinous component": {
+      "organ": "Colon",
+      "count": 1
+    },
+    "Adenocarcinoma, poorly differentiated with poorly cohesive carcinoma component": {
+      "organ": "Stomach",
+      "count": 83
+    },
+    "Adenocarcinoma, poorly differentiated with signet-ring cell component": {
+      "organ": "Stomach",
+      "count": 1
+    },
+    "Adenocarcinoma, well differentiated": {
+      "organ": "Stomach",
+      "count": 144
+    },
+    "Adenocarcinoma, well differentiated with mucinous component": {
+      "organ": "Colon",
+      "count": 3
+    },
+    "Amyloidosis": {
+      "organ": "Stomach",
+      "count": 2
+    },
+    "Apocrine adenosis": {
+      "organ": "Breast",
+      "count": 2
+    },
+    "Apocrine metaplasia": {
+      "organ": "Breast",
+      "count": 3
+    },
+    "Atypical ductal hyperplasia": {
+      "organ": "Breast",
+      "count": 26
+    },
+    "Carcinoid/neuroendocrine tumor, NOS": {
+      "organ": "Lung",
+      "count": 4
+    },
+    "Carcinoma with apocrine differentiation": {
+      "organ": "Breast",
+      "count": 2
+    },
+    "Chronic active cervicitis": {
+      "organ": "Uterine cervix",
+      "count": 5
+    },
+    "Chronic active colitis": {
+      "organ": "Colon",
+      "count": 48
+    },
+    "Chronic active gastritis": {
+      "organ": "Stomach",
+      "count": 75
+    },
+    "Chronic gastritis": {
+      "organ": "Stomach",
+      "count": 203
+    },
+    "Chronic granulomatous inflammation with necrosis": {
+      "organ": "Lung",
+      "count": 32
+    },
+    "Chronic granulomatous inflammation without necrosis": {
+      "organ": "Lung",
+      "count": 13
+    },
+    "Chronic nonspecific cervicitis": {
+      "organ": "Uterine cervix",
+      "count": 25
+    },
+    "Chronic nonspecific cervicitis with squamous metaplasia": {
+      "organ": "Uterine cervix",
+      "count": 3
+    },
+    "Chronic nonspecific inflammation": {
+      "organ": "Colon",
+      "count": 196
+    },
+    "Columnar cell change": {
+      "organ": "Breast",
+      "count": 1
+    },
+    "Columnar cell hyperplasia": {
+      "organ": "Breast",
+      "count": 1
+    },
+    "Columnar cell lesion": {
+      "organ": "Breast",
+      "count": 33
+    },
+    "Desmoid fibromatosis": {
+      "organ": "Breast",
+      "count": 1
+    },
+    "Duct ectasia": {
+      "organ": "Breast",
+      "count": 11
+    },
+    "Ductal carcinoma in situ": {
+      "organ": "Breast",
+      "count": 286
+    },
+    "Ductal carcinoma in situ in intraductal papilloma": {
+      "organ": "Breast",
+      "count": 2
+    },
+    "Endocervical adenocarcinoma in situ (AIS), HPV-associated": {
+      "organ": "Uterine cervix",
+      "count": 7
+    },
+    "Endocervical adenocarcinoma, HPV-associated, usual type": {
+      "organ": "Uterine cervix",
+      "count": 2
+    },
+    "Endocervical adenocarcinoma, HPV-independent, clear cell type": {
+      "organ": "Uterine cervix",
+      "count": 1
+    },
+    "Endocervical adenocarcinoma, HPV-independent, gastric type": {
+      "organ": "Uterine cervix",
+      "count": 2
+    },
+    "Endocervical polyp": {
+      "organ": "Uterine cervix",
+      "count": 1
+    },
+    "Endocervical polyp with radiation change": {
+      "organ": "Uterine cervix",
+      "count": 1
+    },
+    "Endometrioid carcinoma": {
+      "organ": "Uterine cervix",
+      "count": 2
+    },
+    "Extranodal marginal zone B cell lymphoma of MALT type": {
+      "organ": "Stomach",
+      "count": 82
+    },
+    "Extranodal marginal zone lymphoma of mucosa-associated lymphoid tissue (MALT lymphoma)": {
+      "organ": "Colon",
+      "count": 2
+    },
+    "Fat necrosis": {
+      "organ": "Breast",
+      "count": 3
+    },
+    "Fibroadenoma": {
+      "organ": "Breast",
+      "count": 15
+    },
+    "Fibroadenomatoid change": {
+      "organ": "Breast",
+      "count": 10
+    },
+    "Fibrocystic change": {
+      "organ": "Breast",
+      "count": 28
+    },
+    "Fibroepithelial tumor": {
+      "organ": "Breast",
+      "count": 50
+    },
+    "Fibroepithelial tumor, favor fibroadenoma": {
+      "organ": "Breast",
+      "count": 30
+    },
+    "Fibroepithelial tumor, favor phyllodes tumor": {
+      "organ": "Breast",
+      "count": 5
+    },
+    "Flat epithelial atypia": {
+      "organ": "Breast",
+      "count": 4
+    },
+    "Foreign body reaction": {
+      "organ": "Breast",
+      "count": 5
+    },
+    "Foveolar-type adenoma": {
+      "organ": "Stomach",
+      "count": 6
+    },
+    "Fundic gland polyp": {
+      "organ": "Stomach",
+      "count": 6
+    },
+    "Fungal ball, morphologically consistent with Aspergillus spp.": {
+      "organ": "Lung",
+      "count": 3
+    },
+    "Fungal infection, morphologically consistent with Cryptococcus spp.": {
+      "organ": "Lung",
+      "count": 1
+    },
+    "Gastrointestinal stromal tumor": {
+      "organ": "Stomach",
+      "count": 4
+    },
+    "Granulomatous lobular mastitis": {
+      "organ": "Breast",
+      "count": 2
+    },
+    "High-grade serous carcinoma": {
+      "organ": "Uterine cervix",
+      "count": 1
+    },
+    "High-grade squamous intraepithelial lesion (HSIL; CIN 2)": {
+      "organ": "Uterine cervix",
+      "count": 117
+    },
+    "High-grade squamous intraepithelial lesion (HSIL; CIN 2) with glandular involvement": {
+      "organ": "Uterine cervix",
+      "count": 13
+    },
+    "High-grade squamous intraepithelial lesion (HSIL; CIN 3)": {
+      "organ": "Uterine cervix",
+      "count": 118
+    },
+    "High-grade squamous intraepithelial lesion (HSIL; CIN 3) with glandular involvement": {
+      "organ": "Uterine cervix",
+      "count": 32
+    },
+    "Hyperplastic polyp": {
+      "organ": "Colon",
+      "count": 158
+    },
+    "Inflammatory polyp": {
+      "organ": "Colon",
+      "count": 1
+    },
+    "Intraductal papilloma": {
+      "organ": "Breast",
+      "count": 13
+    },
+    "Intraductal papilloma with apocrine metaplasia": {
+      "organ": "Breast",
+      "count": 1
+    },
+    "Intraductal papilloma with atypical ductal hyperplasia": {
+      "organ": "Breast",
+      "count": 2
+    },
+    "Intraductal papilloma with usual ductal hyperplasia": {
+      "organ": "Breast",
+      "count": 13
+    },
+    "Invasive carcinoma of no special type, grade I": {
+      "organ": "Breast",
+      "count": 179
+    },
+    "Invasive carcinoma of no special type, grade II": {
+      "organ": "Breast",
+      "count": 631
+    },
+    "Invasive carcinoma of no special type, grade III": {
+      "organ": "Breast",
+      "count": 111
+    },
+    "Invasive carcinoma with features of mucinous carcinoma": {
+      "organ": "Breast",
+      "count": 6
+    },
+    "Invasive carcinoma with mixed ductal and lobular features": {
+      "organ": "Breast",
+      "count": 1
+    },
+    "Invasive cribriform carcinoma": {
+      "organ": "Breast",
+      "count": 2
+    },
+    "Invasive lobular carcinoma": {
+      "organ": "Breast",
+      "count": 85
+    },
+    "Invasive lobular carcinoma, pleomorphic type": {
+      "organ": "Breast",
+      "count": 1
+    },
+    "Invasive micropapillary carcinoma": {
+      "organ": "Breast",
+      "count": 7
+    },
+    "Invasive mucinous adenocarcinoma": {
+      "organ": "Lung",
+      "count": 16
+    },
+    "Invasive squamous cell carcinoma": {
+      "organ": "Uterine cervix",
+      "count": 57
+    },
+    "Invasive urothelial carcinoma with involvement of muscle proper": {
+      "organ": "Urinary bladder",
+      "count": 112
+    },
+    "Invasive urothelial carcinoma with involvement of subepithelial connective tissue": {
+      "organ": "Urinary bladder",
+      "count": 251
+    },
+    "Invasive urothelial carcinoma with squamous differentiation": {
+      "organ": "Urinary bladder",
+      "count": 23
+    },
+    "Large cell neuroendocrine carcinoma": {
+      "organ": "Lung",
+      "count": 1
+    },
+    "Lobular carcinoma in situ": {
+      "organ": "Breast",
+      "count": 3
+    },
+    "Low-grade squamous intraepithelial lesion (LSIL; CIN 1)": {
+      "organ": "Uterine cervix",
+      "count": 298
+    },
+    "Malignant lymphoma": {
+      "organ": "Stomach",
+      "count": 24
+    },
+    "Malignant melanoma": {
+      "organ": "Stomach",
+      "count": 4
+    },
+    "Metaplastic carcinoma": {
+      "organ": "Breast",
+      "count": 3
+    },
+    "Metastatic adenocarcinoma, from colorectal primary": {
+      "organ": "Lung",
+      "count": 10
+    },
+    "Micro-invasive carcinoma": {
+      "organ": "Breast",
+      "count": 7
+    },
+    "Microglandular hyperplasia": {
+      "organ": "Uterine cervix",
+      "count": 1
+    },
+    "Mucinous adenocarcinoma": {
+      "organ": "Colon",
+      "count": 7
+    },
+    "Mucinous carcinoma": {
+      "organ": "Breast",
+      "count": 41
+    },
+    "Neuroendocrine tumor, grade 1": {
+      "organ": "Rectum",
+      "count": 8
+    },
+    "No evidence of malignancy or granuloma": {
+      "organ": "Lung",
+      "count": 62
+    },
+    "No evidence of tumor": {
+      "organ": "Breast",
+      "count": 30
+    },
+    "No tumor present": {
+      "organ": "Prostate",
+      "count": 690
+    },
+    "Non-invasive papillary urothelial carcinoma, high grade": {
+      "organ": "Urinary bladder",
+      "count": 237
+    },
+    "Non-invasive papillary urothelial carcinoma, high grade, with squamous differentiation": {
+      "organ": "Urinary bladder",
+      "count": 7
+    },
+    "Non-invasive papillary urothelial carcinoma, low grade": {
+      "organ": "Urinary bladder",
+      "count": 139
+    },
+    "Non-small cell carcinoma, favor adenocarcinoma": {
+      "organ": "Lung",
+      "count": 55
+    },
+    "Non-small cell carcinoma, favor squamous cell carcinoma": {
+      "organ": "Lung",
+      "count": 57
+    },
+    "Non-small cell carcinoma, not otherwise specified": {
+      "organ": "Lung",
+      "count": 14
+    },
+    "Papillary neoplasm": {
+      "organ": "Breast",
+      "count": 140
+    },
+    "Papillary neoplasm with apocrine metaplasia": {
+      "organ": "Breast",
+      "count": 1
+    },
+    "Papillary neoplasm with atypical ductal hyperplasia": {
+      "organ": "Breast",
+      "count": 2
+    },
+    "Papillary neoplasm with usual ductal hyperplasia": {
+      "organ": "Breast",
+      "count": 1
+    },
+    "Phyllodes tumor": {
+      "organ": "Breast",
+      "count": 5
+    },
+    "Poorly cohesive carcinoma, not otherwise specified": {
+      "organ": "Stomach",
+      "count": 10
+    },
+    "Poorly cohesive carcinoma, signet-ring cell type": {
+      "organ": "Stomach",
+      "count": 12
+    },
+    "Pseudoangiomatous stromal hyperplasia": {
+      "organ": "Breast",
+      "count": 9
+    },
+    "Sclerosing adenosis": {
+      "organ": "Breast",
+      "count": 16
+    },
+    "Sclerosing pneumocytoma": {
+      "organ": "Lung",
+      "count": 1
+    },
+    "Serous carcinoma": {
+      "organ": "Uterine cervix",
+      "count": 1
+    },
+    "Sessile serrated lesion": {
+      "organ": "Colon",
+      "count": 56
+    },
+    "Sessile serrated lesion with low grade dysplasia": {
+      "organ": "Colon",
+      "count": 2
+    },
+    "Signet-ring cell carcinoma": {
+      "organ": "Colon",
+      "count": 4
+    },
+    "Small cell carcinoma": {
+      "organ": "Lung",
+      "count": 61
+    },
+    "Solid papillary carcinoma": {
+      "organ": "Breast",
+      "count": 1
+    },
+    "Solid papillary carcinoma in situ": {
+      "organ": "Breast",
+      "count": 3
+    },
+    "Squamous cell carcinoma": {
+      "organ": "Lung",
+      "count": 153
+    },
+    "Traditional serrated adenoma": {
+      "organ": "Colon",
+      "count": 3
+    },
+    "Traditional serrated adenoma with low grade dysplasia": {
+      "organ": "Rectum",
+      "count": 1
+    },
+    "Tubular adenoma": {
+      "organ": "Colon",
+      "count": 483
+    },
+    "Tubular carcinoma": {
+      "organ": "Breast",
+      "count": 1
+    },
+    "Tubulovillous adenoma": {
+      "organ": "Colon",
+      "count": 93
+    },
+    "Urothelial carcinoma in situ": {
+      "organ": "Urinary bladder",
+      "count": 79
+    },
+    "Usual ductal hyperplasia": {
+      "organ": "Breast",
+      "count": 26
+    }
+  },
+  "summary": {
+    "num_cases": 9570,
+    "num_organs": 10,
+    "num_dx": 132,
+    "num_organ_family_pairs": 56,
+    "organ_counts": {
+      "Prostate": 2062,
+      "Breast": 1871,
+      "Colon": 1507,
+      "Stomach": 1490,
+      "Urinary bladder": 916,
+      "Lung": 828,
+      "Uterine cervix": 688,
+      "Rectum": 206,
+      "Nipple": 1,
+      "Anus": 1
+    },
+    "pool_sizes": {
+      "Prostate": {
+        "dx": 4,
+        "families": 3,
+        "max_family_dx": 2,
+        "mean_family_dx": 1.3333333333333333
+      },
+      "Breast": {
+        "dx": 52,
+        "families": 10,
+        "max_family_dx": 12,
+        "mean_family_dx": 5.2
+      },
+      "Colon": {
+        "dx": 22,
+        "families": 6,
+        "max_family_dx": 8,
+        "mean_family_dx": 3.6666666666666665
+      },
+      "Stomach": {
+        "dx": 25,
+        "families": 6,
+        "max_family_dx": 12,
+        "mean_family_dx": 4.166666666666667
+      },
+      "Urinary bladder": {
+        "dx": 8,
+        "families": 7,
+        "max_family_dx": 2,
+        "mean_family_dx": 1.1428571428571428
+      },
+      "Lung": {
+        "dx": 16,
+        "families": 9,
+        "max_family_dx": 3,
+        "mean_family_dx": 1.7777777777777777
+      },
+      "Uterine cervix": {
+        "dx": 20,
+        "families": 7,
+        "max_family_dx": 6,
+        "mean_family_dx": 2.857142857142857
+      },
+      "Rectum": {
+        "dx": 17,
+        "families": 6,
+        "max_family_dx": 6,
+        "mean_family_dx": 2.8333333333333335
+      },
+      "Nipple": {
+        "dx": 1,
+        "families": 1,
+        "max_family_dx": 1,
+        "mean_family_dx": 1.0
+      },
+      "Anus": {
+        "dx": 1,
+        "families": 1,
+        "max_family_dx": 1,
+        "mean_family_dx": 1.0
+      }
+    }
+  }
+}

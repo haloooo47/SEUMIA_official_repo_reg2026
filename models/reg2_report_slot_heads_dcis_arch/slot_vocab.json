@@ -1,0 +1,31 @@
+{
+  "slots": [
+    "dcis_architectural_pattern"
+  ],
+  "slot_questions": {
+    "dcis_architectural_pattern": "what is the architectural pattern of lesion"
+  },
+  "vocabs": {
+    "dcis_architectural_pattern": [
+      "Solid",
+      "Cribriform",
+      "Micropapillary",
+      "Cribriform and solid",
+      "Papillary",
+      "Solid and cribriform",
+      "Cribriform and papillary",
+      "Solid and micropapillary",
+      "Solid and papillary",
+      "<other>"
+    ]
+  },
+  "features": "features/report_fused_titan_h1_v2_256",
+  "feat_keys": [
+    "fused"
+  ],
+  "organ": "breast",
+  "hidden": 1024,
+  "num_layers": 1,
+  "dropout": 0.15,
+  "seed": 0
+}

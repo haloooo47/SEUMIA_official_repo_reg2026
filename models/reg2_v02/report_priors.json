@@ -1,0 +1,2762 @@
+{
+  "global": [
+    {
+      "report": "Prostate, biopsy;\\n  No tumor present",
+      "count": 811
+    },
+    {
+      "report": "Stomach, endoscopic biopsy;\\n  Tubular adenoma with low grade dysplasia",
+      "count": 449
+    },
+    {
+      "report": "Lung, biopsy;\\n  Adenocarcinoma",
+      "count": 388
+    },
+    {
+      "report": "Breast, core needle biopsy;\\n  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)",
+      "count": 387
+    },
+    {
+      "report": "Colon, colonoscopic biopsy;\\n  Adenocarcinoma, moderately differentiated",
+      "count": 348
+    },
+    {
+      "report": "Stomach, endoscopic biopsy;\\n  Adenocarcinoma, moderately differentiated",
+      "count": 305
+    },
+    {
+      "report": "Colon, colonoscopic biopsy;\\n  Tubular adenoma with low grade dysplasia",
+      "count": 275
+    },
+    {
+      "report": "Colon, colonoscopic biopsy;\\n  Chronic nonspecific inflammation",
+      "count": 231
+    },
+    {
+      "report": "Uterine cervix, colposcopic biopsy;\\n  Low-grade squamous intraepithelial lesion (LSIL; CIN 1)",
+      "count": 227
+    },
+    {
+      "report": "Lung, biopsy;\\n  Squamous cell carcinoma",
+      "count": 179
+    },
+    {
+      "report": "Stomach, endoscopic biopsy;\\n  Adenocarcinoma, well differentiated",
+      "count": 173
+    },
+    {
+      "report": "Urinary bladder, transurethral resection;\\n  Non-invasive papillary urothelial carcinoma, high grade\\n\\nNote) The specimen includes muscle proper.",
+      "count": 169
+    },
+    {
+      "report": "Breast, core needle biopsy;\\n  Papillary neoplasm",
+      "count": 157
+    },
+    {
+      "report": "Stomach, endoscopic biopsy;\\n  Adenocarcinoma, poorly differentiated",
+      "count": 153
+    },
+    {
+      "report": "Colon, colonoscopic polypectomy;\\n  Tubular adenoma with low grade dysplasia",
+      "count": 149
+    },
+    {
+      "report": "Urinary bladder, transurethral resection;\\n  Invasive urothelial carcinoma,\\n  with involvement of subepithelial connective tissue\\n\\nNote) The specimen includes muscle proper.",
+      "count": 149
+    },
+    {
+      "report": "Uterine cervix, punch biopsy;\\n  Low-grade squamous intraepithelial lesion (LSIL; CIN 1)",
+      "count": 129
+    },
+    {
+      "report": "Stomach, endoscopic biopsy;\\n  Chronic gastritis",
+      "count": 118
+    },
+    {
+      "report": "Rectum, colonoscopic biopsy;\\n  Adenocarcinoma, moderately differentiated",
+      "count": 114
+    },
+    {
+      "report": "Colon, colonoscopic biopsy;\\n  Hyperplastic polyp",
+      "count": 113
+    }
+  ],
+  "by_organ": {
+    "Anus": [
+      {
+        "report": "Anus, incisional biopsy;\\n  Adenocarcinoma, moderately differentiated",
+        "count": 1
+      }
+    ],
+    "Breast": [
+      {
+        "report": "Breast, core needle biopsy;\\n  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)",
+        "count": 387
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Papillary neoplasm",
+        "count": 157
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 3, Mitoses: 1)",
+        "count": 95
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Invasive carcinoma of no special type, grade III (Tubule formation: 3, Nuclear grade: 3, Mitoses: 2)",
+        "count": 94
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Invasive carcinoma of no special type, grade I (Tubule formation: 2, Nuclear grade: 2, Mitoses: 1)",
+        "count": 84
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)\\n  2. Ductal carcinoma in situ",
+        "count": 80
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Invasive lobular carcinoma",
+        "count": 70
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 2)",
+        "count": 67
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Fibroepithelial tumor",
+        "count": 55
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Mucinous carcinoma",
+        "count": 44
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Solid\\n  - Nuclear grade: Intermediate\\n  - Necrosis: Absent",
+        "count": 42
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Invasive carcinoma of no special type, grade I (Tubule formation: 3, Nuclear grade: 1, Mitoses: 1)",
+        "count": 38
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Fibroepithelial tumor, favor fibroadenoma",
+        "count": 36
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Solid\\n  - Nuclear grade: High\\n  - Necrosis: Present (Comedo-type)",
+        "count": 35
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  No evidence of tumor",
+        "count": 34
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)\\n  2. Microcalcification",
+        "count": 32
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Fibrocystic change",
+        "count": 31
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Solid\\n  - Nuclear grade: High\\n  - Necrosis: Present (Focal)",
+        "count": 31
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Cribriform\\n  - Nuclear grade: Low\\n  - Necrosis: Absent",
+        "count": 31
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Solid\\n  - Nuclear grade: High\\n  - Necrosis: Absent",
+        "count": 25
+      }
+    ],
+    "Colon": [
+      {
+        "report": "Colon, colonoscopic biopsy;\\n  Adenocarcinoma, moderately differentiated",
+        "count": 348
+      },
+      {
+        "report": "Colon, colonoscopic biopsy;\\n  Tubular adenoma with low grade dysplasia",
+        "count": 275
+      },
+      {
+        "report": "Colon, colonoscopic biopsy;\\n  Chronic nonspecific inflammation",
+        "count": 231
+      },
+      {
+        "report": "Colon, colonoscopic polypectomy;\\n  Tubular adenoma with low grade dysplasia",
+        "count": 149
+      },
+      {
+        "report": "Colon, colonoscopic biopsy;\\n  Hyperplastic polyp",
+        "count": 113
+      },
+      {
+        "report": "Colon, colonoscopic biopsy;\\n  Adenocarcinoma, well differentiated",
+        "count": 104
+      },
+      {
+        "report": "Colon, colonoscopic polypectomy;\\n  Hyperplastic polyp",
+        "count": 61
+      },
+      {
+        "report": "Colon, colonoscopic biopsy;\\n  Tubular adenoma with high grade dysplasia",
+        "count": 56
+      },
+      {
+        "report": "Colon, colonoscopic biopsy;\\n  Chronic active colitis",
+        "count": 53
+      },
+      {
+        "report": "Colon, colonoscopic polypectomy;\\n  Sessile serrated lesion",
+        "count": 41
+      },
+      {
+        "report": "Colon, colonoscopic polypectomy;\\n  Tubular adenoma with high grade dysplasia",
+        "count": 36
+      },
+      {
+        "report": "Colon, colonoscopic biopsy;\\n  Tubulovillous adenoma with low grade dysplasia",
+        "count": 35
+      },
+      {
+        "report": "Colon, colonoscopic biopsy;\\n  Adenocarcinoma, poorly differentiated",
+        "count": 32
+      },
+      {
+        "report": "Colon, colonoscopic polypectomy;\\n  Tubulovillous adenoma with low grade dysplasia",
+        "count": 21
+      },
+      {
+        "report": "Colon, colonoscopic mucosal resection;\\n  Tubular adenoma with high grade dysplasia",
+        "count": 20
+      },
+      {
+        "report": "Colon, colonoscopic biopsy;\\n  Tubulovillous adenoma with high grade dysplasia",
+        "count": 20
+      },
+      {
+        "report": "Colon, colonoscopic mucosal resection;\\n  Tubular adenoma with low grade dysplasia",
+        "count": 16
+      },
+      {
+        "report": "Colon, colonoscopic biopsy;\\n  Sessile serrated lesion",
+        "count": 13
+      },
+      {
+        "report": "Colon, colonoscopic polypectomy;\\n  Tubulovillous adenoma with high grade dysplasia",
+        "count": 11
+      },
+      {
+        "report": "Colon, colonoscopic mucosal resection;\\n  Tubulovillous adenoma with high grade dysplasia",
+        "count": 11
+      }
+    ],
+    "Lung": [
+      {
+        "report": "Lung, biopsy;\\n  Adenocarcinoma",
+        "count": 388
+      },
+      {
+        "report": "Lung, biopsy;\\n  Squamous cell carcinoma",
+        "count": 179
+      },
+      {
+        "report": "Lung, biopsy;\\n  Small cell carcinoma",
+        "count": 70
+      },
+      {
+        "report": "Lung, biopsy;\\n  Non-small cell carcinoma, favor squamous cell carcinoma",
+        "count": 66
+      },
+      {
+        "report": "Lung, biopsy;\\n  Non-small cell carcinoma, favor adenocarcinoma",
+        "count": 60
+      },
+      {
+        "report": "Lung, biopsy;\\n  No evidence of malignancy or granuloma",
+        "count": 50
+      },
+      {
+        "report": "Lung, biopsy;\\n  Chronic granulomatous inflammation with necrosis",
+        "count": 34
+      },
+      {
+        "report": "Lung, biopsy;\\n  Invasive mucinous adenocarcinoma",
+        "count": 18
+      },
+      {
+        "report": "Lung, biopsy;\\n  1. No evidence of malignancy or granuloma\\n  2. Chronic inflammation with organizing fibrosis",
+        "count": 16
+      },
+      {
+        "report": "Lung, biopsy;\\n  Non-small cell carcinoma, not otherwise specified",
+        "count": 15
+      },
+      {
+        "report": "Lung, biopsy;\\n  Chronic granulomatous inflammation without necrosis",
+        "count": 15
+      },
+      {
+        "report": "Lung, biopsy;\\n  Metastatic adenocarcinoma, from colorectal primary",
+        "count": 11
+      },
+      {
+        "report": "Lung, biopsy;\\n  1. No evidence of malignancy or granuloma\\n  2. Chronic inflammation with type II pneumocyte hyperplasia",
+        "count": 7
+      },
+      {
+        "report": "Lung, biopsy;\\n  Carcinoid/neuroendocrine tumor, NOS",
+        "count": 6
+      },
+      {
+        "report": "Lung, biopsy;\\n  Fungal ball, morphologically consistent with Aspergillus spp.",
+        "count": 3
+      },
+      {
+        "report": "Lung, biopsy;\\n  1. Chronic granulomatous inflammation without necrosis\\n  2. Fungal infection, morphologically consistent with Cryptococcus spp.",
+        "count": 3
+      },
+      {
+        "report": "Lung, biopsy;\\n  Fungal infection, morphologically consistent with Cryptococcus spp.",
+        "count": 1
+      },
+      {
+        "report": "Lung, biopsy;\\n  Sclerosing pneumocytoma",
+        "count": 1
+      },
+      {
+        "report": "Lung, biopsy;\\n  1. Small cell carcinoma\\n  2. Fungal ball, morphologically consistent with Aspergillus spp.",
+        "count": 1
+      },
+      {
+        "report": "Lung, biopsy;\\n  Large cell neuroendocrine carcinoma",
+        "count": 1
+      }
+    ],
+    "Nipple": [
+      {
+        "report": "Nipple, punch biopsy;\\n  1. Papillary neoplasm\\n  2. Microcalcification",
+        "count": 1
+      }
+    ],
+    "Prostate": [
+      {
+        "report": "Prostate, biopsy;\\n  No tumor present",
+        "count": 811
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%",
+        "count": 86
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 5%",
+        "count": 76
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 20%",
+        "count": 66
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 30%",
+        "count": 52
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 50%",
+        "count": 47
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 100%",
+        "count": 42
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 40%",
+        "count": 41
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 90%",
+        "count": 38
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 60%",
+        "count": 33
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 70%",
+        "count": 33
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 80%",
+        "count": 30
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 90%",
+        "count": 29
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 80%",
+        "count": 28
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 70%",
+        "count": 27
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 60%",
+        "count": 26
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 9 (4+5), grade group 5, tumor volume: 100%",
+        "count": 25
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 100%",
+        "count": 25
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 15%",
+        "count": 24
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 50%",
+        "count": 22
+      }
+    ],
+    "Rectum": [
+      {
+        "report": "Rectum, colonoscopic biopsy;\\n  Adenocarcinoma, moderately differentiated",
+        "count": 114
+      },
+      {
+        "report": "Rectum, colonoscopic biopsy;\\n  Chronic nonspecific inflammation",
+        "count": 38
+      },
+      {
+        "report": "Rectum, colonoscopic biopsy;\\n  Adenocarcinoma, well differentiated",
+        "count": 32
+      },
+      {
+        "report": "Rectum, colonoscopic biopsy;\\n  Tubular adenoma with high grade dysplasia",
+        "count": 11
+      },
+      {
+        "report": "Rectum, colonoscopic biopsy;\\n  Neuroendocrine tumor, grade 1",
+        "count": 7
+      },
+      {
+        "report": "Rectum, colonoscopic biopsy;\\n  Adenocarcinoma, poorly differentiated",
+        "count": 5
+      },
+      {
+        "report": "Rectum, colonoscopic biopsy;\\n  Tubular adenoma with low grade dysplasia",
+        "count": 4
+      },
+      {
+        "report": "Rectum, colonoscopic biopsy;\\n  Tubulovillous adenoma with high grade dysplasia",
+        "count": 3
+      },
+      {
+        "report": "Rectum, colonoscopic biopsy;\\n  Squamous cell carcinoma",
+        "count": 3
+      },
+      {
+        "report": "Rectum, colonoscopic biopsy;\\n  Malignant lymphoma",
+        "count": 2
+      },
+      {
+        "report": "Rectum, colonoscopic submucosal dissection;\\n  Neuroendocrine tumor, grade 1",
+        "count": 2
+      },
+      {
+        "report": "Rectum, colonoscopic submucosal dissection;\\n  Adenocarcinoma, moderately differentiated",
+        "count": 2
+      },
+      {
+        "report": "Rectum, colonoscopic biopsy;\\n  Extranodal marginal zone lymphoma\\n  of mucosa-associated lymphoid tissue (MALT lymphoma)",
+        "count": 2
+      },
+      {
+        "report": "Rectum, colonoscopic biopsy;\\n  Hyperplastic polyp",
+        "count": 2
+      },
+      {
+        "report": "Rectum, colonoscopic polypectomy;\\n  Tubular adenoma with high grade dysplasia",
+        "count": 2
+      },
+      {
+        "report": "Rectum, colonoscopic polypectomy;\\n  Adenocarcinoma, well differentiated",
+        "count": 2
+      },
+      {
+        "report": "Rectum, colonoscopic polypectomy;\\n  Tubulovillous adenoma with high grade dysplasia",
+        "count": 2
+      },
+      {
+        "report": "Rectum, colonoscopic polypectomy;\\n  Adenocarcinoma, moderately differentiated",
+        "count": 2
+      },
+      {
+        "report": "Rectum, colonoscopic mucosal resection;\\n  Tubular adenoma with high grade dysplasia",
+        "count": 1
+      },
+      {
+        "report": "Rectum, colonoscopic biopsy;\\n  Traditional serrated adenoma",
+        "count": 1
+      }
+    ],
+    "Stomach": [
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Tubular adenoma with low grade dysplasia",
+        "count": 449
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Adenocarcinoma, moderately differentiated",
+        "count": 305
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Adenocarcinoma, well differentiated",
+        "count": 173
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Adenocarcinoma, poorly differentiated",
+        "count": 153
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Chronic gastritis",
+        "count": 118
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Extranodal marginal zone B cell lymphoma of MALT type",
+        "count": 103
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Adenocarcinoma, poorly differentiated with poorly cohesive carcinoma component",
+        "count": 97
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Chronic gastritis with intestinal metaplasia",
+        "count": 85
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Tubular adenoma with high grade dysplasia",
+        "count": 28
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Malignant lymphoma",
+        "count": 26
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Chronic active gastritis",
+        "count": 21
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Chronic active gastritis with intestinal metaplasia",
+        "count": 20
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Poorly cohesive carcinoma, signet-ring cell type",
+        "count": 19
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Chronic active gastritis with lymphoid aggregate",
+        "count": 15
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Poorly cohesive carcinoma, not otherwise specified",
+        "count": 10
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Chronic gastritis with lymphoid aggregate",
+        "count": 9
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Chronic active gastritis with foveolar epithelial hyperplasia",
+        "count": 8
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Small cell carcinoma",
+        "count": 7
+      },
+      {
+        "report": "Stomach, endoscopic submucosal dissection;\\n  Tubular adenoma with low grade dysplasia",
+        "count": 7
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Chronic active gastritis\\n  with 1) erosion\\n       2) intestinal metaplasia",
+        "count": 6
+      }
+    ],
+    "Urinary bladder": [
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  Non-invasive papillary urothelial carcinoma, high grade\\n\\nNote) The specimen includes muscle proper.",
+        "count": 169
+      },
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  Invasive urothelial carcinoma,\\n  with involvement of subepithelial connective tissue\\n\\nNote) The specimen includes muscle proper.",
+        "count": 149
+      },
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  Invasive urothelial carcinoma,\\n  with involvement of muscle proper\\n\\nNote) The specimen includes muscle proper.",
+        "count": 111
+      },
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  Non-invasive papillary urothelial carcinoma, low grade\\n\\nNote) The specimen includes muscle proper.",
+        "count": 104
+      },
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  Invasive urothelial carcinoma,\\n  with involvement of subepithelial connective tissue\\n\\nNote) The specimen does not include muscle proper.",
+        "count": 74
+      },
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  Non-invasive papillary urothelial carcinoma, high grade\\n\\nNote) The specimen does not include muscle proper.",
+        "count": 64
+      },
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  Urothelial carcinoma in situ\\n\\nNote) The specimen includes muscle proper.",
+        "count": 61
+      },
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  1. Invasive urothelial carcinoma,\\n     with involvement of subepithelial connective tissue\\n  2. Urothelial carcinoma in situ\\n\\nNote) The specimen includes muscle proper.",
+        "count": 53
+      },
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  No tumor present\\n\\nNote) The specimen includes muscle proper.",
+        "count": 52
+      },
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  Non-invasive papillary urothelial carcinoma, low grade\\n\\nNote) The specimen does not include muscle proper.",
+        "count": 50
+      },
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  1. Non-invasive papillary urothelial carcinoma, high grade\\n  2. Urothelial carcinoma in situ\\n\\nNote) The specimen includes muscle proper.",
+        "count": 39
+      },
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  1. Invasive urothelial carcinoma,\\n     with involvement of muscle proper\\n  2. Urothelial carcinoma in situ\\n\\nNote) The specimen includes muscle proper.",
+        "count": 21
+      },
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  Urothelial carcinoma in situ\\n\\nNote) The specimen does not include muscle proper.",
+        "count": 20
+      },
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  Invasive urothelial carcinoma,\\n  with 1) involvement of muscle proper\\n      2) squamous differentiation\\n\\nNote) The specimen includes muscle proper.",
+        "count": 18
+      },
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  No tumor present\\n\\nNote) The specimen does not include muscle proper.",
+        "count": 17
+      },
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  1. Invasive urothelial carcinoma,\\n     with involvement of subepithelial connective tissue\\n  2. Urothelial carcinoma in situ\\n\\nNote) The specimen does not include muscle proper.",
+        "count": 10
+      },
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  1. Urothelial carcinoma in situ\\n  2. Chronic granulomatous inflammation with foreign body reaction\\n\\nNote) The specimen includes muscle proper.",
+        "count": 10
+      },
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  1. Non-invasive papillary urothelial carcinoma, high grade\\n  2. Chronic granulomatous inflammation with foreign body reaction\\n\\nNote) The specimen includes muscle proper.",
+        "count": 9
+      },
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  1. No tumor present\\n  2. Chronic granulomatous inflammation with foreign body reaction\\nNote) The specimen includes muscle proper.",
+        "count": 7
+      },
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  1. Invasive urothelial carcinoma,\\n     with involvement of subepithelial connective tissue\\n  2. Chronic granulomatous inflammation with foreign body reaction\\n\\nNote) The specimen includes muscle proper.",
+        "count": 6
+      }
+    ],
+    "Uterine cervix": [
+      {
+        "report": "Uterine cervix, colposcopic biopsy;\\n  Low-grade squamous intraepithelial lesion (LSIL; CIN 1)",
+        "count": 227
+      },
+      {
+        "report": "Uterine cervix, punch biopsy;\\n  Low-grade squamous intraepithelial lesion (LSIL; CIN 1)",
+        "count": 129
+      },
+      {
+        "report": "Uterine cervix, colposcopic biopsy;\\n  High-grade squamous intraepithelial lesion (HSIL; CIN 3)",
+        "count": 69
+      },
+      {
+        "report": "Uterine cervix, punch biopsy;\\n  High-grade squamous intraepithelial lesion (HSIL; CIN 3)",
+        "count": 69
+      },
+      {
+        "report": "Uterine cervix, punch biopsy;\\n  High-grade squamous intraepithelial lesion (HSIL; CIN 2)",
+        "count": 68
+      },
+      {
+        "report": "Uterine cervix, colposcopic biopsy;\\n  High-grade squamous intraepithelial lesion (HSIL; CIN 2)",
+        "count": 65
+      },
+      {
+        "report": "Uterine cervix, colposcopic biopsy;\\n  Invasive squamous cell carcinoma",
+        "count": 52
+      },
+      {
+        "report": "Uterine cervix, colposcopic biopsy;\\n  High-grade squamous intraepithelial lesion (HSIL; CIN 3)\\n  with glandular involvement",
+        "count": 34
+      },
+      {
+        "report": "Uterine cervix, colposcopic biopsy;\\n  Chronic nonspecific cervicitis",
+        "count": 23
+      },
+      {
+        "report": "Uterine cervix, colposcopic biopsy;\\n  High-grade squamous intraepithelial lesion (HSIL; CIN 2)\\n  with glandular involvement",
+        "count": 14
+      },
+      {
+        "report": "Uterine cervix, punch biopsy;\\n  Invasive squamous cell carcinoma",
+        "count": 14
+      },
+      {
+        "report": "Uterine cervix, colposcopic biopsy;\\n  Chronic active cervicitis",
+        "count": 6
+      },
+      {
+        "report": "Uterine cervix, punch biopsy;\\n  Chronic nonspecific cervicitis",
+        "count": 5
+      },
+      {
+        "report": "Uterine cervix, colposcopic biopsy;\\n  Endocervical adenocarcinoma in situ (AIS), HPV-associated",
+        "count": 4
+      },
+      {
+        "report": "Uterine cervix, loop electrosurgical excision procedure;\\n  High-grade squamous intraepithelial lesion (HSIL; CIN 3)",
+        "count": 4
+      },
+      {
+        "report": "Uterine cervix, colposcopic biopsy;\\n  Chronic nonspecific cervicitis with squamous metaplasia",
+        "count": 3
+      },
+      {
+        "report": "Uterine cervix, punch biopsy;\\n  Endocervical adenocarcinoma, HPV-associated, usual type",
+        "count": 3
+      },
+      {
+        "report": "Uterine cervix, colposcopic biopsy;\\n  Endometrioid carcinoma",
+        "count": 2
+      },
+      {
+        "report": "Uterine cervix, punch biopsy;\\n  Endocervical adenocarcinoma in situ (AIS), HPV-associated",
+        "count": 2
+      },
+      {
+        "report": "Uterine cervix, polypectomy;\\n  High-grade squamous intraepithelial lesion (HSIL; CIN 3)",
+        "count": 1
+      }
+    ]
+  },
+  "by_path": {
+    "path_501ca01cb822": [
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  1. Non-invasive papillary urothelial carcinoma, high grade\\n  2. Chronic granulomatous inflammation with foreign body reaction\\n\\nNote) The specimen includes muscle proper.",
+        "count": 9
+      },
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  1. Non-invasive papillary urothelial carcinoma, low grade\\n  2. Chronic granulomatous inflammation with foreign body reaction\\n\\nNote) The specimen includes muscle proper.",
+        "count": 2
+      },
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  1. Non-invasive papillary urothelial carcinoma, high grade\\n  2. Chronic granulomatous inflammation with foreign body reaction\\n\\nNote) The specimen does not include muscle proper.",
+        "count": 1
+      }
+    ],
+    "path_b49f1b707dca": [
+      {
+        "report": "Prostate, biopsy;\\n  1. Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 20%\\n  2. Chronic granulomatous inflammation without necrosis",
+        "count": 1
+      },
+      {
+        "report": "Prostate, biopsy;\\n  1. Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 25%\\n  2. Chronic granulomatous inflammation without necrosis",
+        "count": 1
+      },
+      {
+        "report": "Prostate, biopsy;\\n  1. Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 30%\\n  2. Chronic granulomatous inflammation without necrosis",
+        "count": 1
+      }
+    ],
+    "path_13565cdd8eea": [
+      {
+        "report": "Colon, colonoscopic biopsy;\\n  Tubulovillous adenoma with low grade dysplasia",
+        "count": 35
+      },
+      {
+        "report": "Colon, colonoscopic polypectomy;\\n  Tubulovillous adenoma with low grade dysplasia",
+        "count": 21
+      },
+      {
+        "report": "Colon, colonoscopic biopsy;\\n  Tubulovillous adenoma with high grade dysplasia",
+        "count": 20
+      },
+      {
+        "report": "Colon, colonoscopic polypectomy;\\n  Tubulovillous adenoma with high grade dysplasia",
+        "count": 11
+      },
+      {
+        "report": "Colon, colonoscopic mucosal resection;\\n  Tubulovillous adenoma with high grade dysplasia",
+        "count": 11
+      },
+      {
+        "report": "Colon, colonoscopic mucosal resection;\\n  Tubulovillous adenoma with low grade dysplasia",
+        "count": 10
+      },
+      {
+        "report": "Colon, colonoscopic submucosal dissection;\\n  Tubulovillous adenoma with low grade dysplasia",
+        "count": 4
+      },
+      {
+        "report": "Rectum, colonoscopic biopsy;\\n  Tubulovillous adenoma with high grade dysplasia",
+        "count": 3
+      },
+      {
+        "report": "Colon, colonoscopic submucosal dissection;\\n  Tubulovillous adenoma with high grade dysplasia",
+        "count": 3
+      },
+      {
+        "report": "Rectum, colonoscopic polypectomy;\\n  Tubulovillous adenoma with high grade dysplasia",
+        "count": 2
+      },
+      {
+        "report": "Rectum, colonoscopic mucosal resection;\\n  Tubulovillous adenoma with high grade dysplasia",
+        "count": 1
+      }
+    ],
+    "path_383ecaafadd8": [
+      {
+        "report": "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Papillary\\n  - Nuclear grade: Low\\n  - Necrosis: Absent",
+        "count": 4
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Papillary\\n  - Nuclear grade: Intermediate\\n  - Necrosis: Absent",
+        "count": 1
+      }
+    ],
+    "path_a0b6dedeabb6": [
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  1. Invasive urothelial carcinoma,\\n     with involvement of subepithelial connective tissue\\n  2. Chronic granulomatous inflammation with foreign body reaction\\n\\nNote) The specimen includes muscle proper.",
+        "count": 6
+      },
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  1. Invasive urothelial carcinoma, with\\n    1) involvement of subepithelial connective tissue\\n    2) squamous differentiation\\n  2. Chronic granulomatous inflammation with foreign body reaction\\n\\nNote) The specimen includes muscle proper.",
+        "count": 1
+      },
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  1. Invasive urothelial carcinoma,\\n     with involvement of muscle proper\\n  2. Chronic granulomatous inflammation with foreign body reaction\\nNote) The specimen includes muscle proper.",
+        "count": 1
+      }
+    ],
+    "path_26ec9fc3f009": [
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  1. Invasive urothelial carcinoma,\\n     with involvement of subepithelial connective tissue\\n  2. Urothelial carcinoma in situ\\n  3. Chronic granulomatous inflammation with foreign body reaction\\n\\nNote) The specimen includes muscle proper.",
+        "count": 2
+      },
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  1. Invasive urothelial carcinoma, with\\n    1). involvement of subepithelial connective tissue\\n    2) squamous differentiation\\n  2. Urothelial carcinoma in situ\\n  3. Chronic granulomatous inflammation with foreign body reaction\\n\\nNote) The specimen includes muscle proper.",
+        "count": 1
+      }
+    ],
+    "path_2cf40b07f750": [
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 10%), tumor volume: 90%",
+        "count": 21
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 80%), tumor volume: 90%",
+        "count": 16
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 10%), tumor volume: 50%",
+        "count": 14
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 90%), tumor volume: 100%",
+        "count": 14
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 70%), tumor volume: 90%",
+        "count": 13
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 10%), tumor volume: 100%",
+        "count": 13
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 10%), tumor volume: 80%",
+        "count": 13
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 60%), tumor volume: 60%",
+        "count": 12
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 10%), tumor volume: 70%",
+        "count": 12
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 20%), tumor volume: 90%",
+        "count": 11
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 60%), tumor volume: 90%",
+        "count": 11
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 40%), tumor volume: 90%",
+        "count": 11
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 10%), tumor volume: 60%",
+        "count": 10
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 90%), tumor volume: 80%",
+        "count": 10
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 40%), tumor volume: 100%",
+        "count": 10
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 90%), tumor volume: 90%",
+        "count": 10
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 30%), tumor volume: 100%",
+        "count": 9
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 40%), tumor volume: 60%",
+        "count": 9
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 70%), tumor volume: 30%",
+        "count": 9
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 20%), tumor volume: 80%",
+        "count": 9
+      }
+    ],
+    "path_9de53e5a8dc0": [
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Chronic active gastritis\\n  1) erosion\\n       2) intestinal metaplasia\\n       3) lymphoid aggregate\\n       4) CMV-infected cells",
+        "count": 1
+      }
+    ],
+    "path_047786c2e106": [
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Chronic active gastritis\\n  with 1) erosion\\n       2) intestinal metaplasia",
+        "count": 6
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Chronic active gastritis with erosion",
+        "count": 6
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Chronic gastritis with erosion",
+        "count": 4
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Chronic gastritis\\n  with 1) erosion\\n       2) intestinal metaplasia",
+        "count": 3
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Chronic active gastritis with ulcer",
+        "count": 2
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Chronic active gastritis\\n  with 1) ulcer\\n       2) intestinal metaplasia",
+        "count": 1
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Chronic gastritis with ulcer",
+        "count": 1
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Chronic gastritis\\n  with 1) ulcer\\n       2) intestinal metaplasia",
+        "count": 1
+      }
+    ],
+    "path_4a701bebc839": [
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Adenocarcinoma, poorly differentiated with poorly cohesive carcinoma component",
+        "count": 97
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Adenocarcinoma, moderately differentiated with poorly cohesive carcinoma component",
+        "count": 1
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Adenocarcinoma, moderately differentiated with mucinous component",
+        "count": 1
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Adenocarcinoma, moderately differentiated with signet-ring cell component",
+        "count": 1
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Adenocarcinoma, poorly differentiated with signet-ring cell component",
+        "count": 1
+      }
+    ],
+    "path_d136537b749e": [
+      {
+        "report": "Uterine cervix, punch biopsy;\\n  1. High-grade squamous intraepithelial lesion (HSIL; CIN 3)\\n  2. Endocervical adenocarcinoma in situ (AIS), HPV-associated",
+        "count": 1
+      },
+      {
+        "report": "Uterine cervix, punch biopsy;\\n  1. High-grade squamous intraepithelial lesion (HSIL; CIN 3) with glandular involvement\\n  2. Endocervical adenocarcinoma in situ (AIS), HPV-associated",
+        "count": 1
+      }
+    ],
+    "path_ccc6069673ce": [
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Chronic active gastritis\\n  with 1) erosion\\n       2) intestinal metaplasia\\n       3) reactive atypia",
+        "count": 1
+      }
+    ],
+    "path_89e165c6ebc8": [
+      {
+        "report": "Prostate, biopsy;\\n  1. No tumor present\\n  2. Chronic granulomatous inflammation without necrosis",
+        "count": 5
+      },
+      {
+        "report": "Prostate, biopsy;\\n  1. No tumor present\\n  2. Chronic granulomatous inflammation with necrosis",
+        "count": 3
+      }
+    ],
+    "path_bdf6c6831caa": [
+      {
+        "report": "Colon, colonoscopic biopsy;\\n  Chronic active colitis",
+        "count": 53
+      },
+      {
+        "report": "Colon, colonoscopic biopsy;\\n  Inflammatory polyp",
+        "count": 1
+      }
+    ],
+    "path_6e64627a12ae": [
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Papillary neoplasm\\n  2. Microcalcification",
+        "count": 5
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Columnar cell lesion\\n  2. Microcalcification",
+        "count": 5
+      },
+      {
+        "report": "Nipple, punch biopsy;\\n  1. Papillary neoplasm\\n  2. Microcalcification",
+        "count": 1
+      },
+      {
+        "report": "Breast, stereotactic biopsy;\\n  1. Columnar cell lesion\\n  2. Microcalcification",
+        "count": 1
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Intraductal papilloma\\n  2. Microcalcification",
+        "count": 1
+      }
+    ],
+    "path_1e57ebf01aae": [
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Tubular adenoma with low grade dysplasia",
+        "count": 447
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Tubular adenoma with high grade dysplasia",
+        "count": 28
+      },
+      {
+        "report": "Stomach, endoscopic submucosal dissection;\\n  Tubular adenoma with low grade dysplasia",
+        "count": 7
+      },
+      {
+        "report": "Stomach, endoscopic polypectomy;\\n  Foveolar-type adenoma with high grade dysplasia",
+        "count": 1
+      }
+    ],
+    "path_b11fc0c7946e": [
+      {
+        "report": "Rectum, colonoscopic biopsy;\\n  Traditional serrated adenoma with low grade dysplasia",
+        "count": 1
+      },
+      {
+        "report": "Rectum, colonoscopic mucosal resection;\\n  Sessile serrated lesion with low grade dysplasia",
+        "count": 1
+      },
+      {
+        "report": "Colon, colonoscopic mucosal resection;\\n  Sessile serrated lesion with low grade dysplasia",
+        "count": 1
+      },
+      {
+        "report": "Colon, colonoscopic biopsy;\\n  Sessile serrated lesion with low grade dysplasia",
+        "count": 1
+      }
+    ],
+    "path_831e4a770171": [
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  Invasive urothelial carcinoma,\\n  with involvement of subepithelial connective tissue\\n\\nNote) The specimen includes muscle proper.",
+        "count": 149
+      },
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  Invasive urothelial carcinoma,\\n  with involvement of muscle proper\\n\\nNote) The specimen includes muscle proper.",
+        "count": 111
+      },
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  Invasive urothelial carcinoma,\\n  with involvement of subepithelial connective tissue\\n\\nNote) The specimen does not include muscle proper.",
+        "count": 74
+      },
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  Invasive urothelial carcinoma,\\n  with 1) involvement of muscle proper\\n      2) squamous differentiation\\n\\nNote) The specimen includes muscle proper.",
+        "count": 18
+      },
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  Invasive urothelial carcinoma,\\n  with 1) involvement of subepithelial connective tissue\\n      2) squamous differentiation\\n\\nNote) The specimen includes muscle proper.",
+        "count": 3
+      },
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  Invasive urothelial carcinoma,\\n  with 1) involvement of subepithelial connective tissue\\n      2) squamous differentiation\\n\\nNote) The specimen does not include muscle proper.",
+        "count": 3
+      },
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  Invasive urothelial carcinoma,\\n  with 1) involvement of muscle proper\\n      2) glandular differentiation\\n\\nNote) The specimen includes muscle proper.",
+        "count": 1
+      }
+    ],
+    "path_8bfad34a8856": [
+      {
+        "report": "Lung, biopsy;\\n  Chronic granulomatous inflammation with necrosis",
+        "count": 34
+      },
+      {
+        "report": "Lung, biopsy;\\n  Chronic granulomatous inflammation without necrosis",
+        "count": 15
+      }
+    ],
+    "path_b013d66c31c9": [
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Foveolar-type adenoma",
+        "count": 3
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Tubular adenoma with low grade dysplasia",
+        "count": 2
+      }
+    ],
+    "path_08f5d8a2a7fa": [
+      {
+        "report": "Uterine cervix, colposcopic biopsy;\\n  Low-grade squamous intraepithelial lesion (LSIL; CIN 1)",
+        "count": 227
+      },
+      {
+        "report": "Uterine cervix, punch biopsy;\\n  Low-grade squamous intraepithelial lesion (LSIL; CIN 1)",
+        "count": 129
+      },
+      {
+        "report": "Uterine cervix, colposcopic biopsy;\\n  High-grade squamous intraepithelial lesion (HSIL; CIN 3)",
+        "count": 69
+      },
+      {
+        "report": "Uterine cervix, punch biopsy;\\n  High-grade squamous intraepithelial lesion (HSIL; CIN 3)",
+        "count": 69
+      },
+      {
+        "report": "Uterine cervix, punch biopsy;\\n  High-grade squamous intraepithelial lesion (HSIL; CIN 2)",
+        "count": 68
+      },
+      {
+        "report": "Uterine cervix, colposcopic biopsy;\\n  High-grade squamous intraepithelial lesion (HSIL; CIN 2)",
+        "count": 65
+      },
+      {
+        "report": "Uterine cervix, colposcopic biopsy;\\n  High-grade squamous intraepithelial lesion (HSIL; CIN 3)\\n  with glandular involvement",
+        "count": 34
+      },
+      {
+        "report": "Uterine cervix, colposcopic biopsy;\\n  High-grade squamous intraepithelial lesion (HSIL; CIN 2)\\n  with glandular involvement",
+        "count": 14
+      },
+      {
+        "report": "Uterine cervix, loop electrosurgical excision procedure;\\n  High-grade squamous intraepithelial lesion (HSIL; CIN 3)",
+        "count": 4
+      },
+      {
+        "report": "Uterine cervix, polypectomy;\\n  High-grade squamous intraepithelial lesion (HSIL; CIN 3)",
+        "count": 1
+      },
+      {
+        "report": "Uterine cervix, polypectomy;\\n  Low-grade squamous intraepithelial lesion (LSIL; CIN 1)",
+        "count": 1
+      },
+      {
+        "report": "Uterine cervix, punch biopsy;\\n  High-grade squamous intraepithelial lesion (HSIL; CIN 2)\\n  with glandular involvement",
+        "count": 1
+      },
+      {
+        "report": "Uterine cervix, punch biopsy;\\n  High-grade squamous intraepithelial lesion (HSIL; CIN 3)\\n  with glandular involvement",
+        "count": 1
+      }
+    ],
+    "path_fc67be3ed181": [
+      {
+        "report": "Uterine cervix, colposcopic biopsy;\\n  Chronic active cervicitis",
+        "count": 6
+      },
+      {
+        "report": "Uterine cervix, colposcopic biopsy;\\n  Chronic nonspecific cervicitis with squamous metaplasia",
+        "count": 3
+      }
+    ],
+    "path_9b23ae9c87bc": [
+      {
+        "report": "Uterine cervix, colposcopic biopsy;\\n  Invasive squamous cell carcinoma",
+        "count": 52
+      },
+      {
+        "report": "Uterine cervix, punch biopsy;\\n  Invasive squamous cell carcinoma",
+        "count": 14
+      },
+      {
+        "report": "Lung, biopsy;\\n  Metastatic adenocarcinoma, from colorectal primary",
+        "count": 11
+      },
+      {
+        "report": "Uterine cervix, colposcopic biopsy;\\n  Endometrioid carcinoma",
+        "count": 2
+      },
+      {
+        "report": "Prostate, biopsy;\\n Malignant lymphoma",
+        "count": 2
+      },
+      {
+        "report": "Uterine cervix, frozen biopsy;\\n  Invasive squamous cell carcinoma",
+        "count": 1
+      },
+      {
+        "report": "Uterine cervix, colposcopic biopsy;\\n  Metastatic high-grade serous carcinoma",
+        "count": 1
+      },
+      {
+        "report": "Uterine cervix, colposcopic biopsy;\\n  Adenocarcinoma, favor colorectal primary",
+        "count": 1
+      },
+      {
+        "report": "Lung, biopsy;\\n  Sclerosing pneumocytoma",
+        "count": 1
+      },
+      {
+        "report": "Prostate, biopsy;\\n Small cell carcinoma",
+        "count": 1
+      },
+      {
+        "report": "Uterine cervix, colposcopic biopsy;\\n  Serous carcinoma",
+        "count": 1
+      }
+    ],
+    "path_bd7754a5e982": [
+      {
+        "report": "Breast, core needle biopsy;\\n  Duct ectasia",
+        "count": 11
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Pseudoangiomatous stromal hyperplasia",
+        "count": 9
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Foreign body reaction",
+        "count": 6
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Granulomatous lobular mastitis",
+        "count": 3
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Fat necrosis",
+        "count": 3
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Apocrine metaplasia",
+        "count": 3
+      }
+    ],
+    "path_29472a02ab4d": [
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Chronic active gastritis with lymphoid aggregate",
+        "count": 15
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Chronic gastritis with lymphoid aggregate",
+        "count": 9
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Chronic gastritis\\n  with 1) intestinal metaplasia\\n       2) lymphoid aggregate",
+        "count": 6
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Chronic active gastritis\\n  with 1) intestinal metaplasia\\n       2) lymphoid aggregate",
+        "count": 5
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Chronic active gastritis with lymphoid follicle",
+        "count": 1
+      }
+    ],
+    "path_d7726123c937": [
+      {
+        "report": "Lung, biopsy;\\n  Non-small cell carcinoma, favor squamous cell carcinoma",
+        "count": 66
+      },
+      {
+        "report": "Lung, biopsy;\\n  Non-small cell carcinoma, favor adenocarcinoma",
+        "count": 60
+      },
+      {
+        "report": "Lung, biopsy;\\n  Non-small cell carcinoma, not otherwise specified",
+        "count": 15
+      }
+    ],
+    "path_962506c50184": [
+      {
+        "report": "Anus, incisional biopsy;\\n  Adenocarcinoma, moderately differentiated",
+        "count": 1
+      }
+    ],
+    "path_9f9e1e184c04": [
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Poorly cohesive carcinoma, signet-ring cell type",
+        "count": 19
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Poorly cohesive carcinoma, not otherwise specified",
+        "count": 10
+      },
+      {
+        "report": "Colon, colonoscopic biopsy;\\n  Mucinous adenocarcinoma",
+        "count": 9
+      },
+      {
+        "report": "Colon, colonoscopic biopsy;\\n  Signet-ring cell carcinoma",
+        "count": 4
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Mucinous adenocarcinoma",
+        "count": 2
+      },
+      {
+        "report": "Rectum, colonoscopic biopsy;\\n  Signet-ring cell carcinoma",
+        "count": 1
+      },
+      {
+        "report": "Colon, colonoscopic mucosal resection;\\n  Signet-ring cell carcinoma",
+        "count": 1
+      }
+    ],
+    "path_c122a481092a": [
+      {
+        "report": "Breast, core needle biopsy;\\n  Invasive lobular carcinoma",
+        "count": 70
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Mucinous carcinoma",
+        "count": 44
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Malignant lymphoma",
+        "count": 9
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Invasive carcinoma with features of mucinous carcinoma",
+        "count": 8
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Invasive micropapillary carcinoma",
+        "count": 7
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Metaplastic carcinoma",
+        "count": 3
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Carcinoma with apocrine differentiation",
+        "count": 3
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Tubular carcinoma",
+        "count": 2
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Invasive carcinoma with mixed ductal and lobular features",
+        "count": 2
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Invasive lobular carcinoma, pleomorphic type",
+        "count": 1
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Invasive cribriform carcinoma",
+        "count": 1
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Solid papillary carcinoma",
+        "count": 1
+      }
+    ],
+    "path_3fa4d5b920be": [
+      {
+        "report": "Breast, core needle biopsy;\\n  Atypical ductal hyperplasia",
+        "count": 20
+      }
+    ],
+    "path_84710b1b59f4": [
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  1. Non-invasive papillary urothelial carcinoma, high grade\\n  2. Urothelial carcinoma in situ\\n  3. Chronic granulomatous inflammation with foreign body reaction\\n\\nNote) The specimen includes muscle proper.",
+        "count": 2
+      }
+    ],
+    "path_437c19484926": [
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Atypical ductal hyperplasia\\n  2. Columnar cell lesion",
+        "count": 3
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Atypical ductal hyperplasia\\n  2. Intraductal papilloma",
+        "count": 1
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Atypical ductal hyperplasia\\n  2. Columnar cell change",
+        "count": 1
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Atypical ductal hyperplasia\\n  2. Flat epithelial atypia",
+        "count": 1
+      }
+    ],
+    "path_32131e37a6fa": [
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Fibroepithelial tumor\\n  2. Usual ductal hyperplasia",
+        "count": 4
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Fibroadenoma\\n  2. Usual ductal hyperplasia",
+        "count": 3
+      }
+    ],
+    "path_056e0d7adf8f": [
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%",
+        "count": 86
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 5%",
+        "count": 76
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 20%",
+        "count": 66
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 30%",
+        "count": 52
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 50%",
+        "count": 47
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 100%",
+        "count": 42
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 40%",
+        "count": 41
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 90%",
+        "count": 38
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 60%",
+        "count": 33
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 70%",
+        "count": 33
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 80%",
+        "count": 30
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 90%",
+        "count": 29
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 80%",
+        "count": 28
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 70%",
+        "count": 27
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 60%",
+        "count": 26
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 9 (4+5), grade group 5, tumor volume: 100%",
+        "count": 25
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 100%",
+        "count": 25
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 15%",
+        "count": 24
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 50%",
+        "count": 22
+      },
+      {
+        "report": "Prostate, biopsy;\\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 5%",
+        "count": 18
+      }
+    ],
+    "path_89aa3ca9dcef": [
+      {
+        "report": "Lung, biopsy;\\n  Small cell carcinoma",
+        "count": 70
+      },
+      {
+        "report": "Lung, biopsy;\\n  Carcinoid/neuroendocrine tumor, NOS",
+        "count": 6
+      },
+      {
+        "report": "Lung, biopsy;\\n  Large cell neuroendocrine carcinoma",
+        "count": 1
+      }
+    ],
+    "path_6e5102314706": [
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Fibrocystic change\\n  2. Microcalcification",
+        "count": 2
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Fibrocystic change\\n  2. Apocrine metaplasia",
+        "count": 2
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. No evidence of tumor\\n  2. Radiation-related atypia",
+        "count": 2
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Duct ectasia\\n  2. Microcalcification",
+        "count": 1
+      },
+      {
+        "report": "Breast, mammotome biopsy;\\n  1. Fibrocystic change\\n  2. Microcalcification",
+        "count": 1
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. No evidence of tumor\\n  2. Microcalcification",
+        "count": 1
+      }
+    ],
+    "path_21f0879a3b25": [
+      {
+        "report": "Rectum, colonoscopic biopsy;\\n  Neuroendocrine tumor, grade 1",
+        "count": 7
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Neuroendocrine tumor, grade 1",
+        "count": 3
+      },
+      {
+        "report": "Rectum, colonoscopic submucosal dissection;\\n  Neuroendocrine tumor, grade 1",
+        "count": 2
+      },
+      {
+        "report": "Colon, colonoscopic submucosal dissection;\\n  Neuroendocrine tumor, grade 1",
+        "count": 1
+      },
+      {
+        "report": "Colon, colonoscopic biopsy;\\n  Neuroendocrine tumor, grade 1",
+        "count": 1
+      }
+    ],
+    "path_0bb03d18fd15": [
+      {
+        "report": "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Solid\\n  - Nuclear grade: Intermediate\\n  - Necrosis: Absent",
+        "count": 42
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Cribriform\\n  - Nuclear grade: Low\\n  - Necrosis: Absent",
+        "count": 31
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Solid\\n  - Nuclear grade: High\\n  - Necrosis: Absent",
+        "count": 25
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Cribriform\\n  - Nuclear grade: Intermediate\\n  - Necrosis: Absent",
+        "count": 25
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Cribriform and papillary\\n  - Nuclear grade: Intermediate\\n  - Necrosis: Absent",
+        "count": 4
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Cribriform and solid\\n  - Nuclear grade: Intermediate\\n  - Necrosis: Absent",
+        "count": 4
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Micropapillary\\n  - Nuclear grade: Intermediate\\n  - Necrosis: Absent",
+        "count": 3
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Micropapillary\\n  - Nuclear grade: High\\n  - Necrosis: Absent",
+        "count": 2
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Solid and cribriform\\n  - Nuclear grade: Intermediate\\n  - Necrosis: Absent",
+        "count": 2
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Solid and papillary\\n  - Nuclear grade: Intermediate\\n  - Necrosis: Absent",
+        "count": 2
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Flat\\n  - Nuclear grade: High\\n  - Necrosis: Absent",
+        "count": 1
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Cribriform\\n  - Nuclear grade: High\\n  - Necrosis: Absent",
+        "count": 1
+      },
+      {
+        "report": "Breast, mammotome biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Solid\\n  - Nuclear grade: Intermediate\\n  - Necrosis: Absent",
+        "count": 1
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Cribriform and micropapillary\\n  - Nuclear grade: Intermediate\\n  - Necrosis: Absent",
+        "count": 1
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Cribriform and papillary\\n  - Nuclear grade: Low\\n  - Necrosis: Absent",
+        "count": 1
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Solid\\n  - Nuclear grade: Low\\n  - Necrosis: Absent",
+        "count": 1
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Micropapillary\\n  - Nuclear grade: Low\\n  - Necrosis: Absent",
+        "count": 1
+      },
+      {
+        "report": "Breast, aspiration biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Solid\\n  - Nuclear grade: Low\\n  - Necrosis: Absent",
+        "count": 1
+      }
+    ],
+    "path_89148956a69f": [
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  No tumor present\\n\\nNote) The specimen includes muscle proper.",
+        "count": 52
+      },
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  No tumor present\\n\\nNote) The specimen does not include muscle proper.",
+        "count": 17
+      }
+    ],
+    "path_097f85bee416": [
+      {
+        "report": "Lung, biopsy;\\n  Squamous cell carcinoma",
+        "count": 179
+      }
+    ],
+    "path_309bc5051931": [
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Microinvasive carcinoma\\n  2. Ductal carcinoma in situ",
+        "count": 6
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Mucinous carcinoma\\n  2. Ductal carcinoma in situ",
+        "count": 3
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Invasive lobular carcinoma\\n  2. Ductal carcinoma in situ",
+        "count": 3
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Invasive micropapillary carcinoma\\n  2. Ductal carcinoma in situ",
+        "count": 2
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Invasive carcinoma with features of mucinous carcinoma\\n  2. Ductal carcinoma in situ",
+        "count": 1
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Invasive cribriform carcinoma\\n  2. Ductal carcinoma in situ",
+        "count": 1
+      }
+    ],
+    "path_070436a1310f": [
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Ductal carcinoma in situ\\n     - Type: Solid\\n     - Nuclear grade: High\\n     - Necrosis: Present (Focal)\\n  2. Microcalcification",
+        "count": 7
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Ductal carcinoma in situ\\n     - Type: Solid\\n     - Nuclear grade: High\\n     - Necrosis: Present (Comedo-type)\\n  2. Microcalcification",
+        "count": 5
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Ductal carcinoma in situ\\n     - Type: Solid\\n     - Nuclear grade: Intermediate\\n     - Necrosis: Present (Comedo-type)\\n  2. Microcalcification",
+        "count": 4
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Ductal carcinoma in situ\\n     - Type: Solid\\n     - Nuclear grade: Intermediate\\n     - Necrosis: Present (Focal)\\n  2. Microcalcification",
+        "count": 1
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Ductal carcinoma in situ\\n     - Type: Solid and micropapillary\\n     - Nuclear grade: High\\n     - Necrosis: Present (Focal)\\n  2. Microcalcification",
+        "count": 1
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Ductal carcinoma in situ\\n     - Type: Micropapillary\\n     - Nuclear grade: High\\n     - Necrosis: Present (Focal)\\n  2. Microcalcification",
+        "count": 1
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Ductal carcinoma in situ\\n     - Type: Cribriform and solid\\n     - Nuclear grade: Intermediate\\n     - Necrosis: Present (Comedo-type)\\n  2. Microcalcification",
+        "count": 1
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Ductal carcinoma in situ\\n     - Type: Cribriform\\n     - Nuclear grade: Intermediate\\n     - Necrosis: Present (Focal)\\n  2. Microcalcification",
+        "count": 1
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Ductal carcinoma in situ\\n     - Type: Cribriform\\n     - Nuclear grade: Intermediate\\n     - Necrosis: Present (Comedo-type)\\n  2. Microcalcification",
+        "count": 1
+      }
+    ],
+    "path_01724e9698e8": [
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Usual ductal hyperplasia\\n  2. Fibroadenomatoid change",
+        "count": 3
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Papillary neoplasm\\n  2. Fibroepithelial tumor, favor fibroadenoma",
+        "count": 1
+      },
+      {
+        "report": "Breast, mammotome biopsy;\\n  1. Usual ductal hyperplasia\\n  2. Fibroadenomatoid change",
+        "count": 1
+      }
+    ],
+    "path_5cf503fd33ea": [
+      {
+        "report": "Prostate, biopsy;\\n  No tumor present",
+        "count": 811
+      },
+      {
+        "report": "Colon, colonoscopic biopsy;\\n  Chronic nonspecific inflammation",
+        "count": 231
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Chronic gastritis",
+        "count": 118
+      },
+      {
+        "report": "Lung, biopsy;\\n  No evidence of malignancy or granuloma",
+        "count": 50
+      },
+      {
+        "report": "Rectum, colonoscopic biopsy;\\n  Chronic nonspecific inflammation",
+        "count": 38
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  No evidence of tumor",
+        "count": 34
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Fibrocystic change",
+        "count": 31
+      },
+      {
+        "report": "Uterine cervix, colposcopic biopsy;\\n  Chronic nonspecific cervicitis",
+        "count": 23
+      },
+      {
+        "report": "Uterine cervix, punch biopsy;\\n  Chronic nonspecific cervicitis",
+        "count": 5
+      },
+      {
+        "report": "Breast, mammotome biopsy;\\n  Fibrocystic change",
+        "count": 1
+      },
+      {
+        "report": "Breast, stereotactic biopsy;\\n  No evidence of tumor",
+        "count": 1
+      }
+    ],
+    "path_edabcc15382a": [
+      {
+        "report": "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Solid\\n  - Nuclear grade: High\\n  - Necrosis: Present (Comedo-type)",
+        "count": 35
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Solid\\n  - Nuclear grade: High\\n  - Necrosis: Present (Focal)",
+        "count": 31
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Solid\\n  - Nuclear grade: Intermediate\\n  - Necrosis: Present (Focal)",
+        "count": 11
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Cribriform\\n  - Nuclear grade: Intermediate\\n  - Necrosis: Present (Focal)",
+        "count": 11
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Cribriform\\n  - Nuclear grade: Intermediate\\n  - Necrosis: Present (Comedo-type)",
+        "count": 11
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Solid\\n  - Nuclear grade: Intermediate\\n  - Necrosis: Present (Comedo-type)",
+        "count": 10
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Cribriform\\n  - Nuclear grade: High\\n  - Necrosis: Present (Comedo-type)",
+        "count": 9
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Cribriform\\n  - Nuclear grade: High\\n  - Necrosis: Present (Focal)",
+        "count": 4
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Micropapillary\\n  - Nuclear grade: Intermediate\\n  - Necrosis: Present (Comedo-type)",
+        "count": 3
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Cribriform and solid\\n  - Nuclear grade: Intermediate\\n  - Necrosis: Present (Comedo-type)",
+        "count": 2
+      },
+      {
+        "report": "Breast, mammotome biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Solid\\n  - Nuclear grade: High\\n  - Necrosis: Present (Comedo-type)",
+        "count": 2
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Cribriform and solid\\n  - Nuclear grade: Low\\n  - Necrosis: Present (Comedo-type)",
+        "count": 1
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Micropapillary\\n  - Nuclear grade: Intermediate\\n  - Necrosis: Present (Focal)",
+        "count": 1
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Solid and cribriform\\n  - Nuclear grade: High\\n  - Necrosis: Present (Focal)",
+        "count": 1
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Micropapillary\\n  - Nuclear grade: High\\n  - Necrosis: Present (Comedo-type)",
+        "count": 1
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Solid and micropapillary\\n  - Nuclear grade: High\\n  - Necrosis: Present (Comedo-type)",
+        "count": 1
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Solid and micropapillary\\n  - Nuclear grade: High\\n  - Necrosis: Present (Focal)",
+        "count": 1
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Solid and cribriform\\n  - Nuclear grade: High\\n  - Necrosis: Present (Comedo-type)",
+        "count": 1
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Micropapillary\\n  - Nuclear grade: High\\n  - Necrosis: Present (Focal)",
+        "count": 1
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Ductal carcinoma in situ\\n  - Type: Solid and cribriform\\n  - Nuclear grade: Intermediate\\n  - Necrosis: Present (Focal)",
+        "count": 1
+      }
+    ],
+    "path_e4e656617d0c": [
+      {
+        "report": "Breast, core needle biopsy;\\n  Fibroepithelial tumor",
+        "count": 55
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Fibroepithelial tumor, favor fibroadenoma",
+        "count": 36
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Fibroadenoma",
+        "count": 18
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Fibroadenomatoid change",
+        "count": 9
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Sclerosing adenosis",
+        "count": 9
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Fibroepithelial tumor, favor phyllodes tumor",
+        "count": 7
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Phyllodes tumor",
+        "count": 5
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Apocrine adenosis",
+        "count": 4
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Desmoid fibromatosis",
+        "count": 2
+      }
+    ],
+    "path_4cb72964339d": [
+      {
+        "report": "Colon, colonoscopic biopsy;\\n  Hyperplastic polyp",
+        "count": 113
+      },
+      {
+        "report": "Colon, colonoscopic polypectomy;\\n  Hyperplastic polyp",
+        "count": 61
+      },
+      {
+        "report": "Colon, colonoscopic mucosal resection;\\n  Hyperplastic polyp",
+        "count": 4
+      },
+      {
+        "report": "Rectum, colonoscopic biopsy;\\n  Hyperplastic polyp",
+        "count": 2
+      },
+      {
+        "report": "Colon, colonoscopic submucosal dissection;\\n  Hyperplastic polyp",
+        "count": 1
+      }
+    ],
+    "path_7d499a3e2881": [
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  1. Non-invasive papillary urothelial carcinoma, high grade\\n  2. Urothelial carcinoma in situ\\n\\nNote) The specimen includes muscle proper.",
+        "count": 39
+      },
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  1. Non-invasive papillary urothelial carcinoma, low grade\\n  2. Urothelial carcinoma in situ\\n\\nNote) The specimen includes muscle proper.",
+        "count": 2
+      },
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  1. Non-invasive papillary urothelial carcinoma, high grade, with squamous differentiation\\n  2. Urothelial carcinoma in situ\\n\\nNote) The specimen includes muscle proper.",
+        "count": 1
+      },
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  1. Non-invasive papillary urothelial carcinoma, high grade\\n  2. Urothelial carcinoma in situ\\n\\nNote) The specimen does not include muscle proper.",
+        "count": 1
+      }
+    ],
+    "path_141989f64132": [
+      {
+        "report": "Colon, colonoscopic biopsy;\\n  Adenocarcinoma, moderately differentiated",
+        "count": 348
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Adenocarcinoma, moderately differentiated",
+        "count": 305
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Adenocarcinoma, well differentiated",
+        "count": 173
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Adenocarcinoma, poorly differentiated",
+        "count": 153
+      },
+      {
+        "report": "Rectum, colonoscopic biopsy;\\n  Adenocarcinoma, moderately differentiated",
+        "count": 114
+      },
+      {
+        "report": "Colon, colonoscopic biopsy;\\n  Adenocarcinoma, well differentiated",
+        "count": 104
+      },
+      {
+        "report": "Rectum, colonoscopic biopsy;\\n  Adenocarcinoma, well differentiated",
+        "count": 32
+      },
+      {
+        "report": "Colon, colonoscopic biopsy;\\n  Adenocarcinoma, poorly differentiated",
+        "count": 32
+      },
+      {
+        "report": "Colon, colonoscopic mucosal resection;\\n  Adenocarcinoma, well differentiated",
+        "count": 10
+      },
+      {
+        "report": "Colon, colonoscopic polypectomy;\\n  Adenocarcinoma, well differentiated",
+        "count": 6
+      },
+      {
+        "report": "Rectum, colonoscopic biopsy;\\n  Adenocarcinoma, poorly differentiated",
+        "count": 5
+      },
+      {
+        "report": "Stomach, endoscopic submucosal dissection;\\n  Adenocarcinoma, moderately differentiated",
+        "count": 5
+      },
+      {
+        "report": "Colon, colonoscopic biopsy;\\n  Adenocarcinoma, moderately differentiated with mucinous component",
+        "count": 4
+      },
+      {
+        "report": "Colon, colonoscopic submucosal dissection;\\n  Adenocarcinoma, moderately differentiated",
+        "count": 4
+      },
+      {
+        "report": "Stomach, endoscopic submucosal dissection;\\n  Adenocarcinoma, well differentiated",
+        "count": 4
+      },
+      {
+        "report": "Colon, colonoscopic polypectomy;\\n  Adenocarcinoma, moderately differentiated",
+        "count": 4
+      },
+      {
+        "report": "Colon, colonoscopic mucosal resection;\\n  Adenocarcinoma, moderately differentiated",
+        "count": 3
+      },
+      {
+        "report": "Colon, colonoscopic submucosal dissection;\\n  Adenocarcinoma, well differentiated",
+        "count": 3
+      },
+      {
+        "report": "Rectum, colonoscopic submucosal dissection;\\n  Adenocarcinoma, moderately differentiated",
+        "count": 2
+      },
+      {
+        "report": "Colon, colonoscopic biopsy;\\n  Adenocarcinoma, well differentiated with mucinous component",
+        "count": 2
+      }
+    ],
+    "path_e8e3b56d6fd4": [
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)\\n  2. Ductal carcinoma in situ",
+        "count": 80
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade I (Tubule formation: 2, Nuclear grade: 2, Mitoses: 1)\\n  2. Ductal carcinoma in situ",
+        "count": 22
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 2)\\n  2. Ductal carcinoma in situ",
+        "count": 11
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 3, Mitoses: 1)\\n  2. Ductal carcinoma in situ",
+        "count": 8
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade I (Tubule formation: 3, Nuclear grade: 1, Mitoses: 1)\\n  2. Ductal carcinoma in situ",
+        "count": 7
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade III (Tubule formation: 3, Nuclear grade: 3, Mitoses: 2)\\n  2. Ductal carcinoma in situ",
+        "count": 6
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade I (Tubule formation: 1, Nuclear grade: 2, Mitoses: 1)\\n  2. Ductal carcinoma in situ",
+        "count": 3
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade I (Tubule formation: 2, Nuclear grade: 1, Mitoses: 1)\\n  2. Ductal carcinoma in situ",
+        "count": 2
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade III (Tubule formation: 3, Nuclear grade: 3, Mitoses: 3)\\n  2. Ductal carcinoma in situ",
+        "count": 2
+      },
+      {
+        "report": "Breast, mammotome biopsy;\\n  1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 3, Mitoses: 1)\\n  2. Ductal carcinoma in situ",
+        "count": 1
+      },
+      {
+        "report": "Breast, mammotome biopsy;\\n  1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)\\n  2. Ductal carcinoma in situ",
+        "count": 1
+      },
+      {
+        "report": "Breast, mammotome biopsy;\\n  1. Invasive carcinoma of no special type, grade III (Tubule formation: 3, Nuclear grade: 3, Mitoses: 2)\\n  2. Ductal carcinoma in situ",
+        "count": 1
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade II (Tubule formation: 2, Nuclear grade: 2, Mitoses: 2)\\n  2. Ductal carcinoma in situ",
+        "count": 1
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade II (Tubule formation: 2, Nuclear grade: 3, Mitoses: 2)\\n  2. Ductal carcinoma in situ",
+        "count": 1
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade II (Tubule formation: 2, Nuclear grade: 3, Mitoses: 1)\\n  2. Ductal carcinoma in situ",
+        "count": 1
+      }
+    ],
+    "path_7f2d1f5b64f9": [
+      {
+        "report": "Lung, biopsy;\\n  1. Chronic granulomatous inflammation without necrosis\\n  2. Fungal infection, morphologically consistent with Cryptococcus spp.",
+        "count": 3
+      }
+    ],
+    "path_a4e187cc4043": [
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Invasive lobular carcinoma\\n  2. Lobular carcinoma in situ",
+        "count": 9
+      }
+    ],
+    "path_82e109c7a8b6": [
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  1. Invasive urothelial carcinoma,\\n     with involvement of subepithelial connective tissue\\n  2. Urothelial carcinoma in situ\\n\\nNote) The specimen includes muscle proper.",
+        "count": 53
+      },
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  1. Invasive urothelial carcinoma,\\n     with involvement of muscle proper\\n  2. Urothelial carcinoma in situ\\n\\nNote) The specimen includes muscle proper.",
+        "count": 21
+      },
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  1. Invasive urothelial carcinoma,\\n     with involvement of subepithelial connective tissue\\n  2. Urothelial carcinoma in situ\\n\\nNote) The specimen does not include muscle proper.",
+        "count": 10
+      },
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  1. Invasive urothelial carcinoma, with\\n    1) involvement of muscle proper\\n    2) squamous differentiation\\n  2. Urothelial carcinoma in situ\\n\\nNote) The specimen includes muscle proper.",
+        "count": 1
+      }
+    ],
+    "path_562cc69aeed3": [
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  Urothelial carcinoma in situ\\n\\nNote) The specimen includes muscle proper.",
+        "count": 61
+      },
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  Urothelial carcinoma in situ\\n\\nNote) The specimen does not include muscle proper.",
+        "count": 20
+      }
+    ],
+    "path_e43d74a95d7d": [
+      {
+        "report": "Prostate, biopsy;\\n  1. No tumor present\\n  2. Acute prostatitis",
+        "count": 1
+      }
+    ],
+    "path_0a9a3c81beb1": [
+      {
+        "report": "Lung, biopsy;\\n  Adenocarcinoma",
+        "count": 388
+      },
+      {
+        "report": "Lung, biopsy;\\n  Invasive mucinous adenocarcinoma",
+        "count": 18
+      }
+    ],
+    "path_74f43aabf77a": [
+      {
+        "report": "Breast, core needle biopsy;\\n  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)",
+        "count": 387
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 3, Mitoses: 1)",
+        "count": 95
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Invasive carcinoma of no special type, grade III (Tubule formation: 3, Nuclear grade: 3, Mitoses: 2)",
+        "count": 94
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Invasive carcinoma of no special type, grade I (Tubule formation: 2, Nuclear grade: 2, Mitoses: 1)",
+        "count": 84
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 2)",
+        "count": 67
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Invasive carcinoma of no special type, grade I (Tubule formation: 3, Nuclear grade: 1, Mitoses: 1)",
+        "count": 38
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Invasive carcinoma of no special type, grade III (Tubule formation: 3, Nuclear grade: 3, Mitoses: 3)",
+        "count": 17
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Invasive carcinoma of no special type, grade I (Tubule formation: 1, Nuclear grade: 2, Mitoses: 1)",
+        "count": 15
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Invasive carcinoma of no special type, grade II (Tubule formation: 2, Nuclear grade: 3, Mitoses: 1)",
+        "count": 8
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Invasive carcinoma of no special type, grade III (Tubule formation: 3, Nuclear grade: 2, Mitoses: 3)",
+        "count": 8
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Invasive carcinoma of no special type, grade I (Tubule formation: 2, Nuclear grade: 1, Mitoses: 1)",
+        "count": 6
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Invasive carcinoma of no special type, grade I (Tubule formation: 1, Nuclear grade: 1, Mitoses: 1)",
+        "count": 5
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Invasive carcinoma of no special type, grade II (Tubule formation: 2, Nuclear grade: 2, Mitoses: 2)",
+        "count": 4
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Invasive carcinoma of no special type, grade II (Tubule formation: 2, Nuclear grade: 3, Mitoses: 2)",
+        "count": 3
+      },
+      {
+        "report": "Breast, mammotome biopsy;\\n  Invasive carcinoma of no special type, grade III (Tubule formation: 3, Nuclear grade: 3, Mitoses: 2)",
+        "count": 2
+      },
+      {
+        "report": "Breast, mammotome biopsy;\\n  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 3, Mitoses: 1)",
+        "count": 1
+      },
+      {
+        "report": "Breast, mammotome biopsy;\\n  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)",
+        "count": 1
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Invasive carcinoma of no special type, grade I (Tubule formation: 1, Nuclear grade: 2, Mitoses: 2)",
+        "count": 1
+      }
+    ],
+    "path_5ba74aee739c": [
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)\\n  2. Microcalcification",
+        "count": 32
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade I (Tubule formation: 2, Nuclear grade: 2, Mitoses: 1)\\n  2. Microcalcification",
+        "count": 15
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 3, Mitoses: 1)\\n  2. Microcalcification",
+        "count": 4
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Invasive carcinoma of no special type, grade III (Tubule formation: 3, Nuclear grade: 3, Mitoses: 2)\\n  2. Microcalcification",
+        "count": 3
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade I (Tubule formation: 1, Nuclear grade: 2, Mitoses: 1)\\n  2. Microcalcification",
+        "count": 2
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 2)\\n  2. Microcalcification",
+        "count": 1
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade I (Tubule formation: 3, Nuclear grade: 1, Mitoses: 1)\\n  2. Microcalcification",
+        "count": 1
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade II (Tubule formation: 2, Nuclear grade: 3, Mitoses: 1)\\n  2. Microcalcification",
+        "count": 1
+      }
+    ],
+    "path_dceff68de5ba": [
+      {
+        "report": "Breast, core needle biopsy;\\n  Papillary neoplasm",
+        "count": 157
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Columnar cell lesion",
+        "count": 21
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Usual ductal hyperplasia",
+        "count": 16
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Intraductal papilloma",
+        "count": 14
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Intraductal papilloma with usual ductal hyperplasia",
+        "count": 13
+      },
+      {
+        "report": "Breast, mammotome biopsy;\\n  Intraductal papilloma with usual ductal hyperplasia",
+        "count": 5
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Flat epithelial atypia",
+        "count": 4
+      },
+      {
+        "report": "Breast, stereotactic biopsy;\\n  Columnar cell lesion",
+        "count": 2
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Intraductal papilloma with apocrine metaplasia",
+        "count": 1
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Papillary neoplasm with apocrine metaplasia",
+        "count": 1
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Papillary neoplasm with usual ductal hyperplasia",
+        "count": 1
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Columnar cell hyperplasia",
+        "count": 1
+      }
+    ],
+    "path_b26c4bb8c831": [
+      {
+        "report": "Colon, colonoscopic biopsy;\\n  Tubular adenoma with low grade dysplasia",
+        "count": 275
+      },
+      {
+        "report": "Colon, colonoscopic polypectomy;\\n  Tubular adenoma with low grade dysplasia",
+        "count": 149
+      },
+      {
+        "report": "Colon, colonoscopic biopsy;\\n  Tubular adenoma with high grade dysplasia",
+        "count": 56
+      },
+      {
+        "report": "Colon, colonoscopic polypectomy;\\n  Tubular adenoma with high grade dysplasia",
+        "count": 36
+      },
+      {
+        "report": "Colon, colonoscopic mucosal resection;\\n  Tubular adenoma with high grade dysplasia",
+        "count": 20
+      },
+      {
+        "report": "Colon, colonoscopic mucosal resection;\\n  Tubular adenoma with low grade dysplasia",
+        "count": 16
+      },
+      {
+        "report": "Rectum, colonoscopic biopsy;\\n  Tubular adenoma with high grade dysplasia",
+        "count": 11
+      },
+      {
+        "report": "Rectum, colonoscopic biopsy;\\n  Tubular adenoma with low grade dysplasia",
+        "count": 4
+      },
+      {
+        "report": "Colon, colonoscopic submucosal dissection;\\n  Tubular adenoma with low grade dysplasia",
+        "count": 2
+      },
+      {
+        "report": "Colon, colonoscopic submucosal dissection;\\n  Tubular adenoma with high grade dysplasia",
+        "count": 2
+      },
+      {
+        "report": "Rectum, colonoscopic polypectomy;\\n  Tubular adenoma with high grade dysplasia",
+        "count": 2
+      },
+      {
+        "report": "Rectum, colonoscopic mucosal resection;\\n  Tubular adenoma with high grade dysplasia",
+        "count": 1
+      },
+      {
+        "report": "Rectum, colonoscopic polypectomy;\\n  Tubular adenoma with low grade dysplasia",
+        "count": 1
+      }
+    ],
+    "path_147645a77fb6": [
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  Non-invasive papillary urothelial carcinoma, high grade\\n\\nNote) The specimen includes muscle proper.",
+        "count": 169
+      },
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  Non-invasive papillary urothelial carcinoma, low grade\\n\\nNote) The specimen includes muscle proper.",
+        "count": 104
+      },
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  Non-invasive papillary urothelial carcinoma, high grade\\n\\nNote) The specimen does not include muscle proper.",
+        "count": 64
+      },
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  Non-invasive papillary urothelial carcinoma, low grade\\n\\nNote) The specimen does not include muscle proper.",
+        "count": 50
+      },
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  Non-invasive papillary urothelial carcinoma, high grade, with squamous differentiation\\n\\nNote) The specimen includes muscle proper.",
+        "count": 5
+      },
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  Non-invasive papillary urothelial carcinoma, high grade, with squamous differentiation\\n\\nNote) The specimen does not include muscle proper.",
+        "count": 2
+      }
+    ],
+    "path_34792ad9d955": [
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Fundic gland polyp",
+        "count": 4
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Hyperplastic polyp",
+        "count": 4
+      }
+    ],
+    "path_57ed88c2b54c": [
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Ductal carcinoma in situ\\n     - Type: Cribriform\\n     - Nuclear grade: Intermediate\\n     - Necrosis: Absent\\n  2. Microcalcification",
+        "count": 7
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Ductal carcinoma in situ\\n     - Type: Solid\\n     - Nuclear grade: Intermediate\\n     - Necrosis: Absent\\n  2. Microcalcification",
+        "count": 4
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Ductal carcinoma in situ\\n     - Type: Cribriform\\n     - Nuclear grade: Low\\n     - Necrosis: Absent\\n  2. Microcalcification",
+        "count": 3
+      },
+      {
+        "report": "Breast, mammotome biopsy;\\n  1. Ductal carcinoma in situ\\n     - Type: Solid\\n     - Nuclear grade: Intermediate\\n     - Necrosis: Absent\\n  2. Microcalcification",
+        "count": 1
+      },
+      {
+        "report": "Breast, mammotome biopsy;\\n  1. Ductal carcinoma in situ\\n     - Type: Cribriform\\n     - Nuclear grade: Intermediate\\n     - Necrosis: Absent\\n  2. Microcalcification",
+        "count": 1
+      }
+    ],
+    "path_04fec8ddde22": [
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  1. Urothelial carcinoma in situ\\n  2. Chronic granulomatous inflammation with foreign body reaction\\n\\nNote) The specimen includes muscle proper.",
+        "count": 10
+      },
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  1. Urothelial carcinoma in situ\\n  2. Chronic granulomatous inflammation with foreign body reaction\\n\\nNote) The specimen does not include muscle proper.",
+        "count": 1
+      }
+    ],
+    "path_1da80dbf2e70": [
+      {
+        "report": "Lung, biopsy;\\n  1. Small cell carcinoma\\n  2. Fungal ball, morphologically consistent with Aspergillus spp.",
+        "count": 1
+      }
+    ],
+    "path_6c8f2e7526d0": [
+      {
+        "report": "Uterine cervix, punch biopsy;\\n  Endocervical polyp with radiation change",
+        "count": 1
+      },
+      {
+        "report": "Uterine cervix, punch biopsy;\\n  Microglandular hyperplasia",
+        "count": 1
+      },
+      {
+        "report": "Uterine cervix, punch biopsy;\\n  Endocervical polyp",
+        "count": 1
+      }
+    ],
+    "path_9388a19f6694": [
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Extranodal marginal zone B cell lymphoma of MALT type",
+        "count": 103
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Malignant lymphoma",
+        "count": 26
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Small cell carcinoma",
+        "count": 7
+      },
+      {
+        "report": "Colon, colonoscopic biopsy;\\n  Malignant lymphoma",
+        "count": 5
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Squamous cell carcinoma",
+        "count": 5
+      },
+      {
+        "report": "Stomach, endoscopic mucosal resection;\\n  Gastrointestinal stromal tumor",
+        "count": 4
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Malignant melanoma",
+        "count": 4
+      },
+      {
+        "report": "Rectum, colonoscopic biopsy;\\n  Squamous cell carcinoma",
+        "count": 3
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Gastrointestinal stromal tumor",
+        "count": 3
+      },
+      {
+        "report": "Rectum, colonoscopic biopsy;\\n  Malignant lymphoma",
+        "count": 2
+      },
+      {
+        "report": "Colon, colonoscopic biopsy;\\n  Small cell carcinoma",
+        "count": 2
+      },
+      {
+        "report": "Rectum, colonoscopic biopsy;\\n  Extranodal marginal zone lymphoma\\n  of mucosa-associated lymphoid tissue (MALT lymphoma)",
+        "count": 2
+      },
+      {
+        "report": "Colon, colonoscopic biopsy;\\n  Extranodal marginal zone lymphoma\\n  of mucosa-associated lymphoid tissue (MALT lymphoma)",
+        "count": 2
+      },
+      {
+        "report": "Rectum, colonoscopic biopsy;\\n  Gastrointestinal stromal tumor",
+        "count": 1
+      },
+      {
+        "report": "Colon, colonoscopic biopsy;\\n  Gastrointestinal stromal tumor",
+        "count": 1
+      }
+    ],
+    "path_cd3ac04f4d4c": [
+      {
+        "report": "Lung, biopsy;\\n  Fungal ball, morphologically consistent with Aspergillus spp.",
+        "count": 3
+      },
+      {
+        "report": "Lung, biopsy;\\n  Fungal infection, morphologically consistent with Cryptococcus spp.",
+        "count": 1
+      }
+    ],
+    "path_b9381ad8098a": [
+      {
+        "report": "Colon, colonoscopic polypectomy;\\n  Sessile serrated lesion",
+        "count": 41
+      },
+      {
+        "report": "Colon, colonoscopic biopsy;\\n  Sessile serrated lesion",
+        "count": 13
+      },
+      {
+        "report": "Colon, colonoscopic mucosal resection;\\n  Sessile serrated lesion",
+        "count": 6
+      },
+      {
+        "report": "Colon, colonoscopic biopsy;\\n  Traditional serrated adenoma",
+        "count": 4
+      },
+      {
+        "report": "Rectum, colonoscopic biopsy;\\n  Traditional serrated adenoma",
+        "count": 1
+      },
+      {
+        "report": "Rectum, colonoscopic polypectomy;\\n  Sessile serrated lesion",
+        "count": 1
+      }
+    ],
+    "path_f942b6b16959": [
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Usual ductal hyperplasia\\n  2. Duct ectasia\\n  3. Microcalcification",
+        "count": 2
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Usual ductal hyperplasia\\n  2. Microcalcification\\n  3. Apocrine metaplasia",
+        "count": 2
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Apocrine metaplasia\\n  2. Usual ductal hyperplasia\\n  3. Fibrocystic change",
+        "count": 1
+      }
+    ],
+    "path_6c9f1ebb6500": [
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  1. No tumor present\\n  2. Chronic granulomatous inflammation with foreign body reaction\\nNote) The specimen includes muscle proper.",
+        "count": 7
+      },
+      {
+        "report": "Urinary bladder, transurethral resection;\\n  1. No tumor present\\n  2. Chronic granulomatous inflammation with foreign body reaction\\nNote) The specimen does not include muscle proper.",
+        "count": 5
+      }
+    ],
+    "path_af7ac0ebbc72": [
+      {
+        "report": "Lung, biopsy;\\n  1. No evidence of malignancy or granuloma\\n  2. Chronic inflammation with organizing fibrosis",
+        "count": 16
+      },
+      {
+        "report": "Lung, biopsy;\\n  1. No evidence of malignancy or granuloma\\n  2. Chronic inflammation with type II pneumocyte hyperplasia",
+        "count": 7
+      }
+    ],
+    "path_ead6c473639f": [
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade I (Tubule formation: 2, Nuclear grade: 1, Mitoses: 1)\\n  2. Ductal carcinoma in situ\\n  3. Microcalcification",
+        "count": 9
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)\\n  2. Ductal carcinoma in situ\\n  3. Microcalcification",
+        "count": 7
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 3, Mitoses: 1)\\n  2. Ductal carcinoma in situ\\n  3. Microcalcification",
+        "count": 6
+      },
+      {
+        "report": "Breast, mammotome biopsy;\\n  1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 2)\\n  2. Ductal carcinoma in situ\\n  3. Microcalcification",
+        "count": 3
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade III (Tubule formation: 3, Nuclear grade: 3, Mitoses: 3)\\n  2. Ductal carcinoma in situ\\n  3. Microcalcification",
+        "count": 1
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade II (Tubule formation: 2, Nuclear grade: 3, Mitoses: 2)\\n  2. Ductal carcinoma in situ\\n  3. Microcalcification",
+        "count": 1
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Invasive carcinoma of no special type, grade I (Tubule formation: 1, Nuclear grade: 2, Mitoses: 1)\\n  2. Ductal carcinoma in situ\\n  3. Microcalcification",
+        "count": 1
+      }
+    ],
+    "path_a115de7df01c": [
+      {
+        "report": "Breast, core needle biopsy;\\n  Solid papillary carcinoma in situ",
+        "count": 3
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Intraductal papilloma with atypical ductal hyperplasia",
+        "count": 3
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Papillary neoplasm with atypical ductal hyperplasia",
+        "count": 2
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  Ductal carcinoma in situ in intraductal papilloma",
+        "count": 1
+      }
+    ],
+    "path_9d9509aeabb7": [
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Chronic gastritis with intestinal metaplasia",
+        "count": 85
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Chronic active gastritis",
+        "count": 21
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Chronic active gastritis with intestinal metaplasia",
+        "count": 20
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Chronic active gastritis with foveolar epithelial hyperplasia",
+        "count": 8
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Chronic gastritis with foveolar epithelial hyperplasia",
+        "count": 6
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Chronic gastritis\\n with 1) intestinal metaplasia\\n       2) foveolar epithelial hyperplasia",
+        "count": 5
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Chronic active gastritis\\n  with 1) intestinal metaplasia\\n       2) foveolar epithelial hyperplasia",
+        "count": 1
+      }
+    ],
+    "path_63449e1ee91d": [
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Chronic active gastritis\\n  1) ulcer\\n       2) intestinal metaplasia\\n       3) lymphoid aggregate",
+        "count": 2
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Chronic active gastritis\\n  1) erosion\\n       2) lymphoid aggregate",
+        "count": 2
+      },
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Chronic active gastritis\\n  1) erosion\\n       2) intestinal metaplasia\\n       3) lymphoid aggregate",
+        "count": 1
+      }
+    ],
+    "path_98c73ab953e4": [
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Invasive lobular carcinoma\\n  2. Lobular carcinoma in situ\\n  3. Microcalcification",
+        "count": 8
+      }
+    ],
+    "path_6575081bbfe3": [
+      {
+        "report": "Stomach, endoscopic biopsy;\\n  Amyloidosis",
+        "count": 2
+      }
+    ],
+    "path_013918004275": [
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Columnar cell lesion\\n  2. Apocrine metaplasia",
+        "count": 6
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Usual ductal hyperplasia\\n  2. Apocrine metaplasia",
+        "count": 3
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Intraductal papilloma\\n  2. Apocrine metaplasia",
+        "count": 2
+      },
+      {
+        "report": "Breast, core needle biopsy;\\n  1. Columnar cell lesion\\n  2. Duct ectasia",
+        "count": 1
+      }
+    ],
+    "path_1a4c800bd53b": [
+      {
+        "report": "Uterine cervix, colposcopic biopsy;\\n  Endocervical adenocarcinoma in situ (AIS), HPV-associated",
+        "count": 4
+      },
+      {
+        "report": "Uterine cervix, punch biopsy;\\n  Endocervical adenocarcinoma, HPV-associated, usual type",
+        "count": 3
+      },
+      {
+        "report": "Uterine cervix, punch biopsy;\\n  Endocervical adenocarcinoma in situ (AIS), HPV-associated",
+        "count": 2
+      },
+      {
+        "report": "Uterine cervix, punch biopsy;\\n  Endocervical adenocarcinoma, HPV-independent, gastric type",
+        "count": 1
+      },
+      {
+        "report": "Uterine cervix, colposcopic biopsy;\\n  Endocervical adenocarcinoma, HPV-independent, gastric type",
+        "count": 1
+      },
+      {
+        "report": "Uterine cervix, colposcopic biopsy;\\n  Endocervical adenocarcinoma, HPV-associated, usual type",
+        "count": 1
+      },
+      {
+        "report": "Uterine cervix, colposcopic biopsy;\\n  Endocervical adenocarcinoma, HPV-independent, clear cell type",
+        "count": 1
+      },
+      {
+        "report": "Uterine cervix, curette biopsy;\\n  Endocervical adenocarcinoma in situ (AIS), HPV-associated",
+        "count": 1
+      }
+    ],
+    "path_b326ab0c8da4": [
+      {
+        "report": "Uterine cervix, loop electrosurgical excision procedure;\\n  1. Endocervical adenocarcinoma in situ (AIS), HPV-associated\\n  2. High-grade squamous intraepithelial lesion (HSIL; CIN 2)",
+        "count": 1
+      }
+    ]
+  }
+}

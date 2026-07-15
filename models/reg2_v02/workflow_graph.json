@@ -1,0 +1,1330 @@
+{
+  "terminal_question": "What is the final pathology report?",
+  "questions": [
+    {
+      "question": "Is there any neoplasm present?",
+      "count": 14995
+    },
+    {
+      "question": "Is there any abnormality present?",
+      "count": 13366
+    },
+    {
+      "question": "What is the organ?",
+      "count": 12299
+    },
+    {
+      "question": "What is the procedure?",
+      "count": 12299
+    },
+    {
+      "question": "What is the #1 diagnosis?",
+      "count": 11220
+    },
+    {
+      "question": "What is the final pathology report?",
+      "count": 11220
+    },
+    {
+      "question": "What is the number of diagnoses to includes?",
+      "count": 11215
+    },
+    {
+      "question": "What is the histologic type of neoplasm?",
+      "count": 10955
+    },
+    {
+      "question": "What is the primary of neoplasm?",
+      "count": 8541
+    },
+    {
+      "question": "What is the grading system?",
+      "count": 8135
+    },
+    {
+      "question": "What is the behavior of neoplasm?",
+      "count": 7276
+    },
+    {
+      "question": "Is there any additional finding present?",
+      "count": 7066
+    },
+    {
+      "question": "Is there any invasion present?",
+      "count": 3493
+    },
+    {
+      "question": "Is there any proliferative lesion present?",
+      "count": 2584
+    },
+    {
+      "question": "What is the grade of neoplasm?",
+      "count": 2514
+    },
+    {
+      "question": "What is the Gleason score?",
+      "count": 2172
+    },
+    {
+      "question": "Is there any microcalcification present?",
+      "count": 2146
+    },
+    {
+      "question": "What is the histologic subtype of neoplasm?",
+      "count": 1942
+    },
+    {
+      "question": "What is the histologic type of lesion?",
+      "count": 1766
+    },
+    {
+      "question": "What is the grade of dysplasia?",
+      "count": 1634
+    },
+    {
+      "question": "Is there any Gleason pattern 3 present?",
+      "count": 1595
+    },
+    {
+      "question": "Is there any Gleason pattern 4 present?",
+      "count": 1595
+    },
+    {
+      "question": "Is there any Gleason pattern 5 present?",
+      "count": 1595
+    },
+    {
+      "question": "What is the pridominant pattern?",
+      "count": 1595
+    },
+    {
+      "question": "What is the secondary pattern constituting more than 5% of tumor?",
+      "count": 1595
+    },
+    {
+      "question": "What is the worst grade pattern?",
+      "count": 1595
+    },
+    {
+      "question": "What is the grade group?",
+      "count": 1595
+    },
+    {
+      "question": "What is the tumor volume?",
+      "count": 1595
+    },
+    {
+      "question": "Is there any neuroendocrine morphology present?",
+      "count": 1530
+    },
+    {
+      "question": "What is the grading system of dysplasia?",
+      "count": 1513
+    },
+    {
+      "question": "What is the grading system of neoplasm?",
+      "count": 1437
+    },
+    {
+      "question": "Is there any dysplasia present?",
+      "count": 1254
+    },
+    {
+      "question": "What is the histologic group of lesion?",
+      "count": 1097
+    },
+    {
+      "question": "Is there any muscularis propria present?",
+      "count": 1079
+    },
+    {
+      "question": "What is the score for tubular differentiation?",
+      "count": 1076
+    },
+    {
+      "question": "What is the score for nuclear pleomorphism?",
+      "count": 1076
+    },
+    {
+      "question": "What is the score for mitotic rate?",
+      "count": 1076
+    },
+    {
+      "question": "What is the overall score?",
+      "count": 1076
+    },
+    {
+      "question": "Is there any serration present?",
+      "count": 947
+    },
+    {
+      "question": "Is there any active inflammation present?",
+      "count": 923
+    },
+    {
+      "question": "Is there any monotonous cell population present?",
+      "count": 893
+    },
+    {
+      "question": "Is there any morphological adenocarcinoma pattern present?",
+      "count": 726
+    },
+    {
+      "question": "Is there any morphological squamous cell pattern present?",
+      "count": 726
+    },
+    {
+      "question": "Is there any villous component present?",
+      "count": 696
+    },
+    {
+      "question": "What is the grading system of atypia?",
+      "count": 686
+    },
+    {
+      "question": "What is the grade of atypia?",
+      "count": 686
+    },
+    {
+      "question": "Is there any glandular involvement present?",
+      "count": 686
+    },
+    {
+      "question": "Is there any papillary lesion present?",
+      "count": 676
+    },
+    {
+      "question": "What is the #2 diagnosis?",
+      "count": 631
+    },
+    {
+      "question": "What is the percentage of Gleason pattern 4?",
+      "count": 577
+    },
+    {
+      "question": "Is there any focus measuring more than 2 mm in contiguous extent present?",
+      "count": 561
+    },
+    {
+      "question": "What is the extent of invasion?",
+      "count": 455
+    },
+    {
+      "question": "Is there any mucinous feature present?",
+      "count": 406
+    },
+    {
+      "question": "Is there any necrosis present?",
+      "count": 402
+    },
+    {
+      "question": "What is the architectural pattern of lesion?",
+      "count": 339
+    },
+    {
+      "question": "What is the nuclear grade of lesion?",
+      "count": 339
+    },
+    {
+      "question": "Is there any inflammation present?",
+      "count": 281
+    },
+    {
+      "question": "Is there any polyp present?",
+      "count": 277
+    },
+    {
+      "question": "Is there any lymphoid aggregate present?",
+      "count": 215
+    },
+    {
+      "question": "Is there any ulceration present?",
+      "count": 215
+    },
+    {
+      "question": "Is there any intestinal metaplasia present?",
+      "count": 215
+    },
+    {
+      "question": "Is there any foveolar epithelial hyperplasia present?",
+      "count": 215
+    },
+    {
+      "question": "Is there any associated epithelial lesion present?",
+      "count": 169
+    },
+    {
+      "question": "What is the type of necrosis?",
+      "count": 166
+    },
+    {
+      "question": "What is the proportion of villous component?",
+      "count": 121
+    },
+    {
+      "question": "Is there any granuloma present?",
+      "count": 109
+    },
+    {
+      "question": "What is the number of distinct histological components?",
+      "count": 102
+    },
+    {
+      "question": "What is the histological subtype of #1 component?",
+      "count": 102
+    },
+    {
+      "question": "What is the histological subtype of #2 component?",
+      "count": 102
+    },
+    {
+      "question": "What is histologic type of lesion?",
+      "count": 83
+    },
+    {
+      "question": "Is there any fungal organism present?",
+      "count": 80
+    },
+    {
+      "question": "Is there any metaplasia present?",
+      "count": 74
+    },
+    {
+      "question": "Is there any stromal change present?",
+      "count": 74
+    },
+    {
+      "question": "What is the #3 diagnosis?",
+      "count": 66
+    },
+    {
+      "question": "What is the histologic type of inflammation?",
+      "count": 60
+    },
+    {
+      "question": "What is the histologic type?",
+      "count": 54
+    },
+    {
+      "question": "Is there any lymphoid follicle present?",
+      "count": 42
+    },
+    {
+      "question": "What is the depth of ulceration?",
+      "count": 31
+    },
+    {
+      "question": "Is there any TDLU involving more than half of acini present?",
+      "count": 24
+    },
+    {
+      "question": "Is there any organizing fibrosis present?",
+      "count": 23
+    },
+    {
+      "question": "Is there any type II pneumocyte hyperplasia present?",
+      "count": 23
+    },
+    {
+      "question": "Is there any myoepithelial cell in fibrovascular core present?",
+      "count": 15
+    },
+    {
+      "question": "Is there any focus measuring more than 3 mm in contiguous extent present?",
+      "count": 15
+    },
+    {
+      "question": "Is there any benign epithelial lesion present?",
+      "count": 12
+    },
+    {
+      "question": "Is there any acute inflammation present?",
+      "count": 12
+    },
+    {
+      "question": "Is there any squamous metaplasia present?",
+      "count": 9
+    },
+    {
+      "question": "What is the morphologically consistent species?",
+      "count": 8
+    },
+    {
+      "question": "What is the histologic type of polyp?",
+      "count": 8
+    },
+    {
+      "question": "What is the additional finding?",
+      "count": 4
+    },
+    {
+      "question": "What is the histologic type of benign epithelial lesion?",
+      "count": 3
+    },
+    {
+      "question": "What is the #4 diagnosis?",
+      "count": 2
+    },
+    {
+      "question": "What is the histological subtype of #3 component?",
+      "count": 1
+    }
+  ],
+  "edges": [
+    {
+      "question": "What is the organ?",
+      "next_question": "Is there any abnormality present?",
+      "count": 11220
+    },
+    {
+      "question": "What is the final pathology report?",
+      "next_question": "",
+      "count": 11220
+    },
+    {
+      "question": "What is the number of diagnoses to includes?",
+      "next_question": "What is the #1 diagnosis?",
+      "count": 11213
+    },
+    {
+      "question": "What is the #1 diagnosis?",
+      "next_question": "What is the final pathology report?",
+      "count": 10589
+    },
+    {
+      "question": "What is the procedure?",
+      "next_question": "Is there any abnormality present?",
+      "count": 9625
+    },
+    {
+      "question": "Is there any abnormality present?",
+      "next_question": "Is there any neoplasm present?",
+      "count": 7662
+    },
+    {
+      "question": "Is there any neoplasm present?",
+      "next_question": "What is the behavior of neoplasm?",
+      "count": 7276
+    },
+    {
+      "question": "Is there any neoplasm present?",
+      "next_question": "What is the primary of neoplasm?",
+      "count": 7276
+    },
+    {
+      "question": "Is there any additional finding present?",
+      "next_question": "What is the number of diagnoses to includes?",
+      "count": 6592
+    },
+    {
+      "question": "What is the primary of neoplasm?",
+      "next_question": "What is the histologic type of neoplasm?",
+      "count": 5792
+    },
+    {
+      "question": "What is the behavior of neoplasm?",
+      "next_question": "What is the histologic type of neoplasm?",
+      "count": 4187
+    },
+    {
+      "question": "What is the histologic type of neoplasm?",
+      "next_question": "What is the grading system?",
+      "count": 2671
+    },
+    {
+      "question": "Is there any proliferative lesion present?",
+      "next_question": "Is there any invasion present?",
+      "count": 2362
+    },
+    {
+      "question": "Is there any abnormality present?",
+      "next_question": "Is there any proliferative lesion present?",
+      "count": 2146
+    },
+    {
+      "question": "Is there any abnormality present?",
+      "next_question": "Is there any microcalcification present?",
+      "count": 2146
+    },
+    {
+      "question": "Is there any microcalcification present?",
+      "next_question": "What is the number of diagnoses to includes?",
+      "count": 2146
+    },
+    {
+      "question": "What is the histologic type of neoplasm?",
+      "next_question": "What is the histologic subtype of neoplasm?",
+      "count": 2083
+    },
+    {
+      "question": "What is the histologic type of neoplasm?",
+      "next_question": "Is there any additional finding present?",
+      "count": 1615
+    },
+    {
+      "question": "What is the procedure?",
+      "next_question": "Is there any abnormality present",
+      "count": 1595
+    },
+    {
+      "question": "What is the histologic type of neoplasm?",
+      "next_question": "What is the tumor volume?",
+      "count": 1595
+    },
+    {
+      "question": "What is the grading system?",
+      "next_question": "Is there any Gleason pattern 3 present?",
+      "count": 1595
+    },
+    {
+      "question": "What is the grading system?",
+      "next_question": "Is there any Gleason pattern 4 present?",
+      "count": 1595
+    },
+    {
+      "question": "What is the grading system?",
+      "next_question": "Is there any Gleason pattern 5 present?",
+      "count": 1595
+    },
+    {
+      "question": "Is there any Gleason pattern 3 present?",
+      "next_question": "What is the pridominant pattern?",
+      "count": 1595
+    },
+    {
+      "question": "Is there any Gleason pattern 4 present?",
+      "next_question": "What is the pridominant pattern?",
+      "count": 1595
+    },
+    {
+      "question": "Is there any Gleason pattern 5 present?",
+      "next_question": "What is the pridominant pattern?",
+      "count": 1595
+    },
+    {
+      "question": "What is the pridominant pattern?",
+      "next_question": "What is the secondary pattern constituting more than 5% of tumor?",
+      "count": 1595
+    },
+    {
+      "question": "What is the secondary pattern constituting more than 5% of tumor?",
+      "next_question": "What is the worst grade pattern?",
+      "count": 1595
+    },
+    {
+      "question": "What is the worst grade pattern?",
+      "next_question": "What is the Gleason score?",
+      "count": 1595
+    },
+    {
+      "question": "What is the Gleason score?",
+      "next_question": "What is the grade group?",
+      "count": 1595
+    },
+    {
+      "question": "What is the grade group?",
+      "next_question": "Is there any additional finding present?",
+      "count": 1595
+    },
+    {
+      "question": "What is the tumor volume?",
+      "next_question": "Is there any additional finding present?",
+      "count": 1595
+    },
+    {
+      "question": "What is the grading system of dysplasia?",
+      "next_question": "What is the grade of dysplasia?",
+      "count": 1513
+    },
+    {
+      "question": "What is the grading system of neoplasm?",
+      "next_question": "What is the grade of neoplasm?",
+      "count": 1437
+    },
+    {
+      "question": "Is there any abnormality present?",
+      "next_question": "What is the number of diagnoses to includes?",
+      "count": 1412
+    },
+    {
+      "question": "What is the behavior of neoplasm?",
+      "next_question": "Is there any serration present?",
+      "count": 1365
+    },
+    {
+      "question": "What is the grade of neoplasm?",
+      "next_question": "What is the number of diagnoses to includes?",
+      "count": 1336
+    },
+    {
+      "question": "What is the histologic subtype of neoplasm?",
+      "next_question": "What is the grading system of neoplasm?",
+      "count": 1321
+    },
+    {
+      "question": "Is there any invasion present?",
+      "next_question": "What is the primary of neoplasm?",
+      "count": 1265
+    },
+    {
+      "question": "What is the histologic type of neoplasm?",
+      "next_question": "Is there any dysplasia present?",
+      "count": 1254
+    },
+    {
+      "question": "What is the grade of dysplasia?",
+      "next_question": "What is the number of diagnoses to includes?",
+      "count": 1183
+    },
+    {
+      "question": "Is there any invasion present?",
+      "next_question": "What is the histologic group of lesion?",
+      "count": 1097
+    },
+    {
+      "question": "What is the organ?",
+      "next_question": "Is there any muscularis propria present?",
+      "count": 1079
+    },
+    {
+      "question": "What is the procedure?",
+      "next_question": "Is there any muscularis propria present?",
+      "count": 1079
+    },
+    {
+      "question": "Is there any muscularis propria present?",
+      "next_question": "What is the number of diagnoses to includes?",
+      "count": 1079
+    },
+    {
+      "question": "What is the grading system?",
+      "next_question": "What is the score for tubular differentiation?",
+      "count": 1076
+    },
+    {
+      "question": "What is the grading system?",
+      "next_question": "What is the score for nuclear pleomorphism?",
+      "count": 1076
+    },
+    {
+      "question": "What is the grading system?",
+      "next_question": "What is the score for mitotic rate?",
+      "count": 1076
+    },
+    {
+      "question": "What is the score for tubular differentiation?",
+      "next_question": "What is the overall score?",
+      "count": 1076
+    },
+    {
+      "question": "What is the score for nuclear pleomorphism?",
+      "next_question": "What is the overall score?",
+      "count": 1076
+    },
+    {
+      "question": "What is the score for mitotic rate?",
+      "next_question": "What is the overall score?",
+      "count": 1076
+    },
+    {
+      "question": "What is the overall score?",
+      "next_question": "What is the grade of neoplasm?",
+      "count": 1076
+    },
+    {
+      "question": "What is the grade of neoplasm?",
+      "next_question": "Is there any additional finding present?",
+      "count": 1076
+    },
+    {
+      "question": "Is there any dysplasia present?",
+      "next_question": "What is the grading system of dysplasia?",
+      "count": 1062
+    },
+    {
+      "question": "What is the behavior of neoplasm?",
+      "next_question": "Is there any invasion present?",
+      "count": 998
+    },
+    {
+      "question": "What is the primary of neoplasm?",
+      "next_question": "Is there any invasion present?",
+      "count": 998
+    },
+    {
+      "question": "What is the primary of neoplasm?",
+      "next_question": "Is there any serration present?",
+      "count": 947
+    },
+    {
+      "question": "What is the histologic group of lesion?",
+      "next_question": "Is there any monotonous cell population present?",
+      "count": 893
+    },
+    {
+      "question": "What is the primary of neoplasm?",
+      "next_question": "Is there any neuroendocrine morphology present?",
+      "count": 804
+    },
+    {
+      "question": "What is the histologic type of lesion?",
+      "next_question": "Is there any additional finding present?",
+      "count": 749
+    },
+    {
+      "question": "What is the behavior of neoplasm?",
+      "next_question": "Is there any neuroendocrine morphology present?",
+      "count": 726
+    },
+    {
+      "question": "Is there any neuroendocrine morphology present?",
+      "next_question": "Is there any morphological adenocarcinoma pattern present?",
+      "count": 726
+    },
+    {
+      "question": "Is there any neuroendocrine morphology present?",
+      "next_question": "Is there any morphological squamous cell pattern present?",
+      "count": 726
+    },
+    {
+      "question": "Is there any morphological squamous cell pattern present?",
+      "next_question": "What is the histologic type of neoplasm?",
+      "count": 726
+    },
+    {
+      "question": "Is there any serration present?",
+      "next_question": "Is there any villous component present?",
+      "count": 696
+    },
+    {
+      "question": "What is the histologic type of neoplasm?",
+      "next_question": "What is the grading system of atypia?",
+      "count": 686
+    },
+    {
+      "question": "What is the histologic type of neoplasm?",
+      "next_question": "Is there any glandular involvement present?",
+      "count": 686
+    },
+    {
+      "question": "What is the grading system of atypia?",
+      "next_question": "What is the grade of atypia?",
+      "count": 686
+    },
+    {
+      "question": "What is the grade of atypia?",
+      "next_question": "Is there any additional finding present?",
+      "count": 686
+    },
+    {
+      "question": "Is there any glandular involvement present?",
+      "next_question": "Is there any additional finding present?",
+      "count": 686
+    },
+    {
+      "question": "Is there any invasion present?",
+      "next_question": "Is there any papillary lesion present?",
+      "count": 676
+    },
+    {
+      "question": "What is the #1 diagnosis?",
+      "next_question": "What is the #2 diagnosis?",
+      "count": 630
+    },
+    {
+      "question": "What is the Gleason score?",
+      "next_question": "What is the percentage of Gleason pattern 4?",
+      "count": 577
+    },
+    {
+      "question": "What is the percentage of Gleason pattern 4?",
+      "next_question": "Is there any additional finding present?",
+      "count": 577
+    },
+    {
+      "question": "Is there any villous component present?",
+      "next_question": "What is the histologic type of neoplasm?",
+      "count": 575
+    },
+    {
+      "question": "What is the #2 diagnosis?",
+      "next_question": "What is the final pathology report?",
+      "count": 565
+    },
+    {
+      "question": "Is there any monotonous cell population present?",
+      "next_question": "Is there any focus measuring more than 2 mm in contiguous extent present?",
+      "count": 561
+    },
+    {
+      "question": "Is there any focus measuring more than 2 mm in contiguous extent present?",
+      "next_question": "What is the histologic type of lesion?",
+      "count": 561
+    },
+    {
+      "question": "What is the histologic subtype of neoplasm?",
+      "next_question": "Is there any additional finding present?",
+      "count": 472
+    },
+    {
+      "question": "Is there any invasion present?",
+      "next_question": "What is the extent of invasion?",
+      "count": 455
+    },
+    {
+      "question": "What is the extent of invasion?",
+      "next_question": "Is there any additional finding present?",
+      "count": 455
+    },
+    {
+      "question": "Is there any papillary lesion present?",
+      "next_question": "What is the grading system of dysplasia?",
+      "count": 451
+    },
+    {
+      "question": "What is the grade of dysplasia?",
+      "next_question": "What is the histologic type of neoplasm?",
+      "count": 451
+    },
+    {
+      "question": "Is there any morphological adenocarcinoma pattern present?",
+      "next_question": "Is there any mucinous feature present?",
+      "count": 406
+    },
+    {
+      "question": "Is there any mucinous feature present?",
+      "next_question": "What is the histologic type of neoplasm?",
+      "count": 406
+    },
+    {
+      "question": "What is the histologic type of neoplasm?",
+      "next_question": "What is the number of diagnoses to includes?",
+      "count": 351
+    },
+    {
+      "question": "What is the histologic type of lesion?",
+      "next_question": "What is the architectural pattern of lesion?",
+      "count": 339
+    },
+    {
+      "question": "What is the histologic type of lesion?",
+      "next_question": "What is the nuclear grade of lesion?",
+      "count": 339
+    },
+    {
+      "question": "What is the histologic type of lesion?",
+      "next_question": "Is there any necrosis present?",
+      "count": 339
+    },
+    {
+      "question": "What is the architectural pattern of lesion?",
+      "next_question": "Is there any additional finding present?",
+      "count": 339
+    },
+    {
+      "question": "What is the nuclear grade of lesion?",
+      "next_question": "Is there any additional finding present?",
+      "count": 339
+    },
+    {
+      "question": "Is there any morphological adenocarcinoma pattern present?",
+      "next_question": "What is the histologic type of neoplasm?",
+      "count": 320
+    },
+    {
+      "question": "Is there any monotonous cell population present?",
+      "next_question": "What is the histologic type of lesion?",
+      "count": 308
+    },
+    {
+      "question": "Is there any additional finding present?",
+      "next_question": "Is there any proliferative lesion present?",
+      "count": 288
+    },
+    {
+      "question": "Is there any neoplasm present?",
+      "next_question": "Is there any polyp present?",
+      "count": 277
+    },
+    {
+      "question": "Is there any serration present?",
+      "next_question": "What is the histologic type of neoplasm?",
+      "count": 251
+    },
+    {
+      "question": "Is there any necrosis present?",
+      "next_question": "Is there any additional finding present?",
+      "count": 225
+    },
+    {
+      "question": "Is there any papillary lesion present?",
+      "next_question": "What is the histologic type of neoplasm?",
+      "count": 225
+    },
+    {
+      "question": "Is there any polyp present?",
+      "next_question": "Is there any active inflammation present?",
+      "count": 215
+    },
+    {
+      "question": "Is there any active inflammation present?",
+      "next_question": "Is there any lymphoid aggregate present?",
+      "count": 215
+    },
+    {
+      "question": "Is there any active inflammation present?",
+      "next_question": "Is there any ulceration present?",
+      "count": 215
+    },
+    {
+      "question": "Is there any active inflammation present?",
+      "next_question": "Is there any intestinal metaplasia present?",
+      "count": 215
+    },
+    {
+      "question": "Is there any active inflammation present?",
+      "next_question": "Is there any foveolar epithelial hyperplasia present?",
+      "count": 215
+    },
+    {
+      "question": "Is there any intestinal metaplasia present?",
+      "next_question": "Is there any additional finding present?",
+      "count": 215
+    },
+    {
+      "question": "Is there any foveolar epithelial hyperplasia present?",
+      "next_question": "Is there any additional finding present?",
+      "count": 215
+    },
+    {
+      "question": "Is there any ulceration present?",
+      "next_question": "Is there any additional finding present?",
+      "count": 184
+    },
+    {
+      "question": "What is the histologic group of lesion?",
+      "next_question": "What is the histologic type of lesion?",
+      "count": 180
+    },
+    {
+      "question": "Is there any lymphoid aggregate present?",
+      "next_question": "Is there any additional finding present?",
+      "count": 173
+    },
+    {
+      "question": "Is there any additional finding present?",
+      "next_question": "Is there any associated epithelial lesion present?",
+      "count": 169
+    },
+    {
+      "question": "Is there any necrosis present?",
+      "next_question": "What is the type of necrosis?",
+      "count": 166
+    },
+    {
+      "question": "What is the type of necrosis?",
+      "next_question": "Is there any additional finding present?",
+      "count": 166
+    },
+    {
+      "question": "Is there any associated epithelial lesion present?",
+      "next_question": "Is there any invasion present?",
+      "count": 133
+    },
+    {
+      "question": "Is there any villous component present?",
+      "next_question": "What is the proportion of villous component?",
+      "count": 121
+    },
+    {
+      "question": "What is the proportion of villous component?",
+      "next_question": "What is the histologic type of neoplasm?",
+      "count": 121
+    },
+    {
+      "question": "Is there any dysplasia present?",
+      "next_question": "What is the grading system?",
+      "count": 121
+    },
+    {
+      "question": "What is the grading system?",
+      "next_question": "What is the grade of dysplasia?",
+      "count": 121
+    },
+    {
+      "question": "What is the histologic subtype of neoplasm?",
+      "next_question": "What is the number of distinct histological components?",
+      "count": 102
+    },
+    {
+      "question": "What is the number of distinct histological components?",
+      "next_question": "What is the histological subtype of #1 component?",
+      "count": 102
+    },
+    {
+      "question": "What is the histological subtype of #1 component?",
+      "next_question": "What is the grading system of neoplasm?",
+      "count": 102
+    },
+    {
+      "question": "What is the grade of neoplasm?",
+      "next_question": "What is the histological subtype of #2 component?",
+      "count": 102
+    },
+    {
+      "question": "What is the histological subtype of #2 component?",
+      "next_question": "What is the number of diagnoses to includes?",
+      "count": 101
+    },
+    {
+      "question": "What is histologic type of lesion?",
+      "next_question": "Is there any additional finding present?",
+      "count": 83
+    },
+    {
+      "question": "Is there any neoplasm present?",
+      "next_question": "Is there any fungal organism present?",
+      "count": 79
+    },
+    {
+      "question": "Is there any neuroendocrine morphology present?",
+      "next_question": "What is the histologic type of neoplasm?",
+      "count": 78
+    },
+    {
+      "question": "Is there any neoplasm present?",
+      "next_question": "Is there any inflammation present?",
+      "count": 75
+    },
+    {
+      "question": "Is there any inflammation present?",
+      "next_question": "Is there any granuloma present?",
+      "count": 75
+    },
+    {
+      "question": "Is there any proliferative lesion present?",
+      "next_question": "Is there any inflammation present?",
+      "count": 74
+    },
+    {
+      "question": "Is there any proliferative lesion present?",
+      "next_question": "Is there any metaplasia present?",
+      "count": 74
+    },
+    {
+      "question": "Is there any proliferative lesion present?",
+      "next_question": "Is there any stromal change present?",
+      "count": 74
+    },
+    {
+      "question": "Is there any inflammation present?",
+      "next_question": "What is histologic type of lesion?",
+      "count": 74
+    },
+    {
+      "question": "Is there any metaplasia present?",
+      "next_question": "What is histologic type of lesion?",
+      "count": 74
+    },
+    {
+      "question": "Is there any stromal change present?",
+      "next_question": "What is histologic type of lesion?",
+      "count": 74
+    },
+    {
+      "question": "Is there any fungal organism present?",
+      "next_question": "Is there any inflammation present?",
+      "count": 72
+    },
+    {
+      "question": "Is there any dysplasia present?",
+      "next_question": "What is the number of diagnoses to includes?",
+      "count": 71
+    },
+    {
+      "question": "What is the #2 diagnosis?",
+      "next_question": "What is the #3 diagnosis?",
+      "count": 66
+    },
+    {
+      "question": "What is the #3 diagnosis?",
+      "next_question": "What is the final pathology report?",
+      "count": 64
+    },
+    {
+      "question": "Is there any inflammation present?",
+      "next_question": "Is there any active inflammation present?",
+      "count": 63
+    },
+    {
+      "question": "Is there any granuloma present?",
+      "next_question": "Is there any necrosis present?",
+      "count": 63
+    },
+    {
+      "question": "What is the histologic type of inflammation?",
+      "next_question": "What is the number of diagnoses to includes?",
+      "count": 60
+    },
+    {
+      "question": "Is there any polyp present?",
+      "next_question": "What is the histologic type?",
+      "count": 54
+    },
+    {
+      "question": "Is there any active inflammation present?",
+      "next_question": "What is the histologic type?",
+      "count": 54
+    },
+    {
+      "question": "What is the histologic type?",
+      "next_question": "What is the number of diagnoses to includes?",
+      "count": 54
+    },
+    {
+      "question": "Is there any inflammation present?",
+      "next_question": "What is the histologic type of inflammation?",
+      "count": 48
+    },
+    {
+      "question": "What is the histologic subtype of neoplasm?",
+      "next_question": "What is the number of diagnoses to includes?",
+      "count": 46
+    },
+    {
+      "question": "Is there any lymphoid aggregate present?",
+      "next_question": "Is there any lymphoid follicle present?",
+      "count": 42
+    },
+    {
+      "question": "Is there any lymphoid follicle present?",
+      "next_question": "Is there any additional finding present?",
+      "count": 42
+    },
+    {
+      "question": "Is there any associated epithelial lesion present?",
+      "next_question": "Is there any inflammation present?",
+      "count": 36
+    },
+    {
+      "question": "Is there any ulceration present?",
+      "next_question": "What is the depth of ulceration?",
+      "count": 31
+    },
+    {
+      "question": "What is the depth of ulceration?",
+      "next_question": "Is there any additional finding present?",
+      "count": 31
+    },
+    {
+      "question": "What is the histologic group of lesion?",
+      "next_question": "Is there any TDLU involving more than half of acini present?",
+      "count": 24
+    },
+    {
+      "question": "Is there any TDLU involving more than half of acini present?",
+      "next_question": "What is the histologic type of lesion?",
+      "count": 24
+    },
+    {
+      "question": "Is there any granuloma present?",
+      "next_question": "Is there any organizing fibrosis present?",
+      "count": 23
+    },
+    {
+      "question": "Is there any granuloma present?",
+      "next_question": "Is there any type II pneumocyte hyperplasia present?",
+      "count": 23
+    },
+    {
+      "question": "Is there any organizing fibrosis present?",
+      "next_question": "Is there any additional finding present?",
+      "count": 23
+    },
+    {
+      "question": "Is there any type II pneumocyte hyperplasia present?",
+      "next_question": "Is there any additional finding present?",
+      "count": 23
+    },
+    {
+      "question": "Is there any monotonous cell population present?",
+      "next_question": "Is there any myoepithelial cell in fibrovascular core present?",
+      "count": 15
+    },
+    {
+      "question": "Is there any myoepithelial cell in fibrovascular core present?",
+      "next_question": "Is there any focus measuring more than 3 mm in contiguous extent present?",
+      "count": 15
+    },
+    {
+      "question": "Is there any focus measuring more than 3 mm in contiguous extent present?",
+      "next_question": "What is the histologic type of lesion?",
+      "count": 15
+    },
+    {
+      "question": "What is the histologic type of neoplasm?",
+      "next_question": "What is the grading system of neoplasm?",
+      "count": 14
+    },
+    {
+      "question": "Is there any neoplasm present?",
+      "next_question": "Is there any benign epithelial lesion present?",
+      "count": 12
+    },
+    {
+      "question": "Is there any inflammation present?",
+      "next_question": "Is there any acute inflammation present?",
+      "count": 12
+    },
+    {
+      "question": "Is there any acute inflammation present?",
+      "next_question": "Is there any granuloma present?",
+      "count": 11
+    },
+    {
+      "question": "Is there any necrosis present?",
+      "next_question": "What is the histologic type of inflammation?",
+      "count": 11
+    },
+    {
+      "question": "Is there any monotonous cell population present?",
+      "next_question": "What is histologic type of lesion?",
+      "count": 9
+    },
+    {
+      "question": "Is there any benign epithelial lesion present?",
+      "next_question": "Is there any inflammation present?",
+      "count": 9
+    },
+    {
+      "question": "Is there any inflammation present?",
+      "next_question": "Is there any squamous metaplasia present?",
+      "count": 9
+    },
+    {
+      "question": "Is there any active inflammation present?",
+      "next_question": "Is there any additional finding present?",
+      "count": 9
+    },
+    {
+      "question": "Is there any squamous metaplasia present?",
+      "next_question": "Is there any additional finding present?",
+      "count": 9
+    },
+    {
+      "question": "Is there any fungal organism present?",
+      "next_question": "What is the morphologically consistent species?",
+      "count": 8
+    },
+    {
+      "question": "What is the morphologically consistent species?",
+      "next_question": "Is there any additional finding present?",
+      "count": 8
+    },
+    {
+      "question": "Is there any polyp present?",
+      "next_question": "What is the histologic type of polyp?",
+      "count": 8
+    },
+    {
+      "question": "What is the histologic type of polyp?",
+      "next_question": "What is the number of diagnoses to includes?",
+      "count": 8
+    },
+    {
+      "question": "Is there any additional finding present?",
+      "next_question": "Is there any inflammation present?",
+      "count": 6
+    },
+    {
+      "question": "Is there any additional finding present?",
+      "next_question": "What is the additional finding?",
+      "count": 4
+    },
+    {
+      "question": "What is the additional finding?",
+      "next_question": "What is the number of diagnoses to includes?",
+      "count": 4
+    },
+    {
+      "question": "Is there any benign epithelial lesion present?",
+      "next_question": "What is the histologic type of benign epithelial lesion?",
+      "count": 3
+    },
+    {
+      "question": "What is the histologic type of benign epithelial lesion?",
+      "next_question": "Is there any additional finding present?",
+      "count": 3
+    },
+    {
+      "question": "Is there any additional finding present?",
+      "next_question": "Is there any neoplasm present?",
+      "count": 3
+    },
+    {
+      "question": "Is there any additional finding present?",
+      "next_question": "What is histologic type of lesion?",
+      "count": 2
+    },
+    {
+      "question": "What is the #3 diagnosis?",
+      "next_question": "What is the #4 diagnosis?",
+      "count": 2
+    },
+    {
+      "question": "What is the #4 diagnosis?",
+      "next_question": "What is the final pathology report?",
+      "count": 2
+    },
+    {
+      "question": "Is there any additional finding present?",
+      "next_question": "What is the #1 diagnosis?",
+      "count": 1
+    },
+    {
+      "question": "What is the #1 diagnosis?",
+      "next_question": "What is the #1 diagnosis?",
+      "count": 1
+    },
+    {
+      "question": "What is the number of diagnoses to includes?",
+      "next_question": "What is the number of diagnoses to includes?",
+      "count": 1
+    },
+    {
+      "question": "What is the number of diagnoses to includes?",
+      "next_question": "What is the #2 diagnosis?",
+      "count": 1
+    },
+    {
+      "question": "What is the histologic subtype of neoplasm?",
+      "next_question": "What is the grading system?",
+      "count": 1
+    },
+    {
+      "question": "What is the grading system?",
+      "next_question": "What is the grade of neoplasm?",
+      "count": 1
+    },
+    {
+      "question": "Is there any additional finding present?",
+      "next_question": "Is there any fungal organism present?",
+      "count": 1
+    },
+    {
+      "question": "Is there any acute inflammation present?",
+      "next_question": "What is the histologic type of inflammation?",
+      "count": 1
+    },
+    {
+      "question": "What is the histological subtype of #2 component?",
+      "next_question": "What is the histological subtype of #3 component?",
+      "count": 1
+    },
+    {
+      "question": "What is the histological subtype of #3 component?",
+      "next_question": "What is the number of diagnoses to includes?",
+      "count": 1
+    }
+  ]
+}

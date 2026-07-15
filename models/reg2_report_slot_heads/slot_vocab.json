@@ -1,0 +1,180 @@
+{
+  "slots": [
+    "gleason_score",
+    "gleason_pattern3_present",
+    "gleason_pattern4_present",
+    "gleason_pattern5_present",
+    "secondary_pattern_gt5",
+    "grade_group",
+    "tumor_volume",
+    "pattern4_percent",
+    "breast_tubule_score",
+    "breast_nuclear_score",
+    "breast_mitotic_score",
+    "breast_overall_score",
+    "dcis_nuclear_grade",
+    "dcis_necrosis_present",
+    "dcis_necrosis_type"
+  ],
+  "slot_questions": {
+    "gleason_score": "what is the gleason score",
+    "gleason_pattern3_present": "is there any gleason pattern 3 present",
+    "gleason_pattern4_present": "is there any gleason pattern 4 present",
+    "gleason_pattern5_present": "is there any gleason pattern 5 present",
+    "secondary_pattern_gt5": "what is the secondary pattern constituting more than 5% of tumor",
+    "grade_group": "what is the grade group",
+    "tumor_volume": "what is the tumor volume",
+    "pattern4_percent": "what is the percentage of gleason pattern 4",
+    "breast_tubule_score": "what is the score for tubular differentiation",
+    "breast_nuclear_score": "what is the score for nuclear pleomorphism",
+    "breast_mitotic_score": "what is the score for mitotic rate",
+    "breast_overall_score": "what is the overall score",
+    "dcis_nuclear_grade": "what is the nuclear grade of lesion",
+    "dcis_necrosis_present": "is there any necrosis present",
+    "dcis_necrosis_type": "what is the type of necrosis"
+  },
+  "vocabs": {
+    "gleason_score": [
+      "6 (3+3)",
+      "7 (3+4)",
+      "8 (4+4)",
+      "7 (4+3)",
+      "9 (4+5)",
+      "9 (5+4)",
+      "10 (5+5)",
+      "8 (3+5)",
+      "<other>"
+    ],
+    "gleason_pattern3_present": [
+      "Yes, there is Gleason pattern 3.",
+      "No, there is no Gleason pattern 3.",
+      "<other>"
+    ],
+    "gleason_pattern4_present": [
+      "Yes, there is Gleason pattern 4.",
+      "No, there is no Gleason pattern 4.",
+      "<other>"
+    ],
+    "gleason_pattern5_present": [
+      "No, there is no Gleason pattern 5.",
+      "Yes, there is Gleason pattern 5.",
+      "<other>"
+    ],
+    "secondary_pattern_gt5": [
+      "Not identified",
+      "Gleason pattern 4",
+      "Gleason pattern 3",
+      "Gleason pattern 5",
+      "<other>"
+    ],
+    "grade_group": [
+      "Grade group 1",
+      "Grade group 2",
+      "Grade group 4",
+      "Grade group 3",
+      "Grade group 5",
+      "<other>"
+    ],
+    "tumor_volume": [
+      "100%",
+      "90%",
+      "50%",
+      "80%",
+      "70%",
+      "10%",
+      "20%",
+      "30%",
+      "60%",
+      "5%",
+      "40%",
+      "95%",
+      "15%",
+      "25%",
+      "3%",
+      "75%",
+      "65%",
+      "35%",
+      "85%",
+      "55%",
+      "7%",
+      "33%",
+      "1%",
+      "45%",
+      "66%",
+      "<other>"
+    ],
+    "pattern4_percent": [
+      "10%",
+      "20%",
+      "40%",
+      "30%",
+      "90%",
+      "70%",
+      "60%",
+      "80%",
+      "5%",
+      "15%",
+      "85%",
+      "75%",
+      "95%",
+      "25%",
+      "55%",
+      "65%",
+      "<other>"
+    ],
+    "breast_tubule_score": [
+      "3",
+      "2",
+      "1",
+      "<other>"
+    ],
+    "breast_nuclear_score": [
+      "2",
+      "3",
+      "1",
+      "<other>"
+    ],
+    "breast_mitotic_score": [
+      "1",
+      "2",
+      "3",
+      "<other>"
+    ],
+    "breast_overall_score": [
+      "6",
+      "7",
+      "5",
+      "8",
+      "4",
+      "9",
+      "3",
+      "<other>"
+    ],
+    "dcis_nuclear_grade": [
+      "Intermediate",
+      "High",
+      "Low",
+      "<other>"
+    ],
+    "dcis_necrosis_present": [
+      "Yes, there is a necrosis.",
+      "No, there is no necrosis.",
+      "<other>"
+    ],
+    "dcis_necrosis_type": [
+      "Comedo-type necrosis",
+      "Focal necrosis",
+      "Necrosis",
+      "<other>"
+    ]
+  },
+  "features": "features/report_fused_titan_h1_v2_256",
+  "feat_keys": [
+    "fused"
+  ],
+  "organ": "all",
+  "hidden": 1024,
+  "num_layers": 1,
+  "dropout": 0.15,
+  "seed": 0
+}

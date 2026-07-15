@@ -1,0 +1,17 @@
+# Test outputs are generated locally and should not be committed
+test/output/
+
+# Foundation-model weights are downloaded locally and must not be redistributed.
+models/TITAN/
+models/H-optimus/
+models/Virchow2/
+
+# Export artefacts produced by do_save.sh
+*.tar.gz
+
+# Python bytecode caches
+__pycache__/
+*.pyc
+
+# Test caches
+.pytest_cache/

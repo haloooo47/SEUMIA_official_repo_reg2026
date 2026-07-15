@@ -1,0 +1,34 @@
+{
+  "cot_source": "train_CoT.json",
+  "num_cases": 11220,
+  "num_train": 9570,
+  "num_val": 1650,
+  "num_train_with_report": 9564,
+  "num_edge_keys": 190,
+  "num_report_buckets": 1074,
+  "num_path_buckets": 760,
+  "num_unique_global_reports": 667,
+  "train_organ_distribution": {
+    "Prostate": 2062,
+    "Breast": 1871,
+    "Colon": 1507,
+    "Stomach": 1490,
+    "Urinary bladder": 916,
+    "Lung": 828,
+    "Uterine cervix": 688,
+    "Rectum": 206,
+    "Nipple": 1,
+    "Anus": 1
+  },
+  "val_organ_distribution": {
+    "Prostate": 356,
+    "Breast": 341,
+    "Stomach": 267,
+    "Colon": 244,
+    "Urinary bladder": 163,
+    "Uterine cervix": 124,
+    "Lung": 117,
+    "Rectum": 38
+  },
+  "min_report_support": 1
+}

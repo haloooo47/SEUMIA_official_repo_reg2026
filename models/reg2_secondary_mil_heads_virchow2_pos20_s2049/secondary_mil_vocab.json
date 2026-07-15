@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "name": "breast_dcis_secondary",
+      "organ": "Breast",
+      "finding": "Ductal carcinoma in situ"
+    },
+    {
+      "name": "breast_microcalcification",
+      "organ": "Breast",
+      "finding": "Microcalcification"
+    },
+    {
+      "name": "bladder_urothelial_cis_secondary",
+      "organ": "Urinary bladder",
+      "finding": "Urothelial carcinoma in situ"
+    },
+    {
+      "name": "bladder_foreign_body_granulomatous_inflammation",
+      "organ": "Urinary bladder",
+      "finding": "Chronic granulomatous inflammation with foreign body reaction"
+    }
+  ]
+}

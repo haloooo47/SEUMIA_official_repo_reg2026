@@ -1,0 +1,14 @@
+{
+  "pipeline_version": "v0.2",
+  "cot_source": "train_CoT_v01.json",
+  "num_cases": 11220,
+  "num_steps_min": 6,
+  "num_steps_mean": 16.59349376114082,
+  "num_steps_max": 41,
+  "num_questions": 92,
+  "num_edges": 191,
+  "num_unique_paths": 113,
+  "num_selected_paths": 81,
+  "case_lookup_included": false,
+  "default_path_id": "path_5cf503fd33ea"
+}

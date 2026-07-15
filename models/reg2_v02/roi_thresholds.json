@@ -1,0 +1,7 @@
+{
+  "tissue_fraction_min": 0.03,
+  "artifact_brightness_max": 35.0,
+  "background_brightness_min": 235.0,
+  "chroma_min": 12.0,
+  "uncertain_margin": 0.01
+}

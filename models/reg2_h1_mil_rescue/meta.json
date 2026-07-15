@@ -1,0 +1,12 @@
+{
+  "features": "features/hoptimus1_full_256",
+  "patch_key": "patch_features_h1",
+  "train": 9569,
+  "classes": 133,
+  "epochs": 45,
+  "hidden": 512,
+  "train_max_patches": 160,
+  "patch_dropout": 0.1,
+  "feature_noise": 0.015,
+  "label_smoothing": 0.01
+}
