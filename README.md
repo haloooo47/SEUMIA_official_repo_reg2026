@@ -1,9 +1,25 @@
-# SEUMIA REG2026 submission
+# SEUMIA REG2026 Submission
 
-This private repository contains the training, inference, evaluation, and
-container-packaging code for the submitted SEUMIA method. The production entry
-point is `src/interf1/model.py`, which calls the production v20 pipeline and the
-active profile at `models/reg2_ensemble_profile/package_default.json`.
+## Submission information
+
+| Field | Value |
+| --- | --- |
+| Team Name | SEUMIA |
+| Grand Challenge Username | Xcccc Xue |
+| Grand Challenge Profile | https://grand-challenge.org/users/SEUMIA/ |
+
+## Method description
+
+SEUMIA is a production v20 ensemble for the REG2026 challenge. Its production
+entry point is `src/interf1/model.py`, which uses the active runtime profile at
+`models/reg2_ensemble_profile/package_default.json`.
+
+The method extracts frozen features with TITAN, H-optimus-1, and Virchow2, then
+combines multi-task, ABMIL, report-classification, report-slot,
+hard-confusion, secondary-finding, and ROI-gate components. The repository
+contains the trained compact heads, calibrators, priors, and active ensemble
+profile, together with the code for training, inference, evaluation, and
+container packaging.
 
 ## Repository layout
 
@@ -14,7 +30,7 @@ active profile at `models/reg2_ensemble_profile/package_default.json`.
 - `tests/`: unit tests for the production pipeline and its verifiers
 - `Dockerfile`, `do_build.sh`, `do_test_run.sh`, `do_save.sh`: submission packaging
 
-## Environment setup
+## Inference instructions
 
 Inference uses the CUDA-enabled PyTorch base image declared in `Dockerfile`.
 Build it with:
@@ -33,7 +49,18 @@ python -m pip install -r requirements-training.txt
 The original training environment used PyTorch 2.4.1 with CUDA 11.8. The
 submission image uses PyTorch 2.5.1 with CUDA 12.1.
 
-## Foundation models
+### Model weight download instructions
+
+The public SEUMIA submission package is available as the GitHub Container
+package [reg2-paper](https://github.com/users/haloooo47/packages/container/package/reg2-paper).
+Pull the published package with:
+
+```bash
+docker pull ghcr.io/haloooo47/reg2-paper:paper-v1-no-foundation
+```
+
+The published package does not include the upstream foundation weights. The
+three foundation models below must be downloaded separately before inference.
 
 Inference requires TITAN, H-optimus-1, and Virchow2. They are not redistributed
 here because of file-size and upstream-license restrictions. Each verifier must
@@ -48,7 +75,7 @@ The downloader pins publisher revisions. See `models/README.md` for the expected
 directory layout. Never commit an access token or the downloaded foundation
 weights.
 
-## Asset verification
+### Asset verification
 
 After downloading the foundation models:
 
@@ -64,7 +91,7 @@ python scripts/check_reg2_ensemble_profile.py \
 sha256sum --check models/SHA256SUMS
 ```
 
-## Inference and container reproduction
+### Local inference and container reproduction
 
 The challenge mounts model contents at `/opt/ml/model`. For a local forward
 pass, place the official interface fixtures under `test/input/interf0` and
